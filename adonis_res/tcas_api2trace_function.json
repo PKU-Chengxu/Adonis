@@ -1,0 +1,17 @@
+{
+  "atoi": [
+    "atoi$"
+  ],
+  "exit": [
+    "exit$"
+  ],
+  "fprintf": [
+    "fprintf$",
+    "fputc$",
+    "fputs$",
+    "fwrite$"
+  ],
+  "fwrite": [
+    "fwrite$"
+  ]
+}

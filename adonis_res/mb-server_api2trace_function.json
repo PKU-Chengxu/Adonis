@@ -1,0 +1,127 @@
+{
+  "accept4": [
+    "accept4$"
+  ],
+  "bind": [
+    "bind$"
+  ],
+  "cfsetispeed": [
+    "cfsetispeed$"
+  ],
+  "cfsetospeed": [
+    "cfsetospeed$"
+  ],
+  "close": [
+    "close$"
+  ],
+  "connect": [
+    "connect$"
+  ],
+  "fprintf": [
+    "fprintf$",
+    "fputc$",
+    "fputs$",
+    "fwrite$"
+  ],
+  "fputc": [
+    "fputc$"
+  ],
+  "freeaddrinfo": [
+    "freeaddrinfo$"
+  ],
+  "fwrite": [
+    "fwrite$"
+  ],
+  "gai_strerror": [
+    "gai_strerror$"
+  ],
+  "getaddrinfo": [
+    "getaddrinfo$"
+  ],
+  "getsockopt": [
+    "getsockopt$"
+  ],
+  "htonl": [
+    "htonl$"
+  ],
+  "htons": [
+    "htons$"
+  ],
+  "inet_addr": [
+    "inet_addr$"
+  ],
+  "inet_ntoa": [
+    "inet_ntoa$"
+  ],
+  "listen": [
+    "listen$"
+  ],
+  "memset": [
+    "memset$"
+  ],
+  "nanosleep": [
+    "nanosleep$"
+  ],
+  "open": [
+    "open$"
+  ],
+  "perror": [
+    "perror$"
+  ],
+  "printf": [
+    "printf$",
+    "putc$",
+    "puts$"
+  ],
+  "putchar": [
+    "putchar$"
+  ],
+  "puts": [
+    "puts$"
+  ],
+  "read": [
+    "read$"
+  ],
+  "recv": [
+    "recv$"
+  ],
+  "select": [
+    "select$"
+  ],
+  "send": [
+    "send$"
+  ],
+  "setsockopt": [
+    "setsockopt$"
+  ],
+  "shutdown": [
+    "shutdown$"
+  ],
+  "socket": [
+    "socket$"
+  ],
+  "strcmp": [
+    "strcmp$"
+  ],
+  "strerror": [
+    "strerror$"
+  ],
+  "strlen": [
+    "strlen$"
+  ],
+  "tcflush": [
+    "tcflush$"
+  ],
+  "tcgetattr": [
+    "tcgetattr$"
+  ],
+  "tcsetattr": [
+    "tcsetattr$"
+  ],
+  "usleep": [
+    "usleep$"
+  ],
+  "write": [
+    "write$"
+  ]
+}

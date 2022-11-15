@@ -1,0 +1,16 @@
+{
+  "fgets": [
+    "fgets$"
+  ],
+  "fputs": [
+    "fputs$"
+  ],
+  "fwrite": [
+    "fwrite$"
+  ],
+  "printf": [
+    "printf$",
+    "putc$",
+    "puts$"
+  ]
+}

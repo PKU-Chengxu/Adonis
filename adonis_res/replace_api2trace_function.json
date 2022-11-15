@@ -1,0 +1,23 @@
+{
+  "abort": [
+    "abort$"
+  ],
+  "exit": [
+    "exit$"
+  ],
+  "fgets": [
+    "fgets$"
+  ],
+  "fprintf": [
+    "fprintf$",
+    "fputc$",
+    "fputs$",
+    "fwrite$"
+  ],
+  "fputc": [
+    "fputc$"
+  ],
+  "fwrite": [
+    "fwrite$"
+  ]
+}

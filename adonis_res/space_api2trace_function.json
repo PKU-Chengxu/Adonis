@@ -1,0 +1,41 @@
+{
+  "atof": [
+    "atof$"
+  ],
+  "atoi": [
+    "atoi$"
+  ],
+  "exit": [
+    "exit$"
+  ],
+  "fclose": [
+    "fclose$"
+  ],
+  "fgets": [
+    "fgets$"
+  ],
+  "fopen": [
+    "fopen$"
+  ],
+  "getc": [
+    "getc$"
+  ],
+  "printf": [
+    "printf$",
+    "putc$",
+    "puts$",
+    "putchar$"
+  ],
+  "putchar": [
+    "putchar$"
+  ],
+  "puts": [
+    "puts$"
+  ],
+  "strcmp": [
+    "strcmp$"
+  ],
+  "strlen": [
+    "strlen$"
+  ]
+}

@@ -1,0 +1,3 @@
+cp $experiment_root/gzip/inputs/length/* $experiment_root/gzip/outputs/test58
+
+$experiment_root/gzip/testplans.alt/testscripts/cleanup.sh

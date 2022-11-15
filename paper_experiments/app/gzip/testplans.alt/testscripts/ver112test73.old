@@ -1,0 +1,6 @@
+echo ""
+echo ">>>>>>>>>>>Copying misplaced file to outputs dir"
+echo ""
+cp ${ARISTOTLE_DB_DIR}/inputs/gzfile/34filea ${ARISTOTLE_DB_DIR}/outputs/gzfile/long.nebraska.sure
+ 
+rm -f ${ARISTOTLE_DB_DIR}/inputs/gzfile/34filea

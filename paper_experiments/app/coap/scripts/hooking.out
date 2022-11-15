@@ -1,0 +1,12 @@
+socket((2;2;0))==4$htonl((_))==_$htons((_))==_$bind((4;_;_))==0$strncat((_;<;1499))==_$strncat((_;/;1498))==_$strncat((_;.well-known;1497))==_$strlen((.well-known))==11$strncat((_;/;1486))==_$strncat((_;core;1485))==_$strlen((core))==4$strncat((_;>;;1481))==_$strncat((_;ct=40;1479))==_$strlen((ct=40))==5$strncat((_;,;1474))==_$strncat((_;<;1473))==_$strncat((_;/;1472))==_$strncat((_;light;1471))==_$strlen((light))==5$strncat((_;>;;1466))==_$strncat((_;ct=0;1464))==_$strlen((ct=0))==4$printf((waiting at port %d
+))==21$recvfrom((4;_;4096;0;_;_))==_$printf((Received: ))==10$printf((%02X%s))==3$printf((%02X%s))==3$printf((%02X%s))==3$printf((%02X%s))==3$printf((%02X%s))==3$printf((%02X%s))==3$printf((%02X%s))==3$printf((%02X%s))==3$printf((%02X%s))==3$printf((%02X%s))==2$putchar((10))==10$puts((Header:))==8$printf((  ver  0x%02X
+))==12$printf((  t    0x%02X
+))==12$printf((  tkl  0x%02X
+))==12$printf((  code 0x%02X
+))==12$printf((  id   0x%02X%02X
+))==14$puts(( Options:))==10$printf((  0x%02X [ ))==9$printf((%02X%s))==3$printf((%02X%s))==3$printf((%02X%s))==3$printf((%02X%s))==3$printf((%02X%s))==2$puts(( ]))==3$printf((Payload: ))==9$putchar((10))==10$strlen((light))==5$memcmp((_;_;5))==4$printf((Sending: ))==9$printf((%02X%s))==3$printf((%02X%s))==3$printf((%02X%s))==3$printf((%02X%s))==3$printf((%02X%s))==3$printf((%02X%s))==3$printf((%02X%s))==2$putchar((10))==10$puts((Header:))==8$printf((  ver  0x%02X
+))==12$printf((  t    0x%02X
+))==12$printf((  tkl  0x%02X
+))==12$printf((  code 0x%02X
+))==12$printf((  id   0x%02X%02X
+))==14$puts(( Options:))==10$printf((  0x%02X [ ))==9$printf((%02X%s))==3$printf((%02X%s))==2$puts(( ]))==3$printf((Payload: ))==9$putchar((10))==10$sendto((4;_;7;0;_;_))==_$

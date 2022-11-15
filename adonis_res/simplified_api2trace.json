@@ -1,0 +1,80 @@
+{
+  "signal": [
+    "rt_sigaction$"
+  ],
+  "fprintf": [
+    "write$"
+  ],
+  "fwrite": [
+    "write$"
+  ],
+  "fputc": [
+    "write$"
+  ],
+  "isatty": [
+    "ioctl$"
+  ],
+  "read": [
+    "read$"
+  ],
+  "getc": [
+    "read$"
+  ],
+  "fclose": [
+    "close$"
+  ],
+  "write": [
+    "write$"
+  ],
+  "open": [
+    "openat$"
+  ],
+  "close": [
+    "close$"
+  ],
+  "utime": [
+    "utime$"
+  ],
+  "chmod": [
+    "chmod$"
+  ],
+  "chown": [
+    "chown$"
+  ],
+  "unlink": [
+    "unlink$"
+  ],
+  "opendir": [
+    "openat$fstat$brk$brk$",
+    "openat$fstat$"
+  ],
+  "closedir": [
+    "close$"
+  ],
+  "perror": [
+    "write$",
+    "dup$fcntl$close$write$"
+  ],
+  "printf": [
+    "write$",
+    "fstat$brk$brk$write$"
+  ], 
+  "fopen": [
+    "openat$"
+  ],
+  "fgets": [
+    "read$"
+  ],
+  "fstat": [
+    "fstat$"
+  ],
+  "stat": [
+    "stat$"
+  ],
+  "lstat": [
+    "lstat$"
+  ],
+  "readdir": [
+    "getdents64$"
+  ]
+}

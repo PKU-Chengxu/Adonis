@@ -1,0 +1,16 @@
+strrchr((_;47))==_$strlen((gzip))==4$getenv((GZIP))==_$signal((2;_))==_$signal((2;_))==_$signal((15;_))==_$signal((1;_))==_$strncmp((gzip;un;2))==-14$strncmp((gzip;gun;3))==5$strcmp((zip;cat))==23$strcmp((gzip;gzcat))==6$getenv((POSIXLY_CORRECT))==_$strcmp((-h;--))==59$strchr((_;104))==_$fprintf((_;%s %s (%s)
+))==23$fprintf((_;usage: %s [-cdfhLrtvV19] [file ...]
+))==38$fprintf((_;%s
+))==74$fprintf((_;%s
+))==29$fprintf((_;%s
+))==68$fprintf((_;%s
+))==33$fprintf((_;%s
+))==43$fprintf((_;%s
+))==40$fprintf((_;%s
+))==46$fprintf((_;%s
+))==49$fprintf((_;%s
+))==31$fprintf((_;%s
+))==41$fprintf((_;%s
+))==34$fprintf((_;%s
+))==34$fprintf((_;%s
+))==76$exit((0))

@@ -1,0 +1,1177 @@
+{
+  "test_001": {
+    "ground_truth": "../cov_trace//trace_001.json",
+    "ana_result": "../../../../result/mqtt-sn-pub/trace_001",
+    "recall": [
+      0.9696969696969697
+    ],
+    "precision": [
+      0.7569060773480663
+    ],
+    "accuracy": [
+      0.9946178686759957
+    ],
+    "max_recall_files": [
+      "../../../../result/mqtt-sn-pub/trace_001/full_path_coverage_00.json"
+    ],
+    "max_precision_files": [
+      "../../../../result/mqtt-sn-pub/trace_001/MPP_coverage_00.json"
+    ],
+    "max_acc_files": [
+      "../../../../result/mqtt-sn-pub/trace_001/full_path_00.json"
+    ],
+    "uncovered_lines": [
+      1017
+    ],
+    "wrong_lines": [
+      [
+        181,
+        184
+      ],
+      [
+        186,
+        190
+      ],
+      [
+        192,
+        196
+      ],
+      [
+        198,
+        202
+      ],
+      [
+        204,
+        206
+      ],
+      [
+        310,
+        315
+      ],
+      [
+        61,
+        64
+      ],
+      [
+        997,
+        1008
+      ]
+    ]
+  },
+  "test_002": {
+    "ground_truth": "../cov_trace//trace_002.json",
+    "ana_result": "../../../../result/mqtt-sn-pub/trace_002",
+    "recall": [
+      0.90625
+    ],
+    "precision": [
+      0.7790055248618785
+    ],
+    "accuracy": [
+      0.9811625403659849
+    ],
+    "max_recall_files": [
+      "../../../../result/mqtt-sn-pub/trace_002/full_path_coverage_00.json"
+    ],
+    "max_precision_files": [
+      "../../../../result/mqtt-sn-pub/trace_002/MPP_coverage_00.json"
+    ],
+    "max_acc_files": [
+      "../../../../result/mqtt-sn-pub/trace_002/full_path_00.json"
+    ],
+    "uncovered_lines": [
+      180,
+      181,
+      1017
+    ],
+    "wrong_lines": [
+      [
+        186,
+        190
+      ],
+      [
+        192,
+        196
+      ],
+      [
+        198,
+        202
+      ],
+      [
+        204,
+        206
+      ],
+      [
+        310,
+        315
+      ],
+      [
+        61,
+        64
+      ],
+      [
+        997,
+        1008
+      ]
+    ]
+  },
+  "test_003": {
+    "ground_truth": "../cov_trace//trace_003.json",
+    "ana_result": "../../../../result/mqtt-sn-pub/trace_003",
+    "recall": [
+      0.9951456310679612
+    ],
+    "precision": [
+      1.0
+    ],
+    "accuracy": [
+      0.8783638320775027
+    ],
+    "max_recall_files": [
+      "../../../../result/mqtt-sn-pub/trace_003/full_path_coverage_00.json"
+    ],
+    "max_precision_files": [
+      "../../../../result/mqtt-sn-pub/trace_003/MPP_coverage_00.json"
+    ],
+    "max_acc_files": [
+      "../../../../result/mqtt-sn-pub/trace_003/full_path_00.json"
+    ],
+    "uncovered_lines": [
+      1017
+    ],
+    "wrong_lines": []
+  },
+  "test_004": {
+    "ground_truth": "../cov_trace//trace_004.json",
+    "ana_result": "../../../../result/mqtt-sn-pub/trace_004",
+    "recall": [
+      0.9952153110047847
+    ],
+    "precision": [
+      1.0
+    ],
+    "accuracy": [
+      0.879978471474704
+    ],
+    "max_recall_files": [
+      "../../../../result/mqtt-sn-pub/trace_004/full_path_coverage_00.json"
+    ],
+    "max_precision_files": [
+      "../../../../result/mqtt-sn-pub/trace_004/MPP_coverage_00.json"
+    ],
+    "max_acc_files": [
+      "../../../../result/mqtt-sn-pub/trace_004/full_path_00.json"
+    ],
+    "uncovered_lines": [
+      1017
+    ],
+    "wrong_lines": []
+  },
+  "test_005": {
+    "ground_truth": "../cov_trace//trace_005.json",
+    "ana_result": "../../../../result/mqtt-sn-pub/trace_005",
+    "recall": [
+      0.9952153110047847
+    ],
+    "precision": [
+      1.0
+    ],
+    "accuracy": [
+      0.879978471474704
+    ],
+    "max_recall_files": [
+      "../../../../result/mqtt-sn-pub/trace_005/full_path_coverage_00.json"
+    ],
+    "max_precision_files": [
+      "../../../../result/mqtt-sn-pub/trace_005/MPP_coverage_00.json"
+    ],
+    "max_acc_files": [
+      "../../../../result/mqtt-sn-pub/trace_005/full_path_00.json"
+    ],
+    "uncovered_lines": [
+      1017
+    ],
+    "wrong_lines": []
+  },
+  "test_006": {
+    "ground_truth": "../cov_trace//trace_006.json",
+    "ana_result": "../../../../result/mqtt-sn-pub/trace_006",
+    "recall": [
+      0.9932885906040269
+    ],
+    "precision": [
+      0.47058823529411764
+    ],
+    "accuracy": [
+      0.8557588805166846
+    ],
+    "max_recall_files": [
+      "../../../../result/mqtt-sn-pub/trace_006/full_path_coverage_00.json"
+    ],
+    "max_precision_files": [
+      "../../../../result/mqtt-sn-pub/trace_006/MPP_coverage_00.json"
+    ],
+    "max_acc_files": [
+      "../../../../result/mqtt-sn-pub/trace_006/full_path_00.json"
+    ],
+    "uncovered_lines": [
+      1017
+    ],
+    "wrong_lines": [
+      [
+        310,
+        315
+      ],
+      [
+        997,
+        1008
+      ]
+    ]
+  },
+  "test_007": {
+    "ground_truth": "../cov_trace//trace_007.json",
+    "ana_result": "../../../../result/mqtt-sn-pub/trace_007",
+    "recall": [
+      0.9931972789115646
+    ],
+    "precision": [
+      0.47058823529411764
+    ],
+    "accuracy": [
+      0.8557588805166846
+    ],
+    "max_recall_files": [
+      "../../../../result/mqtt-sn-pub/trace_007/full_path_coverage_00.json"
+    ],
+    "max_precision_files": [
+      "../../../../result/mqtt-sn-pub/trace_007/MPP_coverage_00.json"
+    ],
+    "max_acc_files": [
+      "../../../../result/mqtt-sn-pub/trace_007/full_path_00.json"
+    ],
+    "uncovered_lines": [
+      1017
+    ],
+    "wrong_lines": [
+      [
+        310,
+        315
+      ],
+      [
+        997,
+        1008
+      ]
+    ]
+  },
+  "test_008": {
+    "ground_truth": "../cov_trace//trace_008.json",
+    "ana_result": "../../../../result/mqtt-sn-pub/trace_008",
+    "recall": [
+      0.9894736842105263
+    ],
+    "precision": [
+      0.47058823529411764
+    ],
+    "accuracy": [
+      0.8369214208826695
+    ],
+    "max_recall_files": [
+      "../../../../result/mqtt-sn-pub/trace_008/full_path_coverage_00.json"
+    ],
+    "max_precision_files": [
+      "../../../../result/mqtt-sn-pub/trace_008/MPP_coverage_00.json"
+    ],
+    "max_acc_files": [
+      "../../../../result/mqtt-sn-pub/trace_008/full_path_00.json"
+    ],
+    "uncovered_lines": [
+      1017
+    ],
+    "wrong_lines": [
+      [
+        310,
+        315
+      ],
+      [
+        997,
+        1008
+      ]
+    ]
+  },
+  "test_009": {
+    "ground_truth": "../cov_trace//trace_009.json",
+    "ana_result": "../../../../result/mqtt-sn-pub/trace_009",
+    "recall": [
+      0.9915966386554622
+    ],
+    "precision": [
+      1.0
+    ],
+    "accuracy": [
+      0.8455328310010765
+    ],
+    "max_recall_files": [
+      "../../../../result/mqtt-sn-pub/trace_009/full_path_coverage_00.json"
+    ],
+    "max_precision_files": [
+      "../../../../result/mqtt-sn-pub/trace_009/MPP_coverage_00.json"
+    ],
+    "max_acc_files": [
+      "../../../../result/mqtt-sn-pub/trace_009/full_path_00.json"
+    ],
+    "uncovered_lines": [
+      1017
+    ],
+    "wrong_lines": []
+  },
+  "test_010": {
+    "ground_truth": "../cov_trace//trace_010.json",
+    "ana_result": "../../../../result/mqtt-sn-pub/trace_010",
+    "recall": [
+      0.9962406015037594
+    ],
+    "precision": [
+      1.0
+    ],
+    "accuracy": [
+      0.8934337997847147
+    ],
+    "max_recall_files": [
+      "../../../../result/mqtt-sn-pub/trace_010/full_path_coverage_00.json"
+    ],
+    "max_precision_files": [
+      "../../../../result/mqtt-sn-pub/trace_010/MPP_coverage_00.json"
+    ],
+    "max_acc_files": [
+      "../../../../result/mqtt-sn-pub/trace_010/full_path_00.json"
+    ],
+    "uncovered_lines": [
+      1017
+    ],
+    "wrong_lines": []
+  },
+  "test_011": {
+    "ground_truth": "../cov_trace//trace_011.json",
+    "ana_result": "../../../../result/mqtt-sn-pub/trace_011",
+    "recall": [
+      0.9962406015037594
+    ],
+    "precision": [
+      1.0
+    ],
+    "accuracy": [
+      0.8934337997847147
+    ],
+    "max_recall_files": [
+      "../../../../result/mqtt-sn-pub/trace_011/full_path_coverage_00.json"
+    ],
+    "max_precision_files": [
+      "../../../../result/mqtt-sn-pub/trace_011/MPP_coverage_00.json"
+    ],
+    "max_acc_files": [
+      "../../../../result/mqtt-sn-pub/trace_011/full_path_00.json"
+    ],
+    "uncovered_lines": [
+      1017
+    ],
+    "wrong_lines": []
+  },
+  "test_012": {
+    "ground_truth": "../cov_trace//trace_012.json",
+    "ana_result": "../../../../result/mqtt-sn-pub/trace_012",
+    "recall": [
+      0.9959514170040485
+    ],
+    "precision": [
+      1.0
+    ],
+    "accuracy": [
+      0.8885898815931109
+    ],
+    "max_recall_files": [
+      "../../../../result/mqtt-sn-pub/trace_012/full_path_coverage_00.json"
+    ],
+    "max_precision_files": [
+      "../../../../result/mqtt-sn-pub/trace_012/MPP_coverage_00.json"
+    ],
+    "max_acc_files": [
+      "../../../../result/mqtt-sn-pub/trace_012/full_path_00.json"
+    ],
+    "uncovered_lines": [
+      1017
+    ],
+    "wrong_lines": []
+  },
+  "test_013": {
+    "ground_truth": "../cov_trace//trace_013.json",
+    "ana_result": "../../../../result/mqtt-sn-pub/trace_013",
+    "recall": [
+      0.9959514170040485
+    ],
+    "precision": [
+      1.0
+    ],
+    "accuracy": [
+      0.8885898815931109
+    ],
+    "max_recall_files": [
+      "../../../../result/mqtt-sn-pub/trace_013/full_path_coverage_00.json"
+    ],
+    "max_precision_files": [
+      "../../../../result/mqtt-sn-pub/trace_013/MPP_coverage_00.json"
+    ],
+    "max_acc_files": [
+      "../../../../result/mqtt-sn-pub/trace_013/full_path_00.json"
+    ],
+    "uncovered_lines": [
+      1017
+    ],
+    "wrong_lines": []
+  },
+  "test_014": {
+    "ground_truth": "../cov_trace//trace_014.json",
+    "ana_result": "../../../../result/mqtt-sn-pub/trace_014",
+    "recall": [
+      0.9961685823754789
+    ],
+    "precision": [
+      1.0
+    ],
+    "accuracy": [
+      0.8902045209903121
+    ],
+    "max_recall_files": [
+      "../../../../result/mqtt-sn-pub/trace_014/full_path_coverage_00.json"
+    ],
+    "max_precision_files": [
+      "../../../../result/mqtt-sn-pub/trace_014/MPP_coverage_00.json"
+    ],
+    "max_acc_files": [
+      "../../../../result/mqtt-sn-pub/trace_014/full_path_00.json"
+    ],
+    "uncovered_lines": [
+      1017
+    ],
+    "wrong_lines": []
+  },
+  "test_015": {
+    "ground_truth": "../cov_trace//trace_015.json",
+    "ana_result": "../../../../result/mqtt-sn-pub/trace_015",
+    "recall": [
+      0.9959514170040485
+    ],
+    "precision": [
+      1.0
+    ],
+    "accuracy": [
+      0.8885898815931109
+    ],
+    "max_recall_files": [
+      "../../../../result/mqtt-sn-pub/trace_015/full_path_coverage_00.json"
+    ],
+    "max_precision_files": [
+      "../../../../result/mqtt-sn-pub/trace_015/MPP_coverage_00.json"
+    ],
+    "max_acc_files": [
+      "../../../../result/mqtt-sn-pub/trace_015/full_path_00.json"
+    ],
+    "uncovered_lines": [
+      1017
+    ],
+    "wrong_lines": []
+  },
+  "test_016": {
+    "ground_truth": "../cov_trace//trace_016.json",
+    "ana_result": "../../../../result/mqtt-sn-pub/trace_016",
+    "recall": [
+      0.9959677419354839
+    ],
+    "precision": [
+      1.0
+    ],
+    "accuracy": [
+      0.8885898815931109
+    ],
+    "max_recall_files": [
+      "../../../../result/mqtt-sn-pub/trace_016/full_path_coverage_00.json"
+    ],
+    "max_precision_files": [
+      "../../../../result/mqtt-sn-pub/trace_016/MPP_coverage_00.json"
+    ],
+    "max_acc_files": [
+      "../../../../result/mqtt-sn-pub/trace_016/full_path_00.json"
+    ],
+    "uncovered_lines": [
+      1017
+    ],
+    "wrong_lines": []
+  },
+  "test_017": {
+    "ground_truth": "../cov_trace//trace_017.json",
+    "ana_result": "../../../../result/mqtt-sn-pub/trace_017",
+    "recall": [
+      0.996031746031746
+    ],
+    "precision": [
+      1.0
+    ],
+    "accuracy": [
+      0.8928955866523143
+    ],
+    "max_recall_files": [
+      "../../../../result/mqtt-sn-pub/trace_017/full_path_coverage_00.json"
+    ],
+    "max_precision_files": [
+      "../../../../result/mqtt-sn-pub/trace_017/MPP_coverage_00.json"
+    ],
+    "max_acc_files": [
+      "../../../../result/mqtt-sn-pub/trace_017/full_path_00.json"
+    ],
+    "uncovered_lines": [
+      1017
+    ],
+    "wrong_lines": []
+  },
+  "test_018": {
+    "ground_truth": "../cov_trace//trace_018.json",
+    "ana_result": "../../../../result/mqtt-sn-pub/trace_018",
+    "recall": [
+      0.9962264150943396
+    ],
+    "precision": [
+      1.0
+    ],
+    "accuracy": [
+      0.8939720129171151
+    ],
+    "max_recall_files": [
+      "../../../../result/mqtt-sn-pub/trace_018/full_path_coverage_00.json"
+    ],
+    "max_precision_files": [
+      "../../../../result/mqtt-sn-pub/trace_018/MPP_coverage_00.json"
+    ],
+    "max_acc_files": [
+      "../../../../result/mqtt-sn-pub/trace_018/full_path_00.json"
+    ],
+    "uncovered_lines": [
+      1017
+    ],
+    "wrong_lines": []
+  },
+  "test_019": {
+    "ground_truth": "../cov_trace//trace_019.json",
+    "ana_result": "../../../../result/mqtt-sn-pub/trace_019",
+    "recall": [
+      0.9957983193277311
+    ],
+    "precision": [
+      1.0
+    ],
+    "accuracy": [
+      0.8853606027987083
+    ],
+    "max_recall_files": [
+      "../../../../result/mqtt-sn-pub/trace_019/full_path_coverage_00.json"
+    ],
+    "max_precision_files": [
+      "../../../../result/mqtt-sn-pub/trace_019/MPP_coverage_00.json"
+    ],
+    "max_acc_files": [
+      "../../../../result/mqtt-sn-pub/trace_019/full_path_00.json"
+    ],
+    "uncovered_lines": [
+      1017
+    ],
+    "wrong_lines": []
+  },
+  "test_020": {
+    "ground_truth": "../cov_trace//trace_020.json",
+    "ana_result": "../../../../result/mqtt-sn-pub/trace_020",
+    "recall": [
+      0.9957983193277311
+    ],
+    "precision": [
+      1.0
+    ],
+    "accuracy": [
+      0.8853606027987083
+    ],
+    "max_recall_files": [
+      "../../../../result/mqtt-sn-pub/trace_020/full_path_coverage_00.json"
+    ],
+    "max_precision_files": [
+      "../../../../result/mqtt-sn-pub/trace_020/MPP_coverage_00.json"
+    ],
+    "max_acc_files": [
+      "../../../../result/mqtt-sn-pub/trace_020/full_path_00.json"
+    ],
+    "uncovered_lines": [
+      1017
+    ],
+    "wrong_lines": []
+  },
+  "test_021": {
+    "ground_truth": "../cov_trace//trace_021.json",
+    "ana_result": "../../../../result/mqtt-sn-pub/trace_021",
+    "recall": [
+      0.9952153110047847
+    ],
+    "precision": [
+      1.0
+    ],
+    "accuracy": [
+      0.8789020452099031
+    ],
+    "max_recall_files": [
+      "../../../../result/mqtt-sn-pub/trace_021/full_path_coverage_00.json"
+    ],
+    "max_precision_files": [
+      "../../../../result/mqtt-sn-pub/trace_021/MPP_coverage_00.json"
+    ],
+    "max_acc_files": [
+      "../../../../result/mqtt-sn-pub/trace_021/full_path_00.json"
+    ],
+    "uncovered_lines": [
+      1017
+    ],
+    "wrong_lines": []
+  },
+  "test_022": {
+    "ground_truth": "../cov_trace//trace_022.json",
+    "ana_result": "../../../../result/mqtt-sn-pub/trace_022",
+    "recall": [
+      0.99581589958159
+    ],
+    "precision": [
+      1.0
+    ],
+    "accuracy": [
+      0.8864370290635092
+    ],
+    "max_recall_files": [
+      "../../../../result/mqtt-sn-pub/trace_022/full_path_coverage_00.json"
+    ],
+    "max_precision_files": [
+      "../../../../result/mqtt-sn-pub/trace_022/MPP_coverage_00.json"
+    ],
+    "max_acc_files": [
+      "../../../../result/mqtt-sn-pub/trace_022/full_path_00.json"
+    ],
+    "uncovered_lines": [
+      1017
+    ],
+    "wrong_lines": []
+  },
+  "test_023": {
+    "ground_truth": "../cov_trace//trace_023.json",
+    "ana_result": "../../../../result/mqtt-sn-pub/trace_023",
+    "recall": [
+      0.99581589958159
+    ],
+    "precision": [
+      1.0
+    ],
+    "accuracy": [
+      0.8858988159311088
+    ],
+    "max_recall_files": [
+      "../../../../result/mqtt-sn-pub/trace_023/full_path_coverage_00.json"
+    ],
+    "max_precision_files": [
+      "../../../../result/mqtt-sn-pub/trace_023/MPP_coverage_00.json"
+    ],
+    "max_acc_files": [
+      "../../../../result/mqtt-sn-pub/trace_023/full_path_00.json"
+    ],
+    "uncovered_lines": [
+      1017
+    ],
+    "wrong_lines": []
+  },
+  "test_024": {
+    "ground_truth": "../cov_trace//trace_024.json",
+    "ana_result": "../../../../result/mqtt-sn-pub/trace_024",
+    "recall": [
+      0.995850622406639
+    ],
+    "precision": [
+      1.0
+    ],
+    "accuracy": [
+      0.8864370290635092
+    ],
+    "max_recall_files": [
+      "../../../../result/mqtt-sn-pub/trace_024/full_path_coverage_00.json"
+    ],
+    "max_precision_files": [
+      "../../../../result/mqtt-sn-pub/trace_024/MPP_coverage_00.json"
+    ],
+    "max_acc_files": [
+      "../../../../result/mqtt-sn-pub/trace_024/full_path_00.json"
+    ],
+    "uncovered_lines": [
+      1017
+    ],
+    "wrong_lines": []
+  },
+  "test_025": {
+    "ground_truth": "../cov_trace//trace_025.json",
+    "ana_result": "../../../../result/mqtt-sn-pub/trace_025",
+    "recall": [
+      0.9965277777777778
+    ],
+    "precision": [
+      1.0
+    ],
+    "accuracy": [
+      0.8998923573735199
+    ],
+    "max_recall_files": [
+      "../../../../result/mqtt-sn-pub/trace_025/full_path_coverage_00.json"
+    ],
+    "max_precision_files": [
+      "../../../../result/mqtt-sn-pub/trace_025/MPP_coverage_00.json"
+    ],
+    "max_acc_files": [
+      "../../../../result/mqtt-sn-pub/trace_025/full_path_00.json"
+    ],
+    "uncovered_lines": [
+      1017
+    ],
+    "wrong_lines": []
+  },
+  "test_026": {
+    "ground_truth": "../cov_trace//trace_026.json",
+    "ana_result": "../../../../result/mqtt-sn-pub/trace_026",
+    "recall": [
+      0.9963636363636363
+    ],
+    "precision": [
+      1.0
+    ],
+    "accuracy": [
+      0.8972012917115177
+    ],
+    "max_recall_files": [
+      "../../../../result/mqtt-sn-pub/trace_026/full_path_coverage_00.json"
+    ],
+    "max_precision_files": [
+      "../../../../result/mqtt-sn-pub/trace_026/MPP_coverage_00.json"
+    ],
+    "max_acc_files": [
+      "../../../../result/mqtt-sn-pub/trace_026/full_path_00.json"
+    ],
+    "uncovered_lines": [
+      1017
+    ],
+    "wrong_lines": []
+  },
+  "test_027": {
+    "ground_truth": "../cov_trace//trace_027.json",
+    "ana_result": "../../../../result/mqtt-sn-pub/trace_027",
+    "recall": [
+      0.9714285714285714
+    ],
+    "precision": [
+      0.47058823529411764
+    ],
+    "accuracy": [
+      0.8180839612486545
+    ],
+    "max_recall_files": [
+      "../../../../result/mqtt-sn-pub/trace_027/full_path_coverage_00.json"
+    ],
+    "max_precision_files": [
+      "../../../../result/mqtt-sn-pub/trace_027/MPP_coverage_00.json"
+    ],
+    "max_acc_files": [
+      "../../../../result/mqtt-sn-pub/trace_027/full_path_00.json"
+    ],
+    "uncovered_lines": [
+      1017
+    ],
+    "wrong_lines": [
+      [
+        310,
+        315
+      ],
+      [
+        997,
+        1008
+      ]
+    ]
+  },
+  "test_028": {
+    "ground_truth": "../cov_trace//trace_028.json",
+    "ana_result": "../../../../result/mqtt-sn-pub/trace_028",
+    "recall": [
+      0.9950738916256158
+    ],
+    "precision": [
+      0.47058823529411764
+    ],
+    "accuracy": [
+      0.8745963401506996
+    ],
+    "max_recall_files": [
+      "../../../../result/mqtt-sn-pub/trace_028/full_path_coverage_00.json"
+    ],
+    "max_precision_files": [
+      "../../../../result/mqtt-sn-pub/trace_028/MPP_coverage_00.json"
+    ],
+    "max_acc_files": [
+      "../../../../result/mqtt-sn-pub/trace_028/full_path_00.json"
+    ],
+    "uncovered_lines": [
+      1017
+    ],
+    "wrong_lines": [
+      [
+        310,
+        315
+      ],
+      [
+        997,
+        1008
+      ]
+    ]
+  },
+  "test_029": {
+    "ground_truth": "../cov_trace//trace_029.json",
+    "ana_result": "../../../../result/mqtt-sn-pub/trace_029",
+    "recall": [
+      0.9722222222222222
+    ],
+    "precision": [
+      0.47058823529411764
+    ],
+    "accuracy": [
+      0.8186221743810549
+    ],
+    "max_recall_files": [
+      "../../../../result/mqtt-sn-pub/trace_029/full_path_coverage_00.json"
+    ],
+    "max_precision_files": [
+      "../../../../result/mqtt-sn-pub/trace_029/MPP_coverage_00.json"
+    ],
+    "max_acc_files": [
+      "../../../../result/mqtt-sn-pub/trace_029/full_path_00.json"
+    ],
+    "uncovered_lines": [
+      1017
+    ],
+    "wrong_lines": [
+      [
+        310,
+        315
+      ],
+      [
+        997,
+        1008
+      ]
+    ]
+  },
+  "test_030": {
+    "ground_truth": "../cov_trace//trace_030.json",
+    "ana_result": "../../../../result/mqtt-sn-pub/trace_030",
+    "recall": [
+      0.972972972972973
+    ],
+    "precision": [
+      0.47058823529411764
+    ],
+    "accuracy": [
+      0.8202368137782562
+    ],
+    "max_recall_files": [
+      "../../../../result/mqtt-sn-pub/trace_030/full_path_coverage_00.json"
+    ],
+    "max_precision_files": [
+      "../../../../result/mqtt-sn-pub/trace_030/MPP_coverage_00.json"
+    ],
+    "max_acc_files": [
+      "../../../../result/mqtt-sn-pub/trace_030/full_path_00.json"
+    ],
+    "uncovered_lines": [
+      1017
+    ],
+    "wrong_lines": [
+      [
+        310,
+        315
+      ],
+      [
+        997,
+        1008
+      ]
+    ]
+  },
+  "test_031": {
+    "ground_truth": "../cov_trace//trace_031.json",
+    "ana_result": "../../../../result/mqtt-sn-pub/trace_031",
+    "recall": [
+      0.9947916666666666
+    ],
+    "precision": [
+      0.47058823529411764
+    ],
+    "accuracy": [
+      0.8735199138858988
+    ],
+    "max_recall_files": [
+      "../../../../result/mqtt-sn-pub/trace_031/full_path_coverage_00.json"
+    ],
+    "max_precision_files": [
+      "../../../../result/mqtt-sn-pub/trace_031/MPP_coverage_00.json"
+    ],
+    "max_acc_files": [
+      "../../../../result/mqtt-sn-pub/trace_031/full_path_00.json"
+    ],
+    "uncovered_lines": [
+      1017
+    ],
+    "wrong_lines": [
+      [
+        310,
+        315
+      ],
+      [
+        997,
+        1008
+      ]
+    ]
+  },
+  "test_032": {
+    "ground_truth": "../cov_trace//trace_032.json",
+    "ana_result": "../../../../result/mqtt-sn-pub/trace_032",
+    "recall": [
+      0.9736842105263158
+    ],
+    "precision": [
+      0.47058823529411764
+    ],
+    "accuracy": [
+      0.8218514531754575
+    ],
+    "max_recall_files": [
+      "../../../../result/mqtt-sn-pub/trace_032/full_path_coverage_00.json"
+    ],
+    "max_precision_files": [
+      "../../../../result/mqtt-sn-pub/trace_032/MPP_coverage_00.json"
+    ],
+    "max_acc_files": [
+      "../../../../result/mqtt-sn-pub/trace_032/full_path_00.json"
+    ],
+    "uncovered_lines": [
+      1017
+    ],
+    "wrong_lines": [
+      [
+        310,
+        315
+      ],
+      [
+        997,
+        1008
+      ]
+    ]
+  },
+  "test_033": {
+    "ground_truth": "../cov_trace//trace_033.json",
+    "ana_result": "../../../../result/mqtt-sn-pub/trace_033",
+    "recall": [
+      0.9935064935064936
+    ],
+    "precision": [
+      0.47058823529411764
+    ],
+    "accuracy": [
+      0.8573735199138859
+    ],
+    "max_recall_files": [
+      "../../../../result/mqtt-sn-pub/trace_033/full_path_coverage_00.json"
+    ],
+    "max_precision_files": [
+      "../../../../result/mqtt-sn-pub/trace_033/MPP_coverage_00.json"
+    ],
+    "max_acc_files": [
+      "../../../../result/mqtt-sn-pub/trace_033/full_path_00.json"
+    ],
+    "uncovered_lines": [
+      1017
+    ],
+    "wrong_lines": [
+      [
+        310,
+        315
+      ],
+      [
+        997,
+        1008
+      ]
+    ]
+  },
+  "test_034": {
+    "ground_truth": "../cov_trace//trace_034.json",
+    "ana_result": "../../../../result/mqtt-sn-pub/trace_034",
+    "recall": [
+      0.9948717948717949
+    ],
+    "precision": [
+      0.47058823529411764
+    ],
+    "accuracy": [
+      0.8724434876210979
+    ],
+    "max_recall_files": [
+      "../../../../result/mqtt-sn-pub/trace_034/full_path_coverage_00.json"
+    ],
+    "max_precision_files": [
+      "../../../../result/mqtt-sn-pub/trace_034/MPP_coverage_00.json"
+    ],
+    "max_acc_files": [
+      "../../../../result/mqtt-sn-pub/trace_034/full_path_00.json"
+    ],
+    "uncovered_lines": [
+      1017
+    ],
+    "wrong_lines": [
+      [
+        310,
+        315
+      ],
+      [
+        997,
+        1008
+      ]
+    ]
+  },
+  "test_035": {
+    "ground_truth": "../cov_trace//trace_035.json",
+    "ana_result": "../../../../result/mqtt-sn-pub/trace_035",
+    "recall": [],
+    "precision": [
+      0.0
+    ],
+    "accuracy": [],
+    "max_recall_files": [],
+    "max_precision_files": [
+      "../../../../result/mqtt-sn-pub/trace_035/MPP_coverage_00.json"
+    ],
+    "max_acc_files": [],
+    "uncovered_lines": []
+  },
+  "test_036": {
+    "ground_truth": "../cov_trace//trace_036.json",
+    "ana_result": "../../../../result/mqtt-sn-pub/trace_036",
+    "recall": [
+      0.9852941176470589
+    ],
+    "precision": [
+      0.47058823529411764
+    ],
+    "accuracy": [
+      0.8272335844994618
+    ],
+    "max_recall_files": [
+      "../../../../result/mqtt-sn-pub/trace_036/full_path_coverage_00.json"
+    ],
+    "max_precision_files": [
+      "../../../../result/mqtt-sn-pub/trace_036/MPP_coverage_00.json"
+    ],
+    "max_acc_files": [
+      "../../../../result/mqtt-sn-pub/trace_036/full_path_00.json"
+    ],
+    "uncovered_lines": [
+      1017
+    ],
+    "wrong_lines": [
+      [
+        310,
+        315
+      ],
+      [
+        997,
+        1008
+      ]
+    ]
+  },
+  "test_037": {
+    "ground_truth": "../cov_trace//trace_037.json",
+    "ana_result": "../../../../result/mqtt-sn-pub/trace_037",
+    "recall": [
+      0.9951456310679612
+    ],
+    "precision": [
+      1.0
+    ],
+    "accuracy": [
+      0.8783638320775027
+    ],
+    "max_recall_files": [
+      "../../../../result/mqtt-sn-pub/trace_037/full_path_coverage_00.json"
+    ],
+    "max_precision_files": [
+      "../../../../result/mqtt-sn-pub/trace_037/MPP_coverage_00.json"
+    ],
+    "max_acc_files": [
+      "../../../../result/mqtt-sn-pub/trace_037/full_path_00.json"
+    ],
+    "uncovered_lines": [
+      1017
+    ],
+    "wrong_lines": []
+  },
+  "test_038": {
+    "ground_truth": "../cov_trace//trace_038.json",
+    "ana_result": "../../../../result/mqtt-sn-pub/trace_038",
+    "recall": [
+      0.9952380952380953
+    ],
+    "precision": [
+      1.0
+    ],
+    "accuracy": [
+      0.8794402583423035
+    ],
+    "max_recall_files": [
+      "../../../../result/mqtt-sn-pub/trace_038/full_path_coverage_00.json"
+    ],
+    "max_precision_files": [
+      "../../../../result/mqtt-sn-pub/trace_038/MPP_coverage_00.json"
+    ],
+    "max_acc_files": [
+      "../../../../result/mqtt-sn-pub/trace_038/full_path_00.json"
+    ],
+    "uncovered_lines": [
+      1017
+    ],
+    "wrong_lines": []
+  },
+  "test_039": {
+    "ground_truth": "../cov_trace//trace_039.json",
+    "ana_result": "../../../../result/mqtt-sn-pub/trace_039",
+    "recall": [
+      0.9954545454545455
+    ],
+    "precision": [
+      1.0
+    ],
+    "accuracy": [
+      0.879978471474704
+    ],
+    "max_recall_files": [
+      "../../../../result/mqtt-sn-pub/trace_039/full_path_coverage_00.json"
+    ],
+    "max_precision_files": [
+      "../../../../result/mqtt-sn-pub/trace_039/MPP_coverage_00.json"
+    ],
+    "max_acc_files": [
+      "../../../../result/mqtt-sn-pub/trace_039/full_path_00.json"
+    ],
+    "uncovered_lines": [
+      1017
+    ],
+    "wrong_lines": []
+  }
+}

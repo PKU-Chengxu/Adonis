@@ -1,0 +1,11 @@
+{
+  "fprintf": [
+    "fprintf$",
+    "fputc$",
+    "fputs$",
+    "fwrite$"
+  ],
+  "fputc": [
+    "fputc$"
+  ]
+}

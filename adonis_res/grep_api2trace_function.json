@@ -1,0 +1,97 @@
+{
+  "abort": [
+    "abort$"
+  ],
+  "atoi": [
+    "atoi$"
+  ],
+  "close": [
+    "close$"
+  ],
+  "exit": [
+    "exit$"
+  ],
+  "fclose": [
+    "fclose$"
+  ],
+  "feof": [
+    "feof$"
+  ],
+  "ferror": [
+    "ferror$"
+  ],
+  "fopen": [
+    "fopen$"
+  ],
+  "fprintf": [
+    "fprintf$",
+    "fputc$",
+    "fputs$",
+    "fwrite$"
+  ],
+  "fread": [
+    "fread$"
+  ],
+  "fwrite": [
+    "fwrite$"
+  ],
+  "getopt": [
+    "getopt$"
+  ],
+  "getpagesize": [
+    "getpagesize$"
+  ],
+  "lseek": [
+    "lseek$"
+  ],
+  "memchr": [
+    "memchr$"
+  ],
+  "memcmp": [
+    "memcmp$"
+  ],
+  "memset": [
+    "memset$"
+  ],
+  "open": [
+    "open$"
+  ],
+  "printf": [
+    "printf$",
+    "putc$",
+    "puts$"
+  ],
+  "puts": [
+    "puts$"
+  ],
+  "read": [
+    "read$"
+  ],
+  "strchr": [
+    "strchr$"
+  ],
+  "strcmp": [
+    "strcmp$"
+  ],
+  "strerror": [
+    "strerror$"
+  ],
+  "strlen": [
+    "strlen$"
+  ],
+  "strncmp": [
+    "strncmp$"
+  ],
+  "strncpy": [
+    "strncpy$"
+  ],
+  "strrchr": [
+    "strrchr$"
+  ],
+  "tolower": [
+    "tolower$"
+  ],
+  "toupper": [
+    "toupper$"
+  ]
+}

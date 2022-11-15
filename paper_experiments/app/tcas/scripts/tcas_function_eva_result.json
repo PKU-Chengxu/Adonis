@@ -1,0 +1,6072 @@
+{
+  "test_001": {
+    "ground_truth": "../cov_trace//trace_001.json",
+    "ana_result": "../../../../result/tcas/trace_001",
+    "recall": [
+      0.8888888888888888
+    ],
+    "precision": [
+      1.0
+    ],
+    "accuracy": [
+      0.9895104895104895
+    ],
+    "max_recall_files": [
+      "../../../../result/tcas/trace_001/full_path_coverage_00.json"
+    ],
+    "max_precision_files": [
+      "../../../../result/tcas/trace_001/full_path_coverage_00.json"
+    ],
+    "max_acc_files": [
+      "../../../../result/tcas/trace_001/full_path_00.json"
+    ],
+    "uncovered_lines": [
+      52,
+      60,
+      65,
+      106,
+      111,
+      148
+    ],
+    "wrong_lines": []
+  },
+  "test_002": {
+    "ground_truth": "../cov_trace//trace_002.json",
+    "ana_result": "../../../../result/tcas/trace_002",
+    "recall": [
+      0.9333333333333333
+    ],
+    "precision": [
+      0.5662650602409639
+    ],
+    "accuracy": [
+      0.9624125874125874
+    ],
+    "max_recall_files": [
+      "../../../../result/tcas/trace_002/full_path_coverage_00.json"
+    ],
+    "max_precision_files": [
+      "../../../../result/tcas/trace_002/full_path_coverage_00.json"
+    ],
+    "max_acc_files": [
+      "../../../../result/tcas/trace_002/full_path_00.json"
+    ],
+    "uncovered_lines": [
+      52,
+      148
+    ],
+    "wrong_lines": [
+      [
+        62,
+        62
+      ],
+      [
+        67,
+        67
+      ],
+      [
+        71,
+        77
+      ],
+      [
+        79,
+        85
+      ],
+      [
+        89,
+        95
+      ],
+      [
+        97,
+        103
+      ],
+      [
+        108,
+        108
+      ],
+      [
+        113,
+        113
+      ],
+      [
+        136,
+        137
+      ],
+      [
+        138,
+        139
+      ]
+    ]
+  },
+  "test_003": {
+    "ground_truth": "../cov_trace//trace_003.json",
+    "ana_result": "../../../../result/tcas/trace_003",
+    "recall": [
+      0.9333333333333333
+    ],
+    "precision": [
+      0.5662650602409639
+    ],
+    "accuracy": [
+      0.9624125874125874
+    ],
+    "max_recall_files": [
+      "../../../../result/tcas/trace_003/full_path_coverage_00.json"
+    ],
+    "max_precision_files": [
+      "../../../../result/tcas/trace_003/full_path_coverage_00.json"
+    ],
+    "max_acc_files": [
+      "../../../../result/tcas/trace_003/full_path_00.json"
+    ],
+    "uncovered_lines": [
+      52,
+      148
+    ],
+    "wrong_lines": [
+      [
+        62,
+        62
+      ],
+      [
+        67,
+        67
+      ],
+      [
+        71,
+        77
+      ],
+      [
+        79,
+        85
+      ],
+      [
+        89,
+        95
+      ],
+      [
+        97,
+        103
+      ],
+      [
+        108,
+        108
+      ],
+      [
+        113,
+        113
+      ],
+      [
+        136,
+        137
+      ],
+      [
+        138,
+        139
+      ]
+    ]
+  },
+  "test_004": {
+    "ground_truth": "../cov_trace//trace_004.json",
+    "ana_result": "../../../../result/tcas/trace_004",
+    "recall": [
+      0.9333333333333333
+    ],
+    "precision": [
+      0.5662650602409639
+    ],
+    "accuracy": [
+      0.9624125874125874
+    ],
+    "max_recall_files": [
+      "../../../../result/tcas/trace_004/full_path_coverage_00.json"
+    ],
+    "max_precision_files": [
+      "../../../../result/tcas/trace_004/full_path_coverage_00.json"
+    ],
+    "max_acc_files": [
+      "../../../../result/tcas/trace_004/full_path_00.json"
+    ],
+    "uncovered_lines": [
+      52,
+      148
+    ],
+    "wrong_lines": [
+      [
+        62,
+        62
+      ],
+      [
+        67,
+        67
+      ],
+      [
+        71,
+        77
+      ],
+      [
+        79,
+        85
+      ],
+      [
+        89,
+        95
+      ],
+      [
+        97,
+        103
+      ],
+      [
+        108,
+        108
+      ],
+      [
+        113,
+        113
+      ],
+      [
+        136,
+        137
+      ],
+      [
+        138,
+        139
+      ]
+    ]
+  },
+  "test_005": {
+    "ground_truth": "../cov_trace//trace_005.json",
+    "ana_result": "../../../../result/tcas/trace_005",
+    "recall": [
+      0.92
+    ],
+    "precision": [
+      0.9759036144578314
+    ],
+    "accuracy": [
+      0.9877622377622378
+    ],
+    "max_recall_files": [
+      "../../../../result/tcas/trace_005/full_path_coverage_00.json"
+    ],
+    "max_precision_files": [
+      "../../../../result/tcas/trace_005/full_path_coverage_00.json"
+    ],
+    "max_acc_files": [
+      "../../../../result/tcas/trace_005/full_path_00.json"
+    ],
+    "uncovered_lines": [
+      52,
+      65,
+      111,
+      148
+    ],
+    "wrong_lines": [
+      [
+        62,
+        62
+      ],
+      [
+        108,
+        108
+      ]
+    ]
+  },
+  "test_006": {
+    "ground_truth": "../cov_trace//trace_006.json",
+    "ana_result": "../../../../result/tcas/trace_006",
+    "recall": [
+      0.9333333333333333
+    ],
+    "precision": [
+      0.5662650602409639
+    ],
+    "accuracy": [
+      0.9624125874125874
+    ],
+    "max_recall_files": [
+      "../../../../result/tcas/trace_006/full_path_coverage_00.json"
+    ],
+    "max_precision_files": [
+      "../../../../result/tcas/trace_006/full_path_coverage_00.json"
+    ],
+    "max_acc_files": [
+      "../../../../result/tcas/trace_006/full_path_00.json"
+    ],
+    "uncovered_lines": [
+      52,
+      148
+    ],
+    "wrong_lines": [
+      [
+        62,
+        62
+      ],
+      [
+        67,
+        67
+      ],
+      [
+        71,
+        77
+      ],
+      [
+        79,
+        85
+      ],
+      [
+        89,
+        95
+      ],
+      [
+        97,
+        103
+      ],
+      [
+        108,
+        108
+      ],
+      [
+        113,
+        113
+      ],
+      [
+        136,
+        137
+      ],
+      [
+        138,
+        139
+      ]
+    ]
+  },
+  "test_007": {
+    "ground_truth": "../cov_trace//trace_007.json",
+    "ana_result": "../../../../result/tcas/trace_007",
+    "recall": [
+      0.9333333333333333
+    ],
+    "precision": [
+      0.5662650602409639
+    ],
+    "accuracy": [
+      0.9624125874125874
+    ],
+    "max_recall_files": [
+      "../../../../result/tcas/trace_007/full_path_coverage_00.json"
+    ],
+    "max_precision_files": [
+      "../../../../result/tcas/trace_007/full_path_coverage_00.json"
+    ],
+    "max_acc_files": [
+      "../../../../result/tcas/trace_007/full_path_00.json"
+    ],
+    "uncovered_lines": [
+      52,
+      148
+    ],
+    "wrong_lines": [
+      [
+        62,
+        62
+      ],
+      [
+        67,
+        67
+      ],
+      [
+        71,
+        77
+      ],
+      [
+        79,
+        85
+      ],
+      [
+        89,
+        95
+      ],
+      [
+        97,
+        103
+      ],
+      [
+        108,
+        108
+      ],
+      [
+        113,
+        113
+      ],
+      [
+        136,
+        137
+      ],
+      [
+        138,
+        139
+      ]
+    ]
+  },
+  "test_008": {
+    "ground_truth": "../cov_trace//trace_008.json",
+    "ana_result": "../../../../result/tcas/trace_008",
+    "recall": [
+      0.9333333333333333
+    ],
+    "precision": [
+      0.5662650602409639
+    ],
+    "accuracy": [
+      0.9624125874125874
+    ],
+    "max_recall_files": [
+      "../../../../result/tcas/trace_008/full_path_coverage_00.json"
+    ],
+    "max_precision_files": [
+      "../../../../result/tcas/trace_008/full_path_coverage_00.json"
+    ],
+    "max_acc_files": [
+      "../../../../result/tcas/trace_008/full_path_00.json"
+    ],
+    "uncovered_lines": [
+      52,
+      148
+    ],
+    "wrong_lines": [
+      [
+        62,
+        62
+      ],
+      [
+        67,
+        67
+      ],
+      [
+        71,
+        77
+      ],
+      [
+        79,
+        85
+      ],
+      [
+        89,
+        95
+      ],
+      [
+        97,
+        103
+      ],
+      [
+        108,
+        108
+      ],
+      [
+        113,
+        113
+      ],
+      [
+        136,
+        137
+      ],
+      [
+        138,
+        139
+      ]
+    ]
+  },
+  "test_009": {
+    "ground_truth": "../cov_trace//trace_009.json",
+    "ana_result": "../../../../result/tcas/trace_009",
+    "recall": [
+      0.9333333333333333
+    ],
+    "precision": [
+      0.5662650602409639
+    ],
+    "accuracy": [
+      0.9624125874125874
+    ],
+    "max_recall_files": [
+      "../../../../result/tcas/trace_009/full_path_coverage_00.json"
+    ],
+    "max_precision_files": [
+      "../../../../result/tcas/trace_009/full_path_coverage_00.json"
+    ],
+    "max_acc_files": [
+      "../../../../result/tcas/trace_009/full_path_00.json"
+    ],
+    "uncovered_lines": [
+      52,
+      148
+    ],
+    "wrong_lines": [
+      [
+        62,
+        62
+      ],
+      [
+        67,
+        67
+      ],
+      [
+        71,
+        77
+      ],
+      [
+        79,
+        85
+      ],
+      [
+        89,
+        95
+      ],
+      [
+        97,
+        103
+      ],
+      [
+        108,
+        108
+      ],
+      [
+        113,
+        113
+      ],
+      [
+        136,
+        137
+      ],
+      [
+        138,
+        139
+      ]
+    ]
+  },
+  "test_010": {
+    "ground_truth": "../cov_trace//trace_010.json",
+    "ana_result": "../../../../result/tcas/trace_010",
+    "recall": [
+      0.8888888888888888
+    ],
+    "precision": [
+      1.0
+    ],
+    "accuracy": [
+      0.9877622377622378
+    ],
+    "max_recall_files": [
+      "../../../../result/tcas/trace_010/full_path_coverage_00.json"
+    ],
+    "max_precision_files": [
+      "../../../../result/tcas/trace_010/full_path_coverage_00.json"
+    ],
+    "max_acc_files": [
+      "../../../../result/tcas/trace_010/full_path_00.json"
+    ],
+    "uncovered_lines": [
+      52,
+      60,
+      65,
+      106,
+      111,
+      148
+    ],
+    "wrong_lines": []
+  },
+  "test_011": {
+    "ground_truth": "../cov_trace//trace_011.json",
+    "ana_result": "../../../../result/tcas/trace_011",
+    "recall": [
+      0.9333333333333333
+    ],
+    "precision": [
+      0.5662650602409639
+    ],
+    "accuracy": [
+      0.9624125874125874
+    ],
+    "max_recall_files": [
+      "../../../../result/tcas/trace_011/full_path_coverage_00.json"
+    ],
+    "max_precision_files": [
+      "../../../../result/tcas/trace_011/full_path_coverage_00.json"
+    ],
+    "max_acc_files": [
+      "../../../../result/tcas/trace_011/full_path_00.json"
+    ],
+    "uncovered_lines": [
+      52,
+      148
+    ],
+    "wrong_lines": [
+      [
+        62,
+        62
+      ],
+      [
+        67,
+        67
+      ],
+      [
+        71,
+        77
+      ],
+      [
+        79,
+        85
+      ],
+      [
+        89,
+        95
+      ],
+      [
+        97,
+        103
+      ],
+      [
+        108,
+        108
+      ],
+      [
+        113,
+        113
+      ],
+      [
+        136,
+        137
+      ],
+      [
+        138,
+        139
+      ]
+    ]
+  },
+  "test_012": {
+    "ground_truth": "../cov_trace//trace_012.json",
+    "ana_result": "../../../../result/tcas/trace_012",
+    "recall": [
+      0.9333333333333333
+    ],
+    "precision": [
+      0.5662650602409639
+    ],
+    "accuracy": [
+      0.9624125874125874
+    ],
+    "max_recall_files": [
+      "../../../../result/tcas/trace_012/full_path_coverage_00.json"
+    ],
+    "max_precision_files": [
+      "../../../../result/tcas/trace_012/full_path_coverage_00.json"
+    ],
+    "max_acc_files": [
+      "../../../../result/tcas/trace_012/full_path_00.json"
+    ],
+    "uncovered_lines": [
+      52,
+      148
+    ],
+    "wrong_lines": [
+      [
+        62,
+        62
+      ],
+      [
+        67,
+        67
+      ],
+      [
+        71,
+        77
+      ],
+      [
+        79,
+        85
+      ],
+      [
+        89,
+        95
+      ],
+      [
+        97,
+        103
+      ],
+      [
+        108,
+        108
+      ],
+      [
+        113,
+        113
+      ],
+      [
+        136,
+        137
+      ],
+      [
+        138,
+        139
+      ]
+    ]
+  },
+  "test_013": {
+    "ground_truth": "../cov_trace//trace_013.json",
+    "ana_result": "../../../../result/tcas/trace_013",
+    "recall": [
+      0.9019607843137255
+    ],
+    "precision": [
+      0.9879518072289156
+    ],
+    "accuracy": [
+      0.986013986013986
+    ],
+    "max_recall_files": [
+      "../../../../result/tcas/trace_013/full_path_coverage_00.json"
+    ],
+    "max_precision_files": [
+      "../../../../result/tcas/trace_013/full_path_coverage_00.json"
+    ],
+    "max_acc_files": [
+      "../../../../result/tcas/trace_013/full_path_00.json"
+    ],
+    "uncovered_lines": [
+      52,
+      60,
+      65,
+      106,
+      148
+    ],
+    "wrong_lines": [
+      [
+        113,
+        113
+      ]
+    ]
+  },
+  "test_014": {
+    "ground_truth": "../cov_trace//trace_014.json",
+    "ana_result": "../../../../result/tcas/trace_014",
+    "recall": [
+      0.9333333333333333
+    ],
+    "precision": [
+      0.5662650602409639
+    ],
+    "accuracy": [
+      0.9624125874125874
+    ],
+    "max_recall_files": [
+      "../../../../result/tcas/trace_014/full_path_coverage_00.json"
+    ],
+    "max_precision_files": [
+      "../../../../result/tcas/trace_014/full_path_coverage_00.json"
+    ],
+    "max_acc_files": [
+      "../../../../result/tcas/trace_014/full_path_00.json"
+    ],
+    "uncovered_lines": [
+      52,
+      148
+    ],
+    "wrong_lines": [
+      [
+        62,
+        62
+      ],
+      [
+        67,
+        67
+      ],
+      [
+        71,
+        77
+      ],
+      [
+        79,
+        85
+      ],
+      [
+        89,
+        95
+      ],
+      [
+        97,
+        103
+      ],
+      [
+        108,
+        108
+      ],
+      [
+        113,
+        113
+      ],
+      [
+        136,
+        137
+      ],
+      [
+        138,
+        139
+      ]
+    ]
+  },
+  "test_015": {
+    "ground_truth": "../cov_trace//trace_015.json",
+    "ana_result": "../../../../result/tcas/trace_015",
+    "recall": [
+      0.9333333333333333
+    ],
+    "precision": [
+      0.5662650602409639
+    ],
+    "accuracy": [
+      0.9624125874125874
+    ],
+    "max_recall_files": [
+      "../../../../result/tcas/trace_015/full_path_coverage_00.json"
+    ],
+    "max_precision_files": [
+      "../../../../result/tcas/trace_015/full_path_coverage_00.json"
+    ],
+    "max_acc_files": [
+      "../../../../result/tcas/trace_015/full_path_00.json"
+    ],
+    "uncovered_lines": [
+      52,
+      148
+    ],
+    "wrong_lines": [
+      [
+        62,
+        62
+      ],
+      [
+        67,
+        67
+      ],
+      [
+        71,
+        77
+      ],
+      [
+        79,
+        85
+      ],
+      [
+        89,
+        95
+      ],
+      [
+        97,
+        103
+      ],
+      [
+        108,
+        108
+      ],
+      [
+        113,
+        113
+      ],
+      [
+        136,
+        137
+      ],
+      [
+        138,
+        139
+      ]
+    ]
+  },
+  "test_016": {
+    "ground_truth": "../cov_trace//trace_016.json",
+    "ana_result": "../../../../result/tcas/trace_016",
+    "recall": [
+      0.9333333333333333
+    ],
+    "precision": [
+      0.5662650602409639
+    ],
+    "accuracy": [
+      0.9624125874125874
+    ],
+    "max_recall_files": [
+      "../../../../result/tcas/trace_016/full_path_coverage_00.json"
+    ],
+    "max_precision_files": [
+      "../../../../result/tcas/trace_016/full_path_coverage_00.json"
+    ],
+    "max_acc_files": [
+      "../../../../result/tcas/trace_016/full_path_00.json"
+    ],
+    "uncovered_lines": [
+      52,
+      148
+    ],
+    "wrong_lines": [
+      [
+        62,
+        62
+      ],
+      [
+        67,
+        67
+      ],
+      [
+        71,
+        77
+      ],
+      [
+        79,
+        85
+      ],
+      [
+        89,
+        95
+      ],
+      [
+        97,
+        103
+      ],
+      [
+        108,
+        108
+      ],
+      [
+        113,
+        113
+      ],
+      [
+        136,
+        137
+      ],
+      [
+        138,
+        139
+      ]
+    ]
+  },
+  "test_017": {
+    "ground_truth": "../cov_trace//trace_017.json",
+    "ana_result": "../../../../result/tcas/trace_017",
+    "recall": [
+      0.9333333333333333
+    ],
+    "precision": [
+      0.5662650602409639
+    ],
+    "accuracy": [
+      0.9624125874125874
+    ],
+    "max_recall_files": [
+      "../../../../result/tcas/trace_017/full_path_coverage_00.json"
+    ],
+    "max_precision_files": [
+      "../../../../result/tcas/trace_017/full_path_coverage_00.json"
+    ],
+    "max_acc_files": [
+      "../../../../result/tcas/trace_017/full_path_00.json"
+    ],
+    "uncovered_lines": [
+      52,
+      148
+    ],
+    "wrong_lines": [
+      [
+        62,
+        62
+      ],
+      [
+        67,
+        67
+      ],
+      [
+        71,
+        77
+      ],
+      [
+        79,
+        85
+      ],
+      [
+        89,
+        95
+      ],
+      [
+        97,
+        103
+      ],
+      [
+        108,
+        108
+      ],
+      [
+        113,
+        113
+      ],
+      [
+        136,
+        137
+      ],
+      [
+        138,
+        139
+      ]
+    ]
+  },
+  "test_018": {
+    "ground_truth": "../cov_trace//trace_018.json",
+    "ana_result": "../../../../result/tcas/trace_018",
+    "recall": [
+      0.9333333333333333
+    ],
+    "precision": [
+      0.5662650602409639
+    ],
+    "accuracy": [
+      0.9624125874125874
+    ],
+    "max_recall_files": [
+      "../../../../result/tcas/trace_018/full_path_coverage_00.json"
+    ],
+    "max_precision_files": [
+      "../../../../result/tcas/trace_018/full_path_coverage_00.json"
+    ],
+    "max_acc_files": [
+      "../../../../result/tcas/trace_018/full_path_00.json"
+    ],
+    "uncovered_lines": [
+      52,
+      148
+    ],
+    "wrong_lines": [
+      [
+        62,
+        62
+      ],
+      [
+        67,
+        67
+      ],
+      [
+        71,
+        77
+      ],
+      [
+        79,
+        85
+      ],
+      [
+        89,
+        95
+      ],
+      [
+        97,
+        103
+      ],
+      [
+        108,
+        108
+      ],
+      [
+        113,
+        113
+      ],
+      [
+        136,
+        137
+      ],
+      [
+        138,
+        139
+      ]
+    ]
+  },
+  "test_019": {
+    "ground_truth": "../cov_trace//trace_019.json",
+    "ana_result": "../../../../result/tcas/trace_019",
+    "recall": [
+      0.9019607843137255
+    ],
+    "precision": [
+      0.9879518072289156
+    ],
+    "accuracy": [
+      0.986013986013986
+    ],
+    "max_recall_files": [
+      "../../../../result/tcas/trace_019/full_path_coverage_00.json"
+    ],
+    "max_precision_files": [
+      "../../../../result/tcas/trace_019/full_path_coverage_00.json"
+    ],
+    "max_acc_files": [
+      "../../../../result/tcas/trace_019/full_path_00.json"
+    ],
+    "uncovered_lines": [
+      52,
+      60,
+      65,
+      106,
+      148
+    ],
+    "wrong_lines": [
+      [
+        113,
+        113
+      ]
+    ]
+  },
+  "test_020": {
+    "ground_truth": "../cov_trace//trace_020.json",
+    "ana_result": "../../../../result/tcas/trace_020",
+    "recall": [
+      0.9333333333333333
+    ],
+    "precision": [
+      0.5662650602409639
+    ],
+    "accuracy": [
+      0.9624125874125874
+    ],
+    "max_recall_files": [
+      "../../../../result/tcas/trace_020/full_path_coverage_00.json"
+    ],
+    "max_precision_files": [
+      "../../../../result/tcas/trace_020/full_path_coverage_00.json"
+    ],
+    "max_acc_files": [
+      "../../../../result/tcas/trace_020/full_path_00.json"
+    ],
+    "uncovered_lines": [
+      52,
+      148
+    ],
+    "wrong_lines": [
+      [
+        62,
+        62
+      ],
+      [
+        67,
+        67
+      ],
+      [
+        71,
+        77
+      ],
+      [
+        79,
+        85
+      ],
+      [
+        89,
+        95
+      ],
+      [
+        97,
+        103
+      ],
+      [
+        108,
+        108
+      ],
+      [
+        113,
+        113
+      ],
+      [
+        136,
+        137
+      ],
+      [
+        138,
+        139
+      ]
+    ]
+  },
+  "test_021": {
+    "ground_truth": "../cov_trace//trace_021.json",
+    "ana_result": "../../../../result/tcas/trace_021",
+    "recall": [
+      0.92
+    ],
+    "precision": [
+      0.9759036144578314
+    ],
+    "accuracy": [
+      0.9877622377622378
+    ],
+    "max_recall_files": [
+      "../../../../result/tcas/trace_021/full_path_coverage_00.json"
+    ],
+    "max_precision_files": [
+      "../../../../result/tcas/trace_021/full_path_coverage_00.json"
+    ],
+    "max_acc_files": [
+      "../../../../result/tcas/trace_021/full_path_00.json"
+    ],
+    "uncovered_lines": [
+      52,
+      65,
+      106,
+      148
+    ],
+    "wrong_lines": [
+      [
+        62,
+        62
+      ],
+      [
+        113,
+        113
+      ]
+    ]
+  },
+  "test_022": {
+    "ground_truth": "../cov_trace//trace_022.json",
+    "ana_result": "../../../../result/tcas/trace_022",
+    "recall": [
+      0.9333333333333333
+    ],
+    "precision": [
+      0.5662650602409639
+    ],
+    "accuracy": [
+      0.9624125874125874
+    ],
+    "max_recall_files": [
+      "../../../../result/tcas/trace_022/full_path_coverage_00.json"
+    ],
+    "max_precision_files": [
+      "../../../../result/tcas/trace_022/full_path_coverage_00.json"
+    ],
+    "max_acc_files": [
+      "../../../../result/tcas/trace_022/full_path_00.json"
+    ],
+    "uncovered_lines": [
+      52,
+      148
+    ],
+    "wrong_lines": [
+      [
+        62,
+        62
+      ],
+      [
+        67,
+        67
+      ],
+      [
+        71,
+        77
+      ],
+      [
+        79,
+        85
+      ],
+      [
+        89,
+        95
+      ],
+      [
+        97,
+        103
+      ],
+      [
+        108,
+        108
+      ],
+      [
+        113,
+        113
+      ],
+      [
+        136,
+        137
+      ],
+      [
+        138,
+        139
+      ]
+    ]
+  },
+  "test_023": {
+    "ground_truth": "../cov_trace//trace_023.json",
+    "ana_result": "../../../../result/tcas/trace_023",
+    "recall": [
+      0.9333333333333333
+    ],
+    "precision": [
+      0.5662650602409639
+    ],
+    "accuracy": [
+      0.9624125874125874
+    ],
+    "max_recall_files": [
+      "../../../../result/tcas/trace_023/full_path_coverage_00.json"
+    ],
+    "max_precision_files": [
+      "../../../../result/tcas/trace_023/full_path_coverage_00.json"
+    ],
+    "max_acc_files": [
+      "../../../../result/tcas/trace_023/full_path_00.json"
+    ],
+    "uncovered_lines": [
+      52,
+      148
+    ],
+    "wrong_lines": [
+      [
+        62,
+        62
+      ],
+      [
+        67,
+        67
+      ],
+      [
+        71,
+        77
+      ],
+      [
+        79,
+        85
+      ],
+      [
+        89,
+        95
+      ],
+      [
+        97,
+        103
+      ],
+      [
+        108,
+        108
+      ],
+      [
+        113,
+        113
+      ],
+      [
+        136,
+        137
+      ],
+      [
+        138,
+        139
+      ]
+    ]
+  },
+  "test_024": {
+    "ground_truth": "../cov_trace//trace_024.json",
+    "ana_result": "../../../../result/tcas/trace_024",
+    "recall": [
+      0.9333333333333333
+    ],
+    "precision": [
+      0.5662650602409639
+    ],
+    "accuracy": [
+      0.9624125874125874
+    ],
+    "max_recall_files": [
+      "../../../../result/tcas/trace_024/full_path_coverage_00.json"
+    ],
+    "max_precision_files": [
+      "../../../../result/tcas/trace_024/full_path_coverage_00.json"
+    ],
+    "max_acc_files": [
+      "../../../../result/tcas/trace_024/full_path_00.json"
+    ],
+    "uncovered_lines": [
+      52,
+      148
+    ],
+    "wrong_lines": [
+      [
+        62,
+        62
+      ],
+      [
+        67,
+        67
+      ],
+      [
+        71,
+        77
+      ],
+      [
+        79,
+        85
+      ],
+      [
+        89,
+        95
+      ],
+      [
+        97,
+        103
+      ],
+      [
+        108,
+        108
+      ],
+      [
+        113,
+        113
+      ],
+      [
+        136,
+        137
+      ],
+      [
+        138,
+        139
+      ]
+    ]
+  },
+  "test_025": {
+    "ground_truth": "../cov_trace//trace_025.json",
+    "ana_result": "../../../../result/tcas/trace_025",
+    "recall": [
+      0.8888888888888888
+    ],
+    "precision": [
+      1.0
+    ],
+    "accuracy": [
+      0.9877622377622378
+    ],
+    "max_recall_files": [
+      "../../../../result/tcas/trace_025/full_path_coverage_00.json"
+    ],
+    "max_precision_files": [
+      "../../../../result/tcas/trace_025/full_path_coverage_00.json"
+    ],
+    "max_acc_files": [
+      "../../../../result/tcas/trace_025/full_path_00.json"
+    ],
+    "uncovered_lines": [
+      52,
+      60,
+      65,
+      106,
+      111,
+      148
+    ],
+    "wrong_lines": []
+  },
+  "test_026": {
+    "ground_truth": "../cov_trace//trace_026.json",
+    "ana_result": "../../../../result/tcas/trace_026",
+    "recall": [
+      0.92
+    ],
+    "precision": [
+      0.9759036144578314
+    ],
+    "accuracy": [
+      0.9877622377622378
+    ],
+    "max_recall_files": [
+      "../../../../result/tcas/trace_026/full_path_coverage_00.json"
+    ],
+    "max_precision_files": [
+      "../../../../result/tcas/trace_026/full_path_coverage_00.json"
+    ],
+    "max_acc_files": [
+      "../../../../result/tcas/trace_026/full_path_00.json"
+    ],
+    "uncovered_lines": [
+      52,
+      65,
+      106,
+      148
+    ],
+    "wrong_lines": [
+      [
+        62,
+        62
+      ],
+      [
+        113,
+        113
+      ]
+    ]
+  },
+  "test_027": {
+    "ground_truth": "../cov_trace//trace_027.json",
+    "ana_result": "../../../../result/tcas/trace_027",
+    "recall": [
+      0.9333333333333333
+    ],
+    "precision": [
+      0.5662650602409639
+    ],
+    "accuracy": [
+      0.9624125874125874
+    ],
+    "max_recall_files": [
+      "../../../../result/tcas/trace_027/full_path_coverage_00.json"
+    ],
+    "max_precision_files": [
+      "../../../../result/tcas/trace_027/full_path_coverage_00.json"
+    ],
+    "max_acc_files": [
+      "../../../../result/tcas/trace_027/full_path_00.json"
+    ],
+    "uncovered_lines": [
+      52,
+      148
+    ],
+    "wrong_lines": [
+      [
+        62,
+        62
+      ],
+      [
+        67,
+        67
+      ],
+      [
+        71,
+        77
+      ],
+      [
+        79,
+        85
+      ],
+      [
+        89,
+        95
+      ],
+      [
+        97,
+        103
+      ],
+      [
+        108,
+        108
+      ],
+      [
+        113,
+        113
+      ],
+      [
+        136,
+        137
+      ],
+      [
+        138,
+        139
+      ]
+    ]
+  },
+  "test_028": {
+    "ground_truth": "../cov_trace//trace_028.json",
+    "ana_result": "../../../../result/tcas/trace_028",
+    "recall": [
+      0.9333333333333333
+    ],
+    "precision": [
+      0.5662650602409639
+    ],
+    "accuracy": [
+      0.9624125874125874
+    ],
+    "max_recall_files": [
+      "../../../../result/tcas/trace_028/full_path_coverage_00.json"
+    ],
+    "max_precision_files": [
+      "../../../../result/tcas/trace_028/full_path_coverage_00.json"
+    ],
+    "max_acc_files": [
+      "../../../../result/tcas/trace_028/full_path_00.json"
+    ],
+    "uncovered_lines": [
+      52,
+      148
+    ],
+    "wrong_lines": [
+      [
+        62,
+        62
+      ],
+      [
+        67,
+        67
+      ],
+      [
+        71,
+        77
+      ],
+      [
+        79,
+        85
+      ],
+      [
+        89,
+        95
+      ],
+      [
+        97,
+        103
+      ],
+      [
+        108,
+        108
+      ],
+      [
+        113,
+        113
+      ],
+      [
+        136,
+        137
+      ],
+      [
+        138,
+        139
+      ]
+    ]
+  },
+  "test_029": {
+    "ground_truth": "../cov_trace//trace_029.json",
+    "ana_result": "../../../../result/tcas/trace_029",
+    "recall": [
+      0.9333333333333333
+    ],
+    "precision": [
+      0.5662650602409639
+    ],
+    "accuracy": [
+      0.9624125874125874
+    ],
+    "max_recall_files": [
+      "../../../../result/tcas/trace_029/full_path_coverage_00.json"
+    ],
+    "max_precision_files": [
+      "../../../../result/tcas/trace_029/full_path_coverage_00.json"
+    ],
+    "max_acc_files": [
+      "../../../../result/tcas/trace_029/full_path_00.json"
+    ],
+    "uncovered_lines": [
+      52,
+      148
+    ],
+    "wrong_lines": [
+      [
+        62,
+        62
+      ],
+      [
+        67,
+        67
+      ],
+      [
+        71,
+        77
+      ],
+      [
+        79,
+        85
+      ],
+      [
+        89,
+        95
+      ],
+      [
+        97,
+        103
+      ],
+      [
+        108,
+        108
+      ],
+      [
+        113,
+        113
+      ],
+      [
+        136,
+        137
+      ],
+      [
+        138,
+        139
+      ]
+    ]
+  },
+  "test_030": {
+    "ground_truth": "../cov_trace//trace_030.json",
+    "ana_result": "../../../../result/tcas/trace_030",
+    "recall": [
+      0.92
+    ],
+    "precision": [
+      0.9759036144578314
+    ],
+    "accuracy": [
+      0.9877622377622378
+    ],
+    "max_recall_files": [
+      "../../../../result/tcas/trace_030/full_path_coverage_00.json"
+    ],
+    "max_precision_files": [
+      "../../../../result/tcas/trace_030/full_path_coverage_00.json"
+    ],
+    "max_acc_files": [
+      "../../../../result/tcas/trace_030/full_path_00.json"
+    ],
+    "uncovered_lines": [
+      52,
+      65,
+      111,
+      148
+    ],
+    "wrong_lines": [
+      [
+        62,
+        62
+      ],
+      [
+        108,
+        108
+      ]
+    ]
+  },
+  "test_031": {
+    "ground_truth": "../cov_trace//trace_031.json",
+    "ana_result": "../../../../result/tcas/trace_031",
+    "recall": [
+      0.9333333333333333
+    ],
+    "precision": [
+      0.5662650602409639
+    ],
+    "accuracy": [
+      0.9624125874125874
+    ],
+    "max_recall_files": [
+      "../../../../result/tcas/trace_031/full_path_coverage_00.json"
+    ],
+    "max_precision_files": [
+      "../../../../result/tcas/trace_031/full_path_coverage_00.json"
+    ],
+    "max_acc_files": [
+      "../../../../result/tcas/trace_031/full_path_00.json"
+    ],
+    "uncovered_lines": [
+      52,
+      148
+    ],
+    "wrong_lines": [
+      [
+        62,
+        62
+      ],
+      [
+        67,
+        67
+      ],
+      [
+        71,
+        77
+      ],
+      [
+        79,
+        85
+      ],
+      [
+        89,
+        95
+      ],
+      [
+        97,
+        103
+      ],
+      [
+        108,
+        108
+      ],
+      [
+        113,
+        113
+      ],
+      [
+        136,
+        137
+      ],
+      [
+        138,
+        139
+      ]
+    ]
+  },
+  "test_032": {
+    "ground_truth": "../cov_trace//trace_032.json",
+    "ana_result": "../../../../result/tcas/trace_032",
+    "recall": [
+      0.8888888888888888
+    ],
+    "precision": [
+      1.0
+    ],
+    "accuracy": [
+      0.9877622377622378
+    ],
+    "max_recall_files": [
+      "../../../../result/tcas/trace_032/full_path_coverage_00.json"
+    ],
+    "max_precision_files": [
+      "../../../../result/tcas/trace_032/full_path_coverage_00.json"
+    ],
+    "max_acc_files": [
+      "../../../../result/tcas/trace_032/full_path_00.json"
+    ],
+    "uncovered_lines": [
+      52,
+      60,
+      65,
+      106,
+      111,
+      148
+    ],
+    "wrong_lines": []
+  },
+  "test_033": {
+    "ground_truth": "../cov_trace//trace_033.json",
+    "ana_result": "../../../../result/tcas/trace_033",
+    "recall": [
+      0.9333333333333333
+    ],
+    "precision": [
+      0.5662650602409639
+    ],
+    "accuracy": [
+      0.9624125874125874
+    ],
+    "max_recall_files": [
+      "../../../../result/tcas/trace_033/full_path_coverage_00.json"
+    ],
+    "max_precision_files": [
+      "../../../../result/tcas/trace_033/full_path_coverage_00.json"
+    ],
+    "max_acc_files": [
+      "../../../../result/tcas/trace_033/full_path_00.json"
+    ],
+    "uncovered_lines": [
+      52,
+      148
+    ],
+    "wrong_lines": [
+      [
+        62,
+        62
+      ],
+      [
+        67,
+        67
+      ],
+      [
+        71,
+        77
+      ],
+      [
+        79,
+        85
+      ],
+      [
+        89,
+        95
+      ],
+      [
+        97,
+        103
+      ],
+      [
+        108,
+        108
+      ],
+      [
+        113,
+        113
+      ],
+      [
+        136,
+        137
+      ],
+      [
+        138,
+        139
+      ]
+    ]
+  },
+  "test_034": {
+    "ground_truth": "../cov_trace//trace_034.json",
+    "ana_result": "../../../../result/tcas/trace_034",
+    "recall": [
+      0.9333333333333333
+    ],
+    "precision": [
+      0.5662650602409639
+    ],
+    "accuracy": [
+      0.9624125874125874
+    ],
+    "max_recall_files": [
+      "../../../../result/tcas/trace_034/full_path_coverage_00.json"
+    ],
+    "max_precision_files": [
+      "../../../../result/tcas/trace_034/full_path_coverage_00.json"
+    ],
+    "max_acc_files": [
+      "../../../../result/tcas/trace_034/full_path_00.json"
+    ],
+    "uncovered_lines": [
+      52,
+      148
+    ],
+    "wrong_lines": [
+      [
+        62,
+        62
+      ],
+      [
+        67,
+        67
+      ],
+      [
+        71,
+        77
+      ],
+      [
+        79,
+        85
+      ],
+      [
+        89,
+        95
+      ],
+      [
+        97,
+        103
+      ],
+      [
+        108,
+        108
+      ],
+      [
+        113,
+        113
+      ],
+      [
+        136,
+        137
+      ],
+      [
+        138,
+        139
+      ]
+    ]
+  },
+  "test_035": {
+    "ground_truth": "../cov_trace//trace_035.json",
+    "ana_result": "../../../../result/tcas/trace_035",
+    "recall": [
+      0.9333333333333333
+    ],
+    "precision": [
+      0.5662650602409639
+    ],
+    "accuracy": [
+      0.9624125874125874
+    ],
+    "max_recall_files": [
+      "../../../../result/tcas/trace_035/full_path_coverage_00.json"
+    ],
+    "max_precision_files": [
+      "../../../../result/tcas/trace_035/full_path_coverage_00.json"
+    ],
+    "max_acc_files": [
+      "../../../../result/tcas/trace_035/full_path_00.json"
+    ],
+    "uncovered_lines": [
+      52,
+      148
+    ],
+    "wrong_lines": [
+      [
+        62,
+        62
+      ],
+      [
+        67,
+        67
+      ],
+      [
+        71,
+        77
+      ],
+      [
+        79,
+        85
+      ],
+      [
+        89,
+        95
+      ],
+      [
+        97,
+        103
+      ],
+      [
+        108,
+        108
+      ],
+      [
+        113,
+        113
+      ],
+      [
+        136,
+        137
+      ],
+      [
+        138,
+        139
+      ]
+    ]
+  },
+  "test_036": {
+    "ground_truth": "../cov_trace//trace_036.json",
+    "ana_result": "../../../../result/tcas/trace_036",
+    "recall": [
+      0.9333333333333333
+    ],
+    "precision": [
+      0.5662650602409639
+    ],
+    "accuracy": [
+      0.9624125874125874
+    ],
+    "max_recall_files": [
+      "../../../../result/tcas/trace_036/full_path_coverage_00.json"
+    ],
+    "max_precision_files": [
+      "../../../../result/tcas/trace_036/full_path_coverage_00.json"
+    ],
+    "max_acc_files": [
+      "../../../../result/tcas/trace_036/full_path_00.json"
+    ],
+    "uncovered_lines": [
+      52,
+      148
+    ],
+    "wrong_lines": [
+      [
+        62,
+        62
+      ],
+      [
+        67,
+        67
+      ],
+      [
+        71,
+        77
+      ],
+      [
+        79,
+        85
+      ],
+      [
+        89,
+        95
+      ],
+      [
+        97,
+        103
+      ],
+      [
+        108,
+        108
+      ],
+      [
+        113,
+        113
+      ],
+      [
+        136,
+        137
+      ],
+      [
+        138,
+        139
+      ]
+    ]
+  },
+  "test_037": {
+    "ground_truth": "../cov_trace//trace_037.json",
+    "ana_result": "../../../../result/tcas/trace_037",
+    "recall": [
+      0.9333333333333333
+    ],
+    "precision": [
+      0.5662650602409639
+    ],
+    "accuracy": [
+      0.9624125874125874
+    ],
+    "max_recall_files": [
+      "../../../../result/tcas/trace_037/full_path_coverage_00.json"
+    ],
+    "max_precision_files": [
+      "../../../../result/tcas/trace_037/full_path_coverage_00.json"
+    ],
+    "max_acc_files": [
+      "../../../../result/tcas/trace_037/full_path_00.json"
+    ],
+    "uncovered_lines": [
+      52,
+      148
+    ],
+    "wrong_lines": [
+      [
+        62,
+        62
+      ],
+      [
+        67,
+        67
+      ],
+      [
+        71,
+        77
+      ],
+      [
+        79,
+        85
+      ],
+      [
+        89,
+        95
+      ],
+      [
+        97,
+        103
+      ],
+      [
+        108,
+        108
+      ],
+      [
+        113,
+        113
+      ],
+      [
+        136,
+        137
+      ],
+      [
+        138,
+        139
+      ]
+    ]
+  },
+  "test_038": {
+    "ground_truth": "../cov_trace//trace_038.json",
+    "ana_result": "../../../../result/tcas/trace_038",
+    "recall": [
+      0.9333333333333333
+    ],
+    "precision": [
+      0.5662650602409639
+    ],
+    "accuracy": [
+      0.9624125874125874
+    ],
+    "max_recall_files": [
+      "../../../../result/tcas/trace_038/full_path_coverage_00.json"
+    ],
+    "max_precision_files": [
+      "../../../../result/tcas/trace_038/full_path_coverage_00.json"
+    ],
+    "max_acc_files": [
+      "../../../../result/tcas/trace_038/full_path_00.json"
+    ],
+    "uncovered_lines": [
+      52,
+      148
+    ],
+    "wrong_lines": [
+      [
+        62,
+        62
+      ],
+      [
+        67,
+        67
+      ],
+      [
+        71,
+        77
+      ],
+      [
+        79,
+        85
+      ],
+      [
+        89,
+        95
+      ],
+      [
+        97,
+        103
+      ],
+      [
+        108,
+        108
+      ],
+      [
+        113,
+        113
+      ],
+      [
+        136,
+        137
+      ],
+      [
+        138,
+        139
+      ]
+    ]
+  },
+  "test_039": {
+    "ground_truth": "../cov_trace//trace_039.json",
+    "ana_result": "../../../../result/tcas/trace_039",
+    "recall": [
+      0.9333333333333333
+    ],
+    "precision": [
+      0.5662650602409639
+    ],
+    "accuracy": [
+      0.9624125874125874
+    ],
+    "max_recall_files": [
+      "../../../../result/tcas/trace_039/full_path_coverage_00.json"
+    ],
+    "max_precision_files": [
+      "../../../../result/tcas/trace_039/full_path_coverage_00.json"
+    ],
+    "max_acc_files": [
+      "../../../../result/tcas/trace_039/full_path_00.json"
+    ],
+    "uncovered_lines": [
+      52,
+      148
+    ],
+    "wrong_lines": [
+      [
+        62,
+        62
+      ],
+      [
+        67,
+        67
+      ],
+      [
+        71,
+        77
+      ],
+      [
+        79,
+        85
+      ],
+      [
+        89,
+        95
+      ],
+      [
+        97,
+        103
+      ],
+      [
+        108,
+        108
+      ],
+      [
+        113,
+        113
+      ],
+      [
+        136,
+        137
+      ],
+      [
+        138,
+        139
+      ]
+    ]
+  },
+  "test_040": {
+    "ground_truth": "../cov_trace//trace_040.json",
+    "ana_result": "../../../../result/tcas/trace_040",
+    "recall": [
+      0.9333333333333333
+    ],
+    "precision": [
+      0.5662650602409639
+    ],
+    "accuracy": [
+      0.9624125874125874
+    ],
+    "max_recall_files": [
+      "../../../../result/tcas/trace_040/full_path_coverage_00.json"
+    ],
+    "max_precision_files": [
+      "../../../../result/tcas/trace_040/full_path_coverage_00.json"
+    ],
+    "max_acc_files": [
+      "../../../../result/tcas/trace_040/full_path_00.json"
+    ],
+    "uncovered_lines": [
+      52,
+      148
+    ],
+    "wrong_lines": [
+      [
+        62,
+        62
+      ],
+      [
+        67,
+        67
+      ],
+      [
+        71,
+        77
+      ],
+      [
+        79,
+        85
+      ],
+      [
+        89,
+        95
+      ],
+      [
+        97,
+        103
+      ],
+      [
+        108,
+        108
+      ],
+      [
+        113,
+        113
+      ],
+      [
+        136,
+        137
+      ],
+      [
+        138,
+        139
+      ]
+    ]
+  },
+  "test_041": {
+    "ground_truth": "../cov_trace//trace_041.json",
+    "ana_result": "../../../../result/tcas/trace_041",
+    "recall": [
+      0.9333333333333333
+    ],
+    "precision": [
+      0.5662650602409639
+    ],
+    "accuracy": [
+      0.9624125874125874
+    ],
+    "max_recall_files": [
+      "../../../../result/tcas/trace_041/full_path_coverage_00.json"
+    ],
+    "max_precision_files": [
+      "../../../../result/tcas/trace_041/full_path_coverage_00.json"
+    ],
+    "max_acc_files": [
+      "../../../../result/tcas/trace_041/full_path_00.json"
+    ],
+    "uncovered_lines": [
+      52,
+      148
+    ],
+    "wrong_lines": [
+      [
+        62,
+        62
+      ],
+      [
+        67,
+        67
+      ],
+      [
+        71,
+        77
+      ],
+      [
+        79,
+        85
+      ],
+      [
+        89,
+        95
+      ],
+      [
+        97,
+        103
+      ],
+      [
+        108,
+        108
+      ],
+      [
+        113,
+        113
+      ],
+      [
+        136,
+        137
+      ],
+      [
+        138,
+        139
+      ]
+    ]
+  },
+  "test_042": {
+    "ground_truth": "../cov_trace//trace_042.json",
+    "ana_result": "../../../../result/tcas/trace_042",
+    "recall": [
+      0.9333333333333333
+    ],
+    "precision": [
+      0.5662650602409639
+    ],
+    "accuracy": [
+      0.9624125874125874
+    ],
+    "max_recall_files": [
+      "../../../../result/tcas/trace_042/full_path_coverage_00.json"
+    ],
+    "max_precision_files": [
+      "../../../../result/tcas/trace_042/full_path_coverage_00.json"
+    ],
+    "max_acc_files": [
+      "../../../../result/tcas/trace_042/full_path_00.json"
+    ],
+    "uncovered_lines": [
+      52,
+      148
+    ],
+    "wrong_lines": [
+      [
+        62,
+        62
+      ],
+      [
+        67,
+        67
+      ],
+      [
+        71,
+        77
+      ],
+      [
+        79,
+        85
+      ],
+      [
+        89,
+        95
+      ],
+      [
+        97,
+        103
+      ],
+      [
+        108,
+        108
+      ],
+      [
+        113,
+        113
+      ],
+      [
+        136,
+        137
+      ],
+      [
+        138,
+        139
+      ]
+    ]
+  },
+  "test_043": {
+    "ground_truth": "../cov_trace//trace_043.json",
+    "ana_result": "../../../../result/tcas/trace_043",
+    "recall": [
+      0.9333333333333333
+    ],
+    "precision": [
+      0.5662650602409639
+    ],
+    "accuracy": [
+      0.9624125874125874
+    ],
+    "max_recall_files": [
+      "../../../../result/tcas/trace_043/full_path_coverage_00.json"
+    ],
+    "max_precision_files": [
+      "../../../../result/tcas/trace_043/full_path_coverage_00.json"
+    ],
+    "max_acc_files": [
+      "../../../../result/tcas/trace_043/full_path_00.json"
+    ],
+    "uncovered_lines": [
+      52,
+      148
+    ],
+    "wrong_lines": [
+      [
+        62,
+        62
+      ],
+      [
+        67,
+        67
+      ],
+      [
+        71,
+        77
+      ],
+      [
+        79,
+        85
+      ],
+      [
+        89,
+        95
+      ],
+      [
+        97,
+        103
+      ],
+      [
+        108,
+        108
+      ],
+      [
+        113,
+        113
+      ],
+      [
+        136,
+        137
+      ],
+      [
+        138,
+        139
+      ]
+    ]
+  },
+  "test_044": {
+    "ground_truth": "../cov_trace//trace_044.json",
+    "ana_result": "../../../../result/tcas/trace_044",
+    "recall": [
+      0.9333333333333333
+    ],
+    "precision": [
+      0.5662650602409639
+    ],
+    "accuracy": [
+      0.9624125874125874
+    ],
+    "max_recall_files": [
+      "../../../../result/tcas/trace_044/full_path_coverage_00.json"
+    ],
+    "max_precision_files": [
+      "../../../../result/tcas/trace_044/full_path_coverage_00.json"
+    ],
+    "max_acc_files": [
+      "../../../../result/tcas/trace_044/full_path_00.json"
+    ],
+    "uncovered_lines": [
+      52,
+      148
+    ],
+    "wrong_lines": [
+      [
+        62,
+        62
+      ],
+      [
+        67,
+        67
+      ],
+      [
+        71,
+        77
+      ],
+      [
+        79,
+        85
+      ],
+      [
+        89,
+        95
+      ],
+      [
+        97,
+        103
+      ],
+      [
+        108,
+        108
+      ],
+      [
+        113,
+        113
+      ],
+      [
+        136,
+        137
+      ],
+      [
+        138,
+        139
+      ]
+    ]
+  },
+  "test_045": {
+    "ground_truth": "../cov_trace//trace_045.json",
+    "ana_result": "../../../../result/tcas/trace_045",
+    "recall": [
+      0.9333333333333333
+    ],
+    "precision": [
+      0.5662650602409639
+    ],
+    "accuracy": [
+      0.9624125874125874
+    ],
+    "max_recall_files": [
+      "../../../../result/tcas/trace_045/full_path_coverage_00.json"
+    ],
+    "max_precision_files": [
+      "../../../../result/tcas/trace_045/full_path_coverage_00.json"
+    ],
+    "max_acc_files": [
+      "../../../../result/tcas/trace_045/full_path_00.json"
+    ],
+    "uncovered_lines": [
+      52,
+      148
+    ],
+    "wrong_lines": [
+      [
+        62,
+        62
+      ],
+      [
+        67,
+        67
+      ],
+      [
+        71,
+        77
+      ],
+      [
+        79,
+        85
+      ],
+      [
+        89,
+        95
+      ],
+      [
+        97,
+        103
+      ],
+      [
+        108,
+        108
+      ],
+      [
+        113,
+        113
+      ],
+      [
+        136,
+        137
+      ],
+      [
+        138,
+        139
+      ]
+    ]
+  },
+  "test_046": {
+    "ground_truth": "../cov_trace//trace_046.json",
+    "ana_result": "../../../../result/tcas/trace_046",
+    "recall": [
+      0.9333333333333333
+    ],
+    "precision": [
+      0.5662650602409639
+    ],
+    "accuracy": [
+      0.9624125874125874
+    ],
+    "max_recall_files": [
+      "../../../../result/tcas/trace_046/full_path_coverage_00.json"
+    ],
+    "max_precision_files": [
+      "../../../../result/tcas/trace_046/full_path_coverage_00.json"
+    ],
+    "max_acc_files": [
+      "../../../../result/tcas/trace_046/full_path_00.json"
+    ],
+    "uncovered_lines": [
+      52,
+      148
+    ],
+    "wrong_lines": [
+      [
+        62,
+        62
+      ],
+      [
+        67,
+        67
+      ],
+      [
+        71,
+        77
+      ],
+      [
+        79,
+        85
+      ],
+      [
+        89,
+        95
+      ],
+      [
+        97,
+        103
+      ],
+      [
+        108,
+        108
+      ],
+      [
+        113,
+        113
+      ],
+      [
+        136,
+        137
+      ],
+      [
+        138,
+        139
+      ]
+    ]
+  },
+  "test_047": {
+    "ground_truth": "../cov_trace//trace_047.json",
+    "ana_result": "../../../../result/tcas/trace_047",
+    "recall": [
+      0.9333333333333333
+    ],
+    "precision": [
+      0.5662650602409639
+    ],
+    "accuracy": [
+      0.9624125874125874
+    ],
+    "max_recall_files": [
+      "../../../../result/tcas/trace_047/full_path_coverage_00.json"
+    ],
+    "max_precision_files": [
+      "../../../../result/tcas/trace_047/full_path_coverage_00.json"
+    ],
+    "max_acc_files": [
+      "../../../../result/tcas/trace_047/full_path_00.json"
+    ],
+    "uncovered_lines": [
+      52,
+      148
+    ],
+    "wrong_lines": [
+      [
+        62,
+        62
+      ],
+      [
+        67,
+        67
+      ],
+      [
+        71,
+        77
+      ],
+      [
+        79,
+        85
+      ],
+      [
+        89,
+        95
+      ],
+      [
+        97,
+        103
+      ],
+      [
+        108,
+        108
+      ],
+      [
+        113,
+        113
+      ],
+      [
+        136,
+        137
+      ],
+      [
+        138,
+        139
+      ]
+    ]
+  },
+  "test_048": {
+    "ground_truth": "../cov_trace//trace_048.json",
+    "ana_result": "../../../../result/tcas/trace_048",
+    "recall": [
+      0.9333333333333333
+    ],
+    "precision": [
+      0.5662650602409639
+    ],
+    "accuracy": [
+      0.9624125874125874
+    ],
+    "max_recall_files": [
+      "../../../../result/tcas/trace_048/full_path_coverage_00.json"
+    ],
+    "max_precision_files": [
+      "../../../../result/tcas/trace_048/full_path_coverage_00.json"
+    ],
+    "max_acc_files": [
+      "../../../../result/tcas/trace_048/full_path_00.json"
+    ],
+    "uncovered_lines": [
+      52,
+      148
+    ],
+    "wrong_lines": [
+      [
+        62,
+        62
+      ],
+      [
+        67,
+        67
+      ],
+      [
+        71,
+        77
+      ],
+      [
+        79,
+        85
+      ],
+      [
+        89,
+        95
+      ],
+      [
+        97,
+        103
+      ],
+      [
+        108,
+        108
+      ],
+      [
+        113,
+        113
+      ],
+      [
+        136,
+        137
+      ],
+      [
+        138,
+        139
+      ]
+    ]
+  },
+  "test_049": {
+    "ground_truth": "../cov_trace//trace_049.json",
+    "ana_result": "../../../../result/tcas/trace_049",
+    "recall": [
+      0.9333333333333333
+    ],
+    "precision": [
+      0.5662650602409639
+    ],
+    "accuracy": [
+      0.9624125874125874
+    ],
+    "max_recall_files": [
+      "../../../../result/tcas/trace_049/full_path_coverage_00.json"
+    ],
+    "max_precision_files": [
+      "../../../../result/tcas/trace_049/full_path_coverage_00.json"
+    ],
+    "max_acc_files": [
+      "../../../../result/tcas/trace_049/full_path_00.json"
+    ],
+    "uncovered_lines": [
+      52,
+      148
+    ],
+    "wrong_lines": [
+      [
+        62,
+        62
+      ],
+      [
+        67,
+        67
+      ],
+      [
+        71,
+        77
+      ],
+      [
+        79,
+        85
+      ],
+      [
+        89,
+        95
+      ],
+      [
+        97,
+        103
+      ],
+      [
+        108,
+        108
+      ],
+      [
+        113,
+        113
+      ],
+      [
+        136,
+        137
+      ],
+      [
+        138,
+        139
+      ]
+    ]
+  },
+  "test_050": {
+    "ground_truth": "../cov_trace//trace_050.json",
+    "ana_result": "../../../../result/tcas/trace_050",
+    "recall": [
+      0.9333333333333333
+    ],
+    "precision": [
+      0.5662650602409639
+    ],
+    "accuracy": [
+      0.9624125874125874
+    ],
+    "max_recall_files": [
+      "../../../../result/tcas/trace_050/full_path_coverage_00.json"
+    ],
+    "max_precision_files": [
+      "../../../../result/tcas/trace_050/full_path_coverage_00.json"
+    ],
+    "max_acc_files": [
+      "../../../../result/tcas/trace_050/full_path_00.json"
+    ],
+    "uncovered_lines": [
+      52,
+      148
+    ],
+    "wrong_lines": [
+      [
+        62,
+        62
+      ],
+      [
+        67,
+        67
+      ],
+      [
+        71,
+        77
+      ],
+      [
+        79,
+        85
+      ],
+      [
+        89,
+        95
+      ],
+      [
+        97,
+        103
+      ],
+      [
+        108,
+        108
+      ],
+      [
+        113,
+        113
+      ],
+      [
+        136,
+        137
+      ],
+      [
+        138,
+        139
+      ]
+    ]
+  },
+  "test_051": {
+    "ground_truth": "../cov_trace//trace_051.json",
+    "ana_result": "../../../../result/tcas/trace_051",
+    "recall": [
+      0.9333333333333333
+    ],
+    "precision": [
+      0.5662650602409639
+    ],
+    "accuracy": [
+      0.9624125874125874
+    ],
+    "max_recall_files": [
+      "../../../../result/tcas/trace_051/full_path_coverage_00.json"
+    ],
+    "max_precision_files": [
+      "../../../../result/tcas/trace_051/full_path_coverage_00.json"
+    ],
+    "max_acc_files": [
+      "../../../../result/tcas/trace_051/full_path_00.json"
+    ],
+    "uncovered_lines": [
+      52,
+      148
+    ],
+    "wrong_lines": [
+      [
+        62,
+        62
+      ],
+      [
+        67,
+        67
+      ],
+      [
+        71,
+        77
+      ],
+      [
+        79,
+        85
+      ],
+      [
+        89,
+        95
+      ],
+      [
+        97,
+        103
+      ],
+      [
+        108,
+        108
+      ],
+      [
+        113,
+        113
+      ],
+      [
+        136,
+        137
+      ],
+      [
+        138,
+        139
+      ]
+    ]
+  },
+  "test_052": {
+    "ground_truth": "../cov_trace//trace_052.json",
+    "ana_result": "../../../../result/tcas/trace_052",
+    "recall": [
+      0.9333333333333333
+    ],
+    "precision": [
+      0.5662650602409639
+    ],
+    "accuracy": [
+      0.9624125874125874
+    ],
+    "max_recall_files": [
+      "../../../../result/tcas/trace_052/full_path_coverage_00.json"
+    ],
+    "max_precision_files": [
+      "../../../../result/tcas/trace_052/full_path_coverage_00.json"
+    ],
+    "max_acc_files": [
+      "../../../../result/tcas/trace_052/full_path_00.json"
+    ],
+    "uncovered_lines": [
+      52,
+      148
+    ],
+    "wrong_lines": [
+      [
+        62,
+        62
+      ],
+      [
+        67,
+        67
+      ],
+      [
+        71,
+        77
+      ],
+      [
+        79,
+        85
+      ],
+      [
+        89,
+        95
+      ],
+      [
+        97,
+        103
+      ],
+      [
+        108,
+        108
+      ],
+      [
+        113,
+        113
+      ],
+      [
+        136,
+        137
+      ],
+      [
+        138,
+        139
+      ]
+    ]
+  },
+  "test_053": {
+    "ground_truth": "../cov_trace//trace_053.json",
+    "ana_result": "../../../../result/tcas/trace_053",
+    "recall": [
+      0.92
+    ],
+    "precision": [
+      0.9759036144578314
+    ],
+    "accuracy": [
+      0.9877622377622378
+    ],
+    "max_recall_files": [
+      "../../../../result/tcas/trace_053/full_path_coverage_00.json"
+    ],
+    "max_precision_files": [
+      "../../../../result/tcas/trace_053/full_path_coverage_00.json"
+    ],
+    "max_acc_files": [
+      "../../../../result/tcas/trace_053/full_path_00.json"
+    ],
+    "uncovered_lines": [
+      52,
+      65,
+      106,
+      148
+    ],
+    "wrong_lines": [
+      [
+        62,
+        62
+      ],
+      [
+        113,
+        113
+      ]
+    ]
+  },
+  "test_054": {
+    "ground_truth": "../cov_trace//trace_054.json",
+    "ana_result": "../../../../result/tcas/trace_054",
+    "recall": [
+      0.9333333333333333
+    ],
+    "precision": [
+      0.5662650602409639
+    ],
+    "accuracy": [
+      0.9624125874125874
+    ],
+    "max_recall_files": [
+      "../../../../result/tcas/trace_054/full_path_coverage_00.json"
+    ],
+    "max_precision_files": [
+      "../../../../result/tcas/trace_054/full_path_coverage_00.json"
+    ],
+    "max_acc_files": [
+      "../../../../result/tcas/trace_054/full_path_00.json"
+    ],
+    "uncovered_lines": [
+      52,
+      148
+    ],
+    "wrong_lines": [
+      [
+        62,
+        62
+      ],
+      [
+        67,
+        67
+      ],
+      [
+        71,
+        77
+      ],
+      [
+        79,
+        85
+      ],
+      [
+        89,
+        95
+      ],
+      [
+        97,
+        103
+      ],
+      [
+        108,
+        108
+      ],
+      [
+        113,
+        113
+      ],
+      [
+        136,
+        137
+      ],
+      [
+        138,
+        139
+      ]
+    ]
+  },
+  "test_055": {
+    "ground_truth": "../cov_trace//trace_055.json",
+    "ana_result": "../../../../result/tcas/trace_055",
+    "recall": [
+      0.9333333333333333
+    ],
+    "precision": [
+      0.5662650602409639
+    ],
+    "accuracy": [
+      0.9624125874125874
+    ],
+    "max_recall_files": [
+      "../../../../result/tcas/trace_055/full_path_coverage_00.json"
+    ],
+    "max_precision_files": [
+      "../../../../result/tcas/trace_055/full_path_coverage_00.json"
+    ],
+    "max_acc_files": [
+      "../../../../result/tcas/trace_055/full_path_00.json"
+    ],
+    "uncovered_lines": [
+      52,
+      148
+    ],
+    "wrong_lines": [
+      [
+        62,
+        62
+      ],
+      [
+        67,
+        67
+      ],
+      [
+        71,
+        77
+      ],
+      [
+        79,
+        85
+      ],
+      [
+        89,
+        95
+      ],
+      [
+        97,
+        103
+      ],
+      [
+        108,
+        108
+      ],
+      [
+        113,
+        113
+      ],
+      [
+        136,
+        137
+      ],
+      [
+        138,
+        139
+      ]
+    ]
+  },
+  "test_056": {
+    "ground_truth": "../cov_trace//trace_056.json",
+    "ana_result": "../../../../result/tcas/trace_056",
+    "recall": [
+      0.9333333333333333
+    ],
+    "precision": [
+      0.5662650602409639
+    ],
+    "accuracy": [
+      0.9624125874125874
+    ],
+    "max_recall_files": [
+      "../../../../result/tcas/trace_056/full_path_coverage_00.json"
+    ],
+    "max_precision_files": [
+      "../../../../result/tcas/trace_056/full_path_coverage_00.json"
+    ],
+    "max_acc_files": [
+      "../../../../result/tcas/trace_056/full_path_00.json"
+    ],
+    "uncovered_lines": [
+      52,
+      148
+    ],
+    "wrong_lines": [
+      [
+        62,
+        62
+      ],
+      [
+        67,
+        67
+      ],
+      [
+        71,
+        77
+      ],
+      [
+        79,
+        85
+      ],
+      [
+        89,
+        95
+      ],
+      [
+        97,
+        103
+      ],
+      [
+        108,
+        108
+      ],
+      [
+        113,
+        113
+      ],
+      [
+        136,
+        137
+      ],
+      [
+        138,
+        139
+      ]
+    ]
+  },
+  "test_057": {
+    "ground_truth": "../cov_trace//trace_057.json",
+    "ana_result": "../../../../result/tcas/trace_057",
+    "recall": [
+      0.9019607843137255
+    ],
+    "precision": [
+      0.9879518072289156
+    ],
+    "accuracy": [
+      0.986013986013986
+    ],
+    "max_recall_files": [
+      "../../../../result/tcas/trace_057/full_path_coverage_00.json"
+    ],
+    "max_precision_files": [
+      "../../../../result/tcas/trace_057/full_path_coverage_00.json"
+    ],
+    "max_acc_files": [
+      "../../../../result/tcas/trace_057/full_path_00.json"
+    ],
+    "uncovered_lines": [
+      52,
+      60,
+      65,
+      106,
+      148
+    ],
+    "wrong_lines": [
+      [
+        113,
+        113
+      ]
+    ]
+  },
+  "test_058": {
+    "ground_truth": "../cov_trace//trace_058.json",
+    "ana_result": "../../../../result/tcas/trace_058",
+    "recall": [
+      0.92
+    ],
+    "precision": [
+      0.9759036144578314
+    ],
+    "accuracy": [
+      0.9877622377622378
+    ],
+    "max_recall_files": [
+      "../../../../result/tcas/trace_058/full_path_coverage_00.json"
+    ],
+    "max_precision_files": [
+      "../../../../result/tcas/trace_058/full_path_coverage_00.json"
+    ],
+    "max_acc_files": [
+      "../../../../result/tcas/trace_058/full_path_00.json"
+    ],
+    "uncovered_lines": [
+      52,
+      65,
+      111,
+      148
+    ],
+    "wrong_lines": [
+      [
+        62,
+        62
+      ],
+      [
+        108,
+        108
+      ]
+    ]
+  },
+  "test_059": {
+    "ground_truth": "../cov_trace//trace_059.json",
+    "ana_result": "../../../../result/tcas/trace_059",
+    "recall": [
+      0.9333333333333333
+    ],
+    "precision": [
+      0.5662650602409639
+    ],
+    "accuracy": [
+      0.9624125874125874
+    ],
+    "max_recall_files": [
+      "../../../../result/tcas/trace_059/full_path_coverage_00.json"
+    ],
+    "max_precision_files": [
+      "../../../../result/tcas/trace_059/full_path_coverage_00.json"
+    ],
+    "max_acc_files": [
+      "../../../../result/tcas/trace_059/full_path_00.json"
+    ],
+    "uncovered_lines": [
+      52,
+      148
+    ],
+    "wrong_lines": [
+      [
+        62,
+        62
+      ],
+      [
+        67,
+        67
+      ],
+      [
+        71,
+        77
+      ],
+      [
+        79,
+        85
+      ],
+      [
+        89,
+        95
+      ],
+      [
+        97,
+        103
+      ],
+      [
+        108,
+        108
+      ],
+      [
+        113,
+        113
+      ],
+      [
+        136,
+        137
+      ],
+      [
+        138,
+        139
+      ]
+    ]
+  },
+  "test_060": {
+    "ground_truth": "../cov_trace//trace_060.json",
+    "ana_result": "../../../../result/tcas/trace_060",
+    "recall": [
+      0.9333333333333333
+    ],
+    "precision": [
+      0.5662650602409639
+    ],
+    "accuracy": [
+      0.9624125874125874
+    ],
+    "max_recall_files": [
+      "../../../../result/tcas/trace_060/full_path_coverage_00.json"
+    ],
+    "max_precision_files": [
+      "../../../../result/tcas/trace_060/full_path_coverage_00.json"
+    ],
+    "max_acc_files": [
+      "../../../../result/tcas/trace_060/full_path_00.json"
+    ],
+    "uncovered_lines": [
+      52,
+      148
+    ],
+    "wrong_lines": [
+      [
+        62,
+        62
+      ],
+      [
+        67,
+        67
+      ],
+      [
+        71,
+        77
+      ],
+      [
+        79,
+        85
+      ],
+      [
+        89,
+        95
+      ],
+      [
+        97,
+        103
+      ],
+      [
+        108,
+        108
+      ],
+      [
+        113,
+        113
+      ],
+      [
+        136,
+        137
+      ],
+      [
+        138,
+        139
+      ]
+    ]
+  },
+  "test_061": {
+    "ground_truth": "../cov_trace//trace_061.json",
+    "ana_result": "../../../../result/tcas/trace_061",
+    "recall": [
+      0.9333333333333333
+    ],
+    "precision": [
+      0.5662650602409639
+    ],
+    "accuracy": [
+      0.9624125874125874
+    ],
+    "max_recall_files": [
+      "../../../../result/tcas/trace_061/full_path_coverage_00.json"
+    ],
+    "max_precision_files": [
+      "../../../../result/tcas/trace_061/full_path_coverage_00.json"
+    ],
+    "max_acc_files": [
+      "../../../../result/tcas/trace_061/full_path_00.json"
+    ],
+    "uncovered_lines": [
+      52,
+      148
+    ],
+    "wrong_lines": [
+      [
+        62,
+        62
+      ],
+      [
+        67,
+        67
+      ],
+      [
+        71,
+        77
+      ],
+      [
+        79,
+        85
+      ],
+      [
+        89,
+        95
+      ],
+      [
+        97,
+        103
+      ],
+      [
+        108,
+        108
+      ],
+      [
+        113,
+        113
+      ],
+      [
+        136,
+        137
+      ],
+      [
+        138,
+        139
+      ]
+    ]
+  },
+  "test_062": {
+    "ground_truth": "../cov_trace//trace_062.json",
+    "ana_result": "../../../../result/tcas/trace_062",
+    "recall": [
+      0.9333333333333333
+    ],
+    "precision": [
+      0.5662650602409639
+    ],
+    "accuracy": [
+      0.9624125874125874
+    ],
+    "max_recall_files": [
+      "../../../../result/tcas/trace_062/full_path_coverage_00.json"
+    ],
+    "max_precision_files": [
+      "../../../../result/tcas/trace_062/full_path_coverage_00.json"
+    ],
+    "max_acc_files": [
+      "../../../../result/tcas/trace_062/full_path_00.json"
+    ],
+    "uncovered_lines": [
+      52,
+      148
+    ],
+    "wrong_lines": [
+      [
+        62,
+        62
+      ],
+      [
+        67,
+        67
+      ],
+      [
+        71,
+        77
+      ],
+      [
+        79,
+        85
+      ],
+      [
+        89,
+        95
+      ],
+      [
+        97,
+        103
+      ],
+      [
+        108,
+        108
+      ],
+      [
+        113,
+        113
+      ],
+      [
+        136,
+        137
+      ],
+      [
+        138,
+        139
+      ]
+    ]
+  },
+  "test_063": {
+    "ground_truth": "../cov_trace//trace_063.json",
+    "ana_result": "../../../../result/tcas/trace_063",
+    "recall": [
+      0.9333333333333333
+    ],
+    "precision": [
+      0.5662650602409639
+    ],
+    "accuracy": [
+      0.9624125874125874
+    ],
+    "max_recall_files": [
+      "../../../../result/tcas/trace_063/full_path_coverage_00.json"
+    ],
+    "max_precision_files": [
+      "../../../../result/tcas/trace_063/full_path_coverage_00.json"
+    ],
+    "max_acc_files": [
+      "../../../../result/tcas/trace_063/full_path_00.json"
+    ],
+    "uncovered_lines": [
+      52,
+      148
+    ],
+    "wrong_lines": [
+      [
+        62,
+        62
+      ],
+      [
+        67,
+        67
+      ],
+      [
+        71,
+        77
+      ],
+      [
+        79,
+        85
+      ],
+      [
+        89,
+        95
+      ],
+      [
+        97,
+        103
+      ],
+      [
+        108,
+        108
+      ],
+      [
+        113,
+        113
+      ],
+      [
+        136,
+        137
+      ],
+      [
+        138,
+        139
+      ]
+    ]
+  },
+  "test_064": {
+    "ground_truth": "../cov_trace//trace_064.json",
+    "ana_result": "../../../../result/tcas/trace_064",
+    "recall": [
+      0.92
+    ],
+    "precision": [
+      0.9759036144578314
+    ],
+    "accuracy": [
+      0.9877622377622378
+    ],
+    "max_recall_files": [
+      "../../../../result/tcas/trace_064/full_path_coverage_00.json"
+    ],
+    "max_precision_files": [
+      "../../../../result/tcas/trace_064/full_path_coverage_00.json"
+    ],
+    "max_acc_files": [
+      "../../../../result/tcas/trace_064/full_path_00.json"
+    ],
+    "uncovered_lines": [
+      52,
+      65,
+      111,
+      148
+    ],
+    "wrong_lines": [
+      [
+        62,
+        62
+      ],
+      [
+        108,
+        108
+      ]
+    ]
+  },
+  "test_065": {
+    "ground_truth": "../cov_trace//trace_065.json",
+    "ana_result": "../../../../result/tcas/trace_065",
+    "recall": [
+      0.9333333333333333
+    ],
+    "precision": [
+      0.5662650602409639
+    ],
+    "accuracy": [
+      0.9624125874125874
+    ],
+    "max_recall_files": [
+      "../../../../result/tcas/trace_065/full_path_coverage_00.json"
+    ],
+    "max_precision_files": [
+      "../../../../result/tcas/trace_065/full_path_coverage_00.json"
+    ],
+    "max_acc_files": [
+      "../../../../result/tcas/trace_065/full_path_00.json"
+    ],
+    "uncovered_lines": [
+      52,
+      148
+    ],
+    "wrong_lines": [
+      [
+        62,
+        62
+      ],
+      [
+        67,
+        67
+      ],
+      [
+        71,
+        77
+      ],
+      [
+        79,
+        85
+      ],
+      [
+        89,
+        95
+      ],
+      [
+        97,
+        103
+      ],
+      [
+        108,
+        108
+      ],
+      [
+        113,
+        113
+      ],
+      [
+        136,
+        137
+      ],
+      [
+        138,
+        139
+      ]
+    ]
+  },
+  "test_066": {
+    "ground_truth": "../cov_trace//trace_066.json",
+    "ana_result": "../../../../result/tcas/trace_066",
+    "recall": [
+      0.9333333333333333
+    ],
+    "precision": [
+      0.5662650602409639
+    ],
+    "accuracy": [
+      0.9624125874125874
+    ],
+    "max_recall_files": [
+      "../../../../result/tcas/trace_066/full_path_coverage_00.json"
+    ],
+    "max_precision_files": [
+      "../../../../result/tcas/trace_066/full_path_coverage_00.json"
+    ],
+    "max_acc_files": [
+      "../../../../result/tcas/trace_066/full_path_00.json"
+    ],
+    "uncovered_lines": [
+      52,
+      148
+    ],
+    "wrong_lines": [
+      [
+        62,
+        62
+      ],
+      [
+        67,
+        67
+      ],
+      [
+        71,
+        77
+      ],
+      [
+        79,
+        85
+      ],
+      [
+        89,
+        95
+      ],
+      [
+        97,
+        103
+      ],
+      [
+        108,
+        108
+      ],
+      [
+        113,
+        113
+      ],
+      [
+        136,
+        137
+      ],
+      [
+        138,
+        139
+      ]
+    ]
+  },
+  "test_067": {
+    "ground_truth": "../cov_trace//trace_067.json",
+    "ana_result": "../../../../result/tcas/trace_067",
+    "recall": [
+      0.9333333333333333
+    ],
+    "precision": [
+      0.5662650602409639
+    ],
+    "accuracy": [
+      0.9624125874125874
+    ],
+    "max_recall_files": [
+      "../../../../result/tcas/trace_067/full_path_coverage_00.json"
+    ],
+    "max_precision_files": [
+      "../../../../result/tcas/trace_067/full_path_coverage_00.json"
+    ],
+    "max_acc_files": [
+      "../../../../result/tcas/trace_067/full_path_00.json"
+    ],
+    "uncovered_lines": [
+      52,
+      148
+    ],
+    "wrong_lines": [
+      [
+        62,
+        62
+      ],
+      [
+        67,
+        67
+      ],
+      [
+        71,
+        77
+      ],
+      [
+        79,
+        85
+      ],
+      [
+        89,
+        95
+      ],
+      [
+        97,
+        103
+      ],
+      [
+        108,
+        108
+      ],
+      [
+        113,
+        113
+      ],
+      [
+        136,
+        137
+      ],
+      [
+        138,
+        139
+      ]
+    ]
+  },
+  "test_068": {
+    "ground_truth": "../cov_trace//trace_068.json",
+    "ana_result": "../../../../result/tcas/trace_068",
+    "recall": [
+      0.9333333333333333
+    ],
+    "precision": [
+      0.5662650602409639
+    ],
+    "accuracy": [
+      0.9624125874125874
+    ],
+    "max_recall_files": [
+      "../../../../result/tcas/trace_068/full_path_coverage_00.json"
+    ],
+    "max_precision_files": [
+      "../../../../result/tcas/trace_068/full_path_coverage_00.json"
+    ],
+    "max_acc_files": [
+      "../../../../result/tcas/trace_068/full_path_00.json"
+    ],
+    "uncovered_lines": [
+      52,
+      148
+    ],
+    "wrong_lines": [
+      [
+        62,
+        62
+      ],
+      [
+        67,
+        67
+      ],
+      [
+        71,
+        77
+      ],
+      [
+        79,
+        85
+      ],
+      [
+        89,
+        95
+      ],
+      [
+        97,
+        103
+      ],
+      [
+        108,
+        108
+      ],
+      [
+        113,
+        113
+      ],
+      [
+        136,
+        137
+      ],
+      [
+        138,
+        139
+      ]
+    ]
+  },
+  "test_069": {
+    "ground_truth": "../cov_trace//trace_069.json",
+    "ana_result": "../../../../result/tcas/trace_069",
+    "recall": [
+      0.9333333333333333
+    ],
+    "precision": [
+      0.5662650602409639
+    ],
+    "accuracy": [
+      0.9624125874125874
+    ],
+    "max_recall_files": [
+      "../../../../result/tcas/trace_069/full_path_coverage_00.json"
+    ],
+    "max_precision_files": [
+      "../../../../result/tcas/trace_069/full_path_coverage_00.json"
+    ],
+    "max_acc_files": [
+      "../../../../result/tcas/trace_069/full_path_00.json"
+    ],
+    "uncovered_lines": [
+      52,
+      148
+    ],
+    "wrong_lines": [
+      [
+        62,
+        62
+      ],
+      [
+        67,
+        67
+      ],
+      [
+        71,
+        77
+      ],
+      [
+        79,
+        85
+      ],
+      [
+        89,
+        95
+      ],
+      [
+        97,
+        103
+      ],
+      [
+        108,
+        108
+      ],
+      [
+        113,
+        113
+      ],
+      [
+        136,
+        137
+      ],
+      [
+        138,
+        139
+      ]
+    ]
+  },
+  "test_070": {
+    "ground_truth": "../cov_trace//trace_070.json",
+    "ana_result": "../../../../result/tcas/trace_070",
+    "recall": [
+      0.9333333333333333
+    ],
+    "precision": [
+      0.5662650602409639
+    ],
+    "accuracy": [
+      0.9624125874125874
+    ],
+    "max_recall_files": [
+      "../../../../result/tcas/trace_070/full_path_coverage_00.json"
+    ],
+    "max_precision_files": [
+      "../../../../result/tcas/trace_070/full_path_coverage_00.json"
+    ],
+    "max_acc_files": [
+      "../../../../result/tcas/trace_070/full_path_00.json"
+    ],
+    "uncovered_lines": [
+      52,
+      148
+    ],
+    "wrong_lines": [
+      [
+        62,
+        62
+      ],
+      [
+        67,
+        67
+      ],
+      [
+        71,
+        77
+      ],
+      [
+        79,
+        85
+      ],
+      [
+        89,
+        95
+      ],
+      [
+        97,
+        103
+      ],
+      [
+        108,
+        108
+      ],
+      [
+        113,
+        113
+      ],
+      [
+        136,
+        137
+      ],
+      [
+        138,
+        139
+      ]
+    ]
+  },
+  "test_071": {
+    "ground_truth": "../cov_trace//trace_071.json",
+    "ana_result": "../../../../result/tcas/trace_071",
+    "recall": [
+      0.9333333333333333
+    ],
+    "precision": [
+      0.5662650602409639
+    ],
+    "accuracy": [
+      0.9624125874125874
+    ],
+    "max_recall_files": [
+      "../../../../result/tcas/trace_071/full_path_coverage_00.json"
+    ],
+    "max_precision_files": [
+      "../../../../result/tcas/trace_071/full_path_coverage_00.json"
+    ],
+    "max_acc_files": [
+      "../../../../result/tcas/trace_071/full_path_00.json"
+    ],
+    "uncovered_lines": [
+      52,
+      148
+    ],
+    "wrong_lines": [
+      [
+        62,
+        62
+      ],
+      [
+        67,
+        67
+      ],
+      [
+        71,
+        77
+      ],
+      [
+        79,
+        85
+      ],
+      [
+        89,
+        95
+      ],
+      [
+        97,
+        103
+      ],
+      [
+        108,
+        108
+      ],
+      [
+        113,
+        113
+      ],
+      [
+        136,
+        137
+      ],
+      [
+        138,
+        139
+      ]
+    ]
+  },
+  "test_072": {
+    "ground_truth": "../cov_trace//trace_072.json",
+    "ana_result": "../../../../result/tcas/trace_072",
+    "recall": [
+      0.8888888888888888
+    ],
+    "precision": [
+      1.0
+    ],
+    "accuracy": [
+      0.9895104895104895
+    ],
+    "max_recall_files": [
+      "../../../../result/tcas/trace_072/full_path_coverage_00.json"
+    ],
+    "max_precision_files": [
+      "../../../../result/tcas/trace_072/full_path_coverage_00.json"
+    ],
+    "max_acc_files": [
+      "../../../../result/tcas/trace_072/full_path_00.json"
+    ],
+    "uncovered_lines": [
+      52,
+      60,
+      65,
+      106,
+      111,
+      148
+    ],
+    "wrong_lines": []
+  },
+  "test_073": {
+    "ground_truth": "../cov_trace//trace_073.json",
+    "ana_result": "../../../../result/tcas/trace_073",
+    "recall": [
+      0.9019607843137255
+    ],
+    "precision": [
+      0.9879518072289156
+    ],
+    "accuracy": [
+      0.986013986013986
+    ],
+    "max_recall_files": [
+      "../../../../result/tcas/trace_073/full_path_coverage_00.json"
+    ],
+    "max_precision_files": [
+      "../../../../result/tcas/trace_073/full_path_coverage_00.json"
+    ],
+    "max_acc_files": [
+      "../../../../result/tcas/trace_073/full_path_00.json"
+    ],
+    "uncovered_lines": [
+      52,
+      60,
+      65,
+      106,
+      148
+    ],
+    "wrong_lines": [
+      [
+        113,
+        113
+      ]
+    ]
+  },
+  "test_074": {
+    "ground_truth": "../cov_trace//trace_074.json",
+    "ana_result": "../../../../result/tcas/trace_074",
+    "recall": [
+      0.9333333333333333
+    ],
+    "precision": [
+      0.5662650602409639
+    ],
+    "accuracy": [
+      0.9624125874125874
+    ],
+    "max_recall_files": [
+      "../../../../result/tcas/trace_074/full_path_coverage_00.json"
+    ],
+    "max_precision_files": [
+      "../../../../result/tcas/trace_074/full_path_coverage_00.json"
+    ],
+    "max_acc_files": [
+      "../../../../result/tcas/trace_074/full_path_00.json"
+    ],
+    "uncovered_lines": [
+      52,
+      148
+    ],
+    "wrong_lines": [
+      [
+        62,
+        62
+      ],
+      [
+        67,
+        67
+      ],
+      [
+        71,
+        77
+      ],
+      [
+        79,
+        85
+      ],
+      [
+        89,
+        95
+      ],
+      [
+        97,
+        103
+      ],
+      [
+        108,
+        108
+      ],
+      [
+        113,
+        113
+      ],
+      [
+        136,
+        137
+      ],
+      [
+        138,
+        139
+      ]
+    ]
+  },
+  "test_075": {
+    "ground_truth": "../cov_trace//trace_075.json",
+    "ana_result": "../../../../result/tcas/trace_075",
+    "recall": [
+      0.9333333333333333
+    ],
+    "precision": [
+      0.5662650602409639
+    ],
+    "accuracy": [
+      0.9624125874125874
+    ],
+    "max_recall_files": [
+      "../../../../result/tcas/trace_075/full_path_coverage_00.json"
+    ],
+    "max_precision_files": [
+      "../../../../result/tcas/trace_075/full_path_coverage_00.json"
+    ],
+    "max_acc_files": [
+      "../../../../result/tcas/trace_075/full_path_00.json"
+    ],
+    "uncovered_lines": [
+      52,
+      148
+    ],
+    "wrong_lines": [
+      [
+        62,
+        62
+      ],
+      [
+        67,
+        67
+      ],
+      [
+        71,
+        77
+      ],
+      [
+        79,
+        85
+      ],
+      [
+        89,
+        95
+      ],
+      [
+        97,
+        103
+      ],
+      [
+        108,
+        108
+      ],
+      [
+        113,
+        113
+      ],
+      [
+        136,
+        137
+      ],
+      [
+        138,
+        139
+      ]
+    ]
+  },
+  "test_076": {
+    "ground_truth": "../cov_trace//trace_076.json",
+    "ana_result": "../../../../result/tcas/trace_076",
+    "recall": [
+      0.9333333333333333
+    ],
+    "precision": [
+      0.5662650602409639
+    ],
+    "accuracy": [
+      0.9624125874125874
+    ],
+    "max_recall_files": [
+      "../../../../result/tcas/trace_076/full_path_coverage_00.json"
+    ],
+    "max_precision_files": [
+      "../../../../result/tcas/trace_076/full_path_coverage_00.json"
+    ],
+    "max_acc_files": [
+      "../../../../result/tcas/trace_076/full_path_00.json"
+    ],
+    "uncovered_lines": [
+      52,
+      148
+    ],
+    "wrong_lines": [
+      [
+        62,
+        62
+      ],
+      [
+        67,
+        67
+      ],
+      [
+        71,
+        77
+      ],
+      [
+        79,
+        85
+      ],
+      [
+        89,
+        95
+      ],
+      [
+        97,
+        103
+      ],
+      [
+        108,
+        108
+      ],
+      [
+        113,
+        113
+      ],
+      [
+        136,
+        137
+      ],
+      [
+        138,
+        139
+      ]
+    ]
+  },
+  "test_077": {
+    "ground_truth": "../cov_trace//trace_077.json",
+    "ana_result": "../../../../result/tcas/trace_077",
+    "recall": [
+      0.9333333333333333
+    ],
+    "precision": [
+      0.5662650602409639
+    ],
+    "accuracy": [
+      0.9624125874125874
+    ],
+    "max_recall_files": [
+      "../../../../result/tcas/trace_077/full_path_coverage_00.json"
+    ],
+    "max_precision_files": [
+      "../../../../result/tcas/trace_077/full_path_coverage_00.json"
+    ],
+    "max_acc_files": [
+      "../../../../result/tcas/trace_077/full_path_00.json"
+    ],
+    "uncovered_lines": [
+      52,
+      148
+    ],
+    "wrong_lines": [
+      [
+        62,
+        62
+      ],
+      [
+        67,
+        67
+      ],
+      [
+        71,
+        77
+      ],
+      [
+        79,
+        85
+      ],
+      [
+        89,
+        95
+      ],
+      [
+        97,
+        103
+      ],
+      [
+        108,
+        108
+      ],
+      [
+        113,
+        113
+      ],
+      [
+        136,
+        137
+      ],
+      [
+        138,
+        139
+      ]
+    ]
+  },
+  "test_078": {
+    "ground_truth": "../cov_trace//trace_078.json",
+    "ana_result": "../../../../result/tcas/trace_078",
+    "recall": [
+      0.8888888888888888
+    ],
+    "precision": [
+      1.0
+    ],
+    "accuracy": [
+      0.9895104895104895
+    ],
+    "max_recall_files": [
+      "../../../../result/tcas/trace_078/full_path_coverage_00.json"
+    ],
+    "max_precision_files": [
+      "../../../../result/tcas/trace_078/full_path_coverage_00.json"
+    ],
+    "max_acc_files": [
+      "../../../../result/tcas/trace_078/full_path_00.json"
+    ],
+    "uncovered_lines": [
+      52,
+      60,
+      65,
+      106,
+      111,
+      148
+    ],
+    "wrong_lines": []
+  },
+  "test_079": {
+    "ground_truth": "../cov_trace//trace_079.json",
+    "ana_result": "../../../../result/tcas/trace_079",
+    "recall": [
+      0.9333333333333333
+    ],
+    "precision": [
+      0.5662650602409639
+    ],
+    "accuracy": [
+      0.9624125874125874
+    ],
+    "max_recall_files": [
+      "../../../../result/tcas/trace_079/full_path_coverage_00.json"
+    ],
+    "max_precision_files": [
+      "../../../../result/tcas/trace_079/full_path_coverage_00.json"
+    ],
+    "max_acc_files": [
+      "../../../../result/tcas/trace_079/full_path_00.json"
+    ],
+    "uncovered_lines": [
+      52,
+      148
+    ],
+    "wrong_lines": [
+      [
+        62,
+        62
+      ],
+      [
+        67,
+        67
+      ],
+      [
+        71,
+        77
+      ],
+      [
+        79,
+        85
+      ],
+      [
+        89,
+        95
+      ],
+      [
+        97,
+        103
+      ],
+      [
+        108,
+        108
+      ],
+      [
+        113,
+        113
+      ],
+      [
+        136,
+        137
+      ],
+      [
+        138,
+        139
+      ]
+    ]
+  },
+  "test_080": {
+    "ground_truth": "../cov_trace//trace_080.json",
+    "ana_result": "../../../../result/tcas/trace_080",
+    "recall": [
+      0.9333333333333333
+    ],
+    "precision": [
+      0.5662650602409639
+    ],
+    "accuracy": [
+      0.9624125874125874
+    ],
+    "max_recall_files": [
+      "../../../../result/tcas/trace_080/full_path_coverage_00.json"
+    ],
+    "max_precision_files": [
+      "../../../../result/tcas/trace_080/full_path_coverage_00.json"
+    ],
+    "max_acc_files": [
+      "../../../../result/tcas/trace_080/full_path_00.json"
+    ],
+    "uncovered_lines": [
+      52,
+      148
+    ],
+    "wrong_lines": [
+      [
+        62,
+        62
+      ],
+      [
+        67,
+        67
+      ],
+      [
+        71,
+        77
+      ],
+      [
+        79,
+        85
+      ],
+      [
+        89,
+        95
+      ],
+      [
+        97,
+        103
+      ],
+      [
+        108,
+        108
+      ],
+      [
+        113,
+        113
+      ],
+      [
+        136,
+        137
+      ],
+      [
+        138,
+        139
+      ]
+    ]
+  },
+  "test_081": {
+    "ground_truth": "../cov_trace//trace_081.json",
+    "ana_result": "../../../../result/tcas/trace_081",
+    "recall": [
+      0.92
+    ],
+    "precision": [
+      0.9759036144578314
+    ],
+    "accuracy": [
+      0.9877622377622378
+    ],
+    "max_recall_files": [
+      "../../../../result/tcas/trace_081/full_path_coverage_00.json"
+    ],
+    "max_precision_files": [
+      "../../../../result/tcas/trace_081/full_path_coverage_00.json"
+    ],
+    "max_acc_files": [
+      "../../../../result/tcas/trace_081/full_path_00.json"
+    ],
+    "uncovered_lines": [
+      52,
+      65,
+      111,
+      148
+    ],
+    "wrong_lines": [
+      [
+        62,
+        62
+      ],
+      [
+        108,
+        108
+      ]
+    ]
+  },
+  "test_082": {
+    "ground_truth": "../cov_trace//trace_082.json",
+    "ana_result": "../../../../result/tcas/trace_082",
+    "recall": [
+      0.9019607843137255
+    ],
+    "precision": [
+      0.9879518072289156
+    ],
+    "accuracy": [
+      0.986013986013986
+    ],
+    "max_recall_files": [
+      "../../../../result/tcas/trace_082/full_path_coverage_00.json"
+    ],
+    "max_precision_files": [
+      "../../../../result/tcas/trace_082/full_path_coverage_00.json"
+    ],
+    "max_acc_files": [
+      "../../../../result/tcas/trace_082/full_path_00.json"
+    ],
+    "uncovered_lines": [
+      52,
+      60,
+      65,
+      106,
+      148
+    ],
+    "wrong_lines": [
+      [
+        113,
+        113
+      ]
+    ]
+  },
+  "test_083": {
+    "ground_truth": "../cov_trace//trace_083.json",
+    "ana_result": "../../../../result/tcas/trace_083",
+    "recall": [
+      0.9333333333333333
+    ],
+    "precision": [
+      0.5662650602409639
+    ],
+    "accuracy": [
+      0.9624125874125874
+    ],
+    "max_recall_files": [
+      "../../../../result/tcas/trace_083/full_path_coverage_00.json"
+    ],
+    "max_precision_files": [
+      "../../../../result/tcas/trace_083/full_path_coverage_00.json"
+    ],
+    "max_acc_files": [
+      "../../../../result/tcas/trace_083/full_path_00.json"
+    ],
+    "uncovered_lines": [
+      52,
+      148
+    ],
+    "wrong_lines": [
+      [
+        62,
+        62
+      ],
+      [
+        67,
+        67
+      ],
+      [
+        71,
+        77
+      ],
+      [
+        79,
+        85
+      ],
+      [
+        89,
+        95
+      ],
+      [
+        97,
+        103
+      ],
+      [
+        108,
+        108
+      ],
+      [
+        113,
+        113
+      ],
+      [
+        136,
+        137
+      ],
+      [
+        138,
+        139
+      ]
+    ]
+  },
+  "test_084": {
+    "ground_truth": "../cov_trace//trace_084.json",
+    "ana_result": "../../../../result/tcas/trace_084",
+    "recall": [
+      0.9333333333333333
+    ],
+    "precision": [
+      0.5662650602409639
+    ],
+    "accuracy": [
+      0.9624125874125874
+    ],
+    "max_recall_files": [
+      "../../../../result/tcas/trace_084/full_path_coverage_00.json"
+    ],
+    "max_precision_files": [
+      "../../../../result/tcas/trace_084/full_path_coverage_00.json"
+    ],
+    "max_acc_files": [
+      "../../../../result/tcas/trace_084/full_path_00.json"
+    ],
+    "uncovered_lines": [
+      52,
+      148
+    ],
+    "wrong_lines": [
+      [
+        62,
+        62
+      ],
+      [
+        67,
+        67
+      ],
+      [
+        71,
+        77
+      ],
+      [
+        79,
+        85
+      ],
+      [
+        89,
+        95
+      ],
+      [
+        97,
+        103
+      ],
+      [
+        108,
+        108
+      ],
+      [
+        113,
+        113
+      ],
+      [
+        136,
+        137
+      ],
+      [
+        138,
+        139
+      ]
+    ]
+  },
+  "test_085": {
+    "ground_truth": "../cov_trace//trace_085.json",
+    "ana_result": "../../../../result/tcas/trace_085",
+    "recall": [
+      0.9019607843137255
+    ],
+    "precision": [
+      0.9879518072289156
+    ],
+    "accuracy": [
+      0.986013986013986
+    ],
+    "max_recall_files": [
+      "../../../../result/tcas/trace_085/full_path_coverage_00.json"
+    ],
+    "max_precision_files": [
+      "../../../../result/tcas/trace_085/full_path_coverage_00.json"
+    ],
+    "max_acc_files": [
+      "../../../../result/tcas/trace_085/full_path_00.json"
+    ],
+    "uncovered_lines": [
+      52,
+      60,
+      65,
+      106,
+      148
+    ],
+    "wrong_lines": [
+      [
+        113,
+        113
+      ]
+    ]
+  },
+  "test_086": {
+    "ground_truth": "../cov_trace//trace_086.json",
+    "ana_result": "../../../../result/tcas/trace_086",
+    "recall": [
+      0.9333333333333333
+    ],
+    "precision": [
+      0.5662650602409639
+    ],
+    "accuracy": [
+      0.9624125874125874
+    ],
+    "max_recall_files": [
+      "../../../../result/tcas/trace_086/full_path_coverage_00.json"
+    ],
+    "max_precision_files": [
+      "../../../../result/tcas/trace_086/full_path_coverage_00.json"
+    ],
+    "max_acc_files": [
+      "../../../../result/tcas/trace_086/full_path_00.json"
+    ],
+    "uncovered_lines": [
+      52,
+      148
+    ],
+    "wrong_lines": [
+      [
+        62,
+        62
+      ],
+      [
+        67,
+        67
+      ],
+      [
+        71,
+        77
+      ],
+      [
+        79,
+        85
+      ],
+      [
+        89,
+        95
+      ],
+      [
+        97,
+        103
+      ],
+      [
+        108,
+        108
+      ],
+      [
+        113,
+        113
+      ],
+      [
+        136,
+        137
+      ],
+      [
+        138,
+        139
+      ]
+    ]
+  },
+  "test_087": {
+    "ground_truth": "../cov_trace//trace_087.json",
+    "ana_result": "../../../../result/tcas/trace_087",
+    "recall": [
+      0.9333333333333333
+    ],
+    "precision": [
+      0.5662650602409639
+    ],
+    "accuracy": [
+      0.9624125874125874
+    ],
+    "max_recall_files": [
+      "../../../../result/tcas/trace_087/full_path_coverage_00.json"
+    ],
+    "max_precision_files": [
+      "../../../../result/tcas/trace_087/full_path_coverage_00.json"
+    ],
+    "max_acc_files": [
+      "../../../../result/tcas/trace_087/full_path_00.json"
+    ],
+    "uncovered_lines": [
+      52,
+      148
+    ],
+    "wrong_lines": [
+      [
+        62,
+        62
+      ],
+      [
+        67,
+        67
+      ],
+      [
+        71,
+        77
+      ],
+      [
+        79,
+        85
+      ],
+      [
+        89,
+        95
+      ],
+      [
+        97,
+        103
+      ],
+      [
+        108,
+        108
+      ],
+      [
+        113,
+        113
+      ],
+      [
+        136,
+        137
+      ],
+      [
+        138,
+        139
+      ]
+    ]
+  },
+  "test_088": {
+    "ground_truth": "../cov_trace//trace_088.json",
+    "ana_result": "../../../../result/tcas/trace_088",
+    "recall": [
+      0.9333333333333333
+    ],
+    "precision": [
+      0.5662650602409639
+    ],
+    "accuracy": [
+      0.9624125874125874
+    ],
+    "max_recall_files": [
+      "../../../../result/tcas/trace_088/full_path_coverage_00.json"
+    ],
+    "max_precision_files": [
+      "../../../../result/tcas/trace_088/full_path_coverage_00.json"
+    ],
+    "max_acc_files": [
+      "../../../../result/tcas/trace_088/full_path_00.json"
+    ],
+    "uncovered_lines": [
+      52,
+      148
+    ],
+    "wrong_lines": [
+      [
+        62,
+        62
+      ],
+      [
+        67,
+        67
+      ],
+      [
+        71,
+        77
+      ],
+      [
+        79,
+        85
+      ],
+      [
+        89,
+        95
+      ],
+      [
+        97,
+        103
+      ],
+      [
+        108,
+        108
+      ],
+      [
+        113,
+        113
+      ],
+      [
+        136,
+        137
+      ],
+      [
+        138,
+        139
+      ]
+    ]
+  },
+  "test_089": {
+    "ground_truth": "../cov_trace//trace_089.json",
+    "ana_result": "../../../../result/tcas/trace_089",
+    "recall": [
+      0.9333333333333333
+    ],
+    "precision": [
+      0.5662650602409639
+    ],
+    "accuracy": [
+      0.9624125874125874
+    ],
+    "max_recall_files": [
+      "../../../../result/tcas/trace_089/full_path_coverage_00.json"
+    ],
+    "max_precision_files": [
+      "../../../../result/tcas/trace_089/full_path_coverage_00.json"
+    ],
+    "max_acc_files": [
+      "../../../../result/tcas/trace_089/full_path_00.json"
+    ],
+    "uncovered_lines": [
+      52,
+      148
+    ],
+    "wrong_lines": [
+      [
+        62,
+        62
+      ],
+      [
+        67,
+        67
+      ],
+      [
+        71,
+        77
+      ],
+      [
+        79,
+        85
+      ],
+      [
+        89,
+        95
+      ],
+      [
+        97,
+        103
+      ],
+      [
+        108,
+        108
+      ],
+      [
+        113,
+        113
+      ],
+      [
+        136,
+        137
+      ],
+      [
+        138,
+        139
+      ]
+    ]
+  },
+  "test_090": {
+    "ground_truth": "../cov_trace//trace_090.json",
+    "ana_result": "../../../../result/tcas/trace_090",
+    "recall": [
+      0.9333333333333333
+    ],
+    "precision": [
+      0.5662650602409639
+    ],
+    "accuracy": [
+      0.9624125874125874
+    ],
+    "max_recall_files": [
+      "../../../../result/tcas/trace_090/full_path_coverage_00.json"
+    ],
+    "max_precision_files": [
+      "../../../../result/tcas/trace_090/full_path_coverage_00.json"
+    ],
+    "max_acc_files": [
+      "../../../../result/tcas/trace_090/full_path_00.json"
+    ],
+    "uncovered_lines": [
+      52,
+      148
+    ],
+    "wrong_lines": [
+      [
+        62,
+        62
+      ],
+      [
+        67,
+        67
+      ],
+      [
+        71,
+        77
+      ],
+      [
+        79,
+        85
+      ],
+      [
+        89,
+        95
+      ],
+      [
+        97,
+        103
+      ],
+      [
+        108,
+        108
+      ],
+      [
+        113,
+        113
+      ],
+      [
+        136,
+        137
+      ],
+      [
+        138,
+        139
+      ]
+    ]
+  },
+  "test_091": {
+    "ground_truth": "../cov_trace//trace_091.json",
+    "ana_result": "../../../../result/tcas/trace_091",
+    "recall": [
+      0.8888888888888888
+    ],
+    "precision": [
+      1.0
+    ],
+    "accuracy": [
+      0.9877622377622378
+    ],
+    "max_recall_files": [
+      "../../../../result/tcas/trace_091/full_path_coverage_00.json"
+    ],
+    "max_precision_files": [
+      "../../../../result/tcas/trace_091/full_path_coverage_00.json"
+    ],
+    "max_acc_files": [
+      "../../../../result/tcas/trace_091/full_path_00.json"
+    ],
+    "uncovered_lines": [
+      52,
+      60,
+      65,
+      106,
+      111,
+      148
+    ],
+    "wrong_lines": []
+  },
+  "test_092": {
+    "ground_truth": "../cov_trace//trace_092.json",
+    "ana_result": "../../../../result/tcas/trace_092",
+    "recall": [
+      0.9333333333333333
+    ],
+    "precision": [
+      0.5662650602409639
+    ],
+    "accuracy": [
+      0.9624125874125874
+    ],
+    "max_recall_files": [
+      "../../../../result/tcas/trace_092/full_path_coverage_00.json"
+    ],
+    "max_precision_files": [
+      "../../../../result/tcas/trace_092/full_path_coverage_00.json"
+    ],
+    "max_acc_files": [
+      "../../../../result/tcas/trace_092/full_path_00.json"
+    ],
+    "uncovered_lines": [
+      52,
+      148
+    ],
+    "wrong_lines": [
+      [
+        62,
+        62
+      ],
+      [
+        67,
+        67
+      ],
+      [
+        71,
+        77
+      ],
+      [
+        79,
+        85
+      ],
+      [
+        89,
+        95
+      ],
+      [
+        97,
+        103
+      ],
+      [
+        108,
+        108
+      ],
+      [
+        113,
+        113
+      ],
+      [
+        136,
+        137
+      ],
+      [
+        138,
+        139
+      ]
+    ]
+  },
+  "test_093": {
+    "ground_truth": "../cov_trace//trace_093.json",
+    "ana_result": "../../../../result/tcas/trace_093",
+    "recall": [
+      0.9038461538461539
+    ],
+    "precision": [
+      0.9879518072289156
+    ],
+    "accuracy": [
+      0.9886363636363636
+    ],
+    "max_recall_files": [
+      "../../../../result/tcas/trace_093/full_path_coverage_00.json"
+    ],
+    "max_precision_files": [
+      "../../../../result/tcas/trace_093/full_path_coverage_00.json"
+    ],
+    "max_acc_files": [
+      "../../../../result/tcas/trace_093/full_path_00.json"
+    ],
+    "uncovered_lines": [
+      52,
+      60,
+      65,
+      111,
+      148
+    ],
+    "wrong_lines": [
+      [
+        108,
+        108
+      ]
+    ]
+  },
+  "test_094": {
+    "ground_truth": "../cov_trace//trace_094.json",
+    "ana_result": "../../../../result/tcas/trace_094",
+    "recall": [
+      0.9333333333333333
+    ],
+    "precision": [
+      0.5662650602409639
+    ],
+    "accuracy": [
+      0.9624125874125874
+    ],
+    "max_recall_files": [
+      "../../../../result/tcas/trace_094/full_path_coverage_00.json"
+    ],
+    "max_precision_files": [
+      "../../../../result/tcas/trace_094/full_path_coverage_00.json"
+    ],
+    "max_acc_files": [
+      "../../../../result/tcas/trace_094/full_path_00.json"
+    ],
+    "uncovered_lines": [
+      52,
+      148
+    ],
+    "wrong_lines": [
+      [
+        62,
+        62
+      ],
+      [
+        67,
+        67
+      ],
+      [
+        71,
+        77
+      ],
+      [
+        79,
+        85
+      ],
+      [
+        89,
+        95
+      ],
+      [
+        97,
+        103
+      ],
+      [
+        108,
+        108
+      ],
+      [
+        113,
+        113
+      ],
+      [
+        136,
+        137
+      ],
+      [
+        138,
+        139
+      ]
+    ]
+  },
+  "test_095": {
+    "ground_truth": "../cov_trace//trace_095.json",
+    "ana_result": "../../../../result/tcas/trace_095",
+    "recall": [
+      0.9333333333333333
+    ],
+    "precision": [
+      0.5662650602409639
+    ],
+    "accuracy": [
+      0.9624125874125874
+    ],
+    "max_recall_files": [
+      "../../../../result/tcas/trace_095/full_path_coverage_00.json"
+    ],
+    "max_precision_files": [
+      "../../../../result/tcas/trace_095/full_path_coverage_00.json"
+    ],
+    "max_acc_files": [
+      "../../../../result/tcas/trace_095/full_path_00.json"
+    ],
+    "uncovered_lines": [
+      52,
+      148
+    ],
+    "wrong_lines": [
+      [
+        62,
+        62
+      ],
+      [
+        67,
+        67
+      ],
+      [
+        71,
+        77
+      ],
+      [
+        79,
+        85
+      ],
+      [
+        89,
+        95
+      ],
+      [
+        97,
+        103
+      ],
+      [
+        108,
+        108
+      ],
+      [
+        113,
+        113
+      ],
+      [
+        136,
+        137
+      ],
+      [
+        138,
+        139
+      ]
+    ]
+  },
+  "test_096": {
+    "ground_truth": "../cov_trace//trace_096.json",
+    "ana_result": "../../../../result/tcas/trace_096",
+    "recall": [
+      0.9333333333333333
+    ],
+    "precision": [
+      0.5662650602409639
+    ],
+    "accuracy": [
+      0.9624125874125874
+    ],
+    "max_recall_files": [
+      "../../../../result/tcas/trace_096/full_path_coverage_00.json"
+    ],
+    "max_precision_files": [
+      "../../../../result/tcas/trace_096/full_path_coverage_00.json"
+    ],
+    "max_acc_files": [
+      "../../../../result/tcas/trace_096/full_path_00.json"
+    ],
+    "uncovered_lines": [
+      52,
+      148
+    ],
+    "wrong_lines": [
+      [
+        62,
+        62
+      ],
+      [
+        67,
+        67
+      ],
+      [
+        71,
+        77
+      ],
+      [
+        79,
+        85
+      ],
+      [
+        89,
+        95
+      ],
+      [
+        97,
+        103
+      ],
+      [
+        108,
+        108
+      ],
+      [
+        113,
+        113
+      ],
+      [
+        136,
+        137
+      ],
+      [
+        138,
+        139
+      ]
+    ]
+  },
+  "test_097": {
+    "ground_truth": "../cov_trace//trace_097.json",
+    "ana_result": "../../../../result/tcas/trace_097",
+    "recall": [
+      0.9333333333333333
+    ],
+    "precision": [
+      0.5662650602409639
+    ],
+    "accuracy": [
+      0.9624125874125874
+    ],
+    "max_recall_files": [
+      "../../../../result/tcas/trace_097/full_path_coverage_00.json"
+    ],
+    "max_precision_files": [
+      "../../../../result/tcas/trace_097/full_path_coverage_00.json"
+    ],
+    "max_acc_files": [
+      "../../../../result/tcas/trace_097/full_path_00.json"
+    ],
+    "uncovered_lines": [
+      52,
+      148
+    ],
+    "wrong_lines": [
+      [
+        62,
+        62
+      ],
+      [
+        67,
+        67
+      ],
+      [
+        71,
+        77
+      ],
+      [
+        79,
+        85
+      ],
+      [
+        89,
+        95
+      ],
+      [
+        97,
+        103
+      ],
+      [
+        108,
+        108
+      ],
+      [
+        113,
+        113
+      ],
+      [
+        136,
+        137
+      ],
+      [
+        138,
+        139
+      ]
+    ]
+  },
+  "test_098": {
+    "ground_truth": "../cov_trace//trace_098.json",
+    "ana_result": "../../../../result/tcas/trace_098",
+    "recall": [
+      0.9333333333333333
+    ],
+    "precision": [
+      0.5662650602409639
+    ],
+    "accuracy": [
+      0.9624125874125874
+    ],
+    "max_recall_files": [
+      "../../../../result/tcas/trace_098/full_path_coverage_00.json"
+    ],
+    "max_precision_files": [
+      "../../../../result/tcas/trace_098/full_path_coverage_00.json"
+    ],
+    "max_acc_files": [
+      "../../../../result/tcas/trace_098/full_path_00.json"
+    ],
+    "uncovered_lines": [
+      52,
+      148
+    ],
+    "wrong_lines": [
+      [
+        62,
+        62
+      ],
+      [
+        67,
+        67
+      ],
+      [
+        71,
+        77
+      ],
+      [
+        79,
+        85
+      ],
+      [
+        89,
+        95
+      ],
+      [
+        97,
+        103
+      ],
+      [
+        108,
+        108
+      ],
+      [
+        113,
+        113
+      ],
+      [
+        136,
+        137
+      ],
+      [
+        138,
+        139
+      ]
+    ]
+  },
+  "test_099": {
+    "ground_truth": "../cov_trace//trace_099.json",
+    "ana_result": "../../../../result/tcas/trace_099",
+    "recall": [
+      0.9333333333333333
+    ],
+    "precision": [
+      0.5662650602409639
+    ],
+    "accuracy": [
+      0.9624125874125874
+    ],
+    "max_recall_files": [
+      "../../../../result/tcas/trace_099/full_path_coverage_00.json"
+    ],
+    "max_precision_files": [
+      "../../../../result/tcas/trace_099/full_path_coverage_00.json"
+    ],
+    "max_acc_files": [
+      "../../../../result/tcas/trace_099/full_path_00.json"
+    ],
+    "uncovered_lines": [
+      52,
+      148
+    ],
+    "wrong_lines": [
+      [
+        62,
+        62
+      ],
+      [
+        67,
+        67
+      ],
+      [
+        71,
+        77
+      ],
+      [
+        79,
+        85
+      ],
+      [
+        89,
+        95
+      ],
+      [
+        97,
+        103
+      ],
+      [
+        108,
+        108
+      ],
+      [
+        113,
+        113
+      ],
+      [
+        136,
+        137
+      ],
+      [
+        138,
+        139
+      ]
+    ]
+  },
+  "test_100": {
+    "ground_truth": "../cov_trace//trace_100.json",
+    "ana_result": "../../../../result/tcas/trace_100",
+    "recall": [
+      0.9333333333333333
+    ],
+    "precision": [
+      0.5662650602409639
+    ],
+    "accuracy": [
+      0.9624125874125874
+    ],
+    "max_recall_files": [
+      "../../../../result/tcas/trace_100/full_path_coverage_00.json"
+    ],
+    "max_precision_files": [
+      "../../../../result/tcas/trace_100/full_path_coverage_00.json"
+    ],
+    "max_acc_files": [
+      "../../../../result/tcas/trace_100/full_path_00.json"
+    ],
+    "uncovered_lines": [
+      52,
+      148
+    ],
+    "wrong_lines": [
+      [
+        62,
+        62
+      ],
+      [
+        67,
+        67
+      ],
+      [
+        71,
+        77
+      ],
+      [
+        79,
+        85
+      ],
+      [
+        89,
+        95
+      ],
+      [
+        97,
+        103
+      ],
+      [
+        108,
+        108
+      ],
+      [
+        113,
+        113
+      ],
+      [
+        136,
+        137
+      ],
+      [
+        138,
+        139
+      ]
+    ]
+  }
+}

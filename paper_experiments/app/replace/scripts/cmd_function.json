@@ -1,0 +1,14 @@
+{
+  "replace": [
+    "LD_PRELOAD=../source/replace-decompile-hooking.so ../source/replace '-?' 'a&'  < ../inputs/temp-test/1.inp.1.1 > ../outputs/t1",
+    "LD_PRELOAD=../source/replace-decompile-hooking.so ../source/replace ' ' '@%@&'  < ../inputs/temp-test/777.inp.334.1 > ../outputs/t2",
+    "LD_PRELOAD=../source/replace-decompile-hooking.so ../source/replace ' ' 'NEW'  < ../inputs/temp-test/550.inp.238.1 > ../outputs/t3",
+    "LD_PRELOAD=../source/replace-decompile-hooking.so ../source/replace ' ' 'NEW'  < ../inputs/temp-test/551.inp.238.3 > ../outputs/t4",
+    "LD_PRELOAD=../source/replace-decompile-hooking.so ../source/replace ' ' 'rY NCDt+32Ilu>dr~s^1Q{0*{RLN>Muz'  < ../inputs/input/ruin.1224 > ../outputs/t5",
+    "LD_PRELOAD=../source/replace-decompile-hooking.so ../source/replace ' '  < ../inputs/input/ruin.1160 > ../outputs/t6",
+    "LD_PRELOAD=../source/replace-decompile-hooking.so ../source/replace ' *' '@%&a'  < ../inputs/temp-test/2298.inp.975.1 > ../outputs/t7",
+    "LD_PRELOAD=../source/replace-decompile-hooking.so ../source/replace ' *' 'a&'  < ../inputs/temp-test/1839.inp.782.1 > ../outputs/t8",
+    "LD_PRELOAD=../source/replace-decompile-hooking.so ../source/replace ' *' 'a&'  < ../inputs/temp-test/1840.inp.782.2 > ../outputs/t9",
+    "LD_PRELOAD=../source/replace-decompile-hooking.so ../source/replace ' *' 'a&'  < ../inputs/temp-test/1841.inp.782.3 > ../outputs/t10"
+  ]
+}

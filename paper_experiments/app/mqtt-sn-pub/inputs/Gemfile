@@ -1,0 +1,7 @@
+source 'https://rubygems.org'
+ruby File.read('.ruby-version').chomp
+
+gem 'bundler',  '>= 1.5.0'
+gem 'rake',     '>= 0.10.0'
+gem 'mqtt',     '>= 0.4.0'
+gem 'minitest', '>= 5.0.0'

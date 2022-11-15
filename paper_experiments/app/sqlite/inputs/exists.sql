@@ -1,0 +1,19 @@
+-- vim: set filetype=sql:
+CREATE TABLE t1(x);
+CREATE TABLE IF NOT EXISTS t1(a, b);
+DROP TABLE t1;
+CREATE TABLE IF NOT EXISTS t1(a, b);
+SELECT name FROM sqlite_master WHERE type = 'table';
+
+CREATE TABLE t2(x);
+CREATE TABLE IF NOT EXISTS t2 AS SELECT * FROM t1;
+DROP TABLE t2;
+CREATE TABLE IF NOT EXISTS t2 AS SELECT * FROM t1;
+SELECT name FROM sqlite_master WHERE type = 'table';
+
+CREATE INDEX i1 ON t1(a);
+CREATE INDEX IF NOT EXISTS i1 ON t1(a, b);
+DROP INDEX i1;
+CREATE INDEX IF NOT EXISTS i1 ON t1(a, b);
+SELECT name FROM sqlite_master WHERE type = 'index';
+

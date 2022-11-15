@@ -1,0 +1,9415 @@
+{
+  "test_001": {
+    "ground_truth": "../cov_trace//trace_001.json",
+    "ana_result": "../../../../result/tot_info/trace_001",
+    "recall": [
+      0.4375
+    ],
+    "precision": [
+      0.84
+    ],
+    "accuracy": [
+      0.9833813427875028
+    ],
+    "max_recall_files": [
+      "../../../../result/tot_info/trace_001/full_path_coverage_00.json"
+    ],
+    "max_precision_files": [
+      "../../../../result/tot_info/trace_001/MPP_coverage_00.json"
+    ],
+    "max_acc_files": [
+      "../../../../result/tot_info/trace_001/full_path_00.json"
+    ],
+    "uncovered_lines": [
+      41,
+      293,
+      305,
+      306,
+      308,
+      310,
+      311,
+      314,
+      316,
+      322,
+      330,
+      332,
+      334,
+      336,
+      338,
+      340,
+      346,
+      349,
+      352,
+      354,
+      355,
+      400,
+      401,
+      402,
+      403,
+      404,
+      405
+    ],
+    "wrong_lines": [
+      [
+        71,
+        72
+      ],
+      [
+        127,
+        128
+      ]
+    ]
+  },
+  "test_002": {
+    "ground_truth": "../cov_trace//trace_002.json",
+    "ana_result": "../../../../result/tot_info/trace_002",
+    "recall": [
+      0.25
+    ],
+    "precision": [
+      0.84
+    ],
+    "accuracy": [
+      0.9680921781520053
+    ],
+    "max_recall_files": [
+      "../../../../result/tot_info/trace_002/full_path_coverage_00.json"
+    ],
+    "max_precision_files": [
+      "../../../../result/tot_info/trace_002/MPP_coverage_00.json"
+    ],
+    "max_acc_files": [
+      "../../../../result/tot_info/trace_002/full_path_00.json"
+    ],
+    "uncovered_lines": [
+      41,
+      150,
+      162,
+      169,
+      170,
+      172,
+      174,
+      175,
+      177,
+      184,
+      191,
+      194,
+      196,
+      198,
+      200,
+      201,
+      244,
+      248,
+      252,
+      256,
+      293,
+      305,
+      306,
+      308,
+      314,
+      316,
+      322,
+      330,
+      332,
+      334,
+      336,
+      338,
+      340,
+      342,
+      343,
+      346,
+      349,
+      352,
+      360,
+      362,
+      364,
+      365,
+      367,
+      372,
+      374,
+      376,
+      378,
+      379,
+      381,
+      383,
+      385,
+      386,
+      390,
+      392,
+      394,
+      395,
+      398,
+      400,
+      401,
+      402,
+      403,
+      404,
+      405
+    ],
+    "wrong_lines": [
+      [
+        71,
+        72
+      ],
+      [
+        127,
+        128
+      ]
+    ]
+  },
+  "test_003": {
+    "ground_truth": "../cov_trace//trace_003.json",
+    "ana_result": "../../../../result/tot_info/trace_003",
+    "recall": [
+      0.22115384615384615
+    ],
+    "precision": [
+      0.92
+    ],
+    "accuracy": [
+      0.9638821183248394
+    ],
+    "max_recall_files": [
+      "../../../../result/tot_info/trace_003/full_path_coverage_00.json"
+    ],
+    "max_precision_files": [
+      "../../../../result/tot_info/trace_003/MPP_coverage_00.json"
+    ],
+    "max_acc_files": [
+      "../../../../result/tot_info/trace_003/full_path_00.json"
+    ],
+    "uncovered_lines": [
+      41,
+      123,
+      150,
+      162,
+      169,
+      170,
+      172,
+      174,
+      175,
+      177,
+      184,
+      191,
+      194,
+      196,
+      198,
+      200,
+      201,
+      208,
+      212,
+      213,
+      215,
+      218,
+      219,
+      221,
+      222,
+      223,
+      224,
+      225,
+      227,
+      229,
+      231,
+      233,
+      234,
+      236,
+      244,
+      248,
+      252,
+      256,
+      293,
+      305,
+      306,
+      308,
+      314,
+      316,
+      322,
+      330,
+      332,
+      334,
+      336,
+      338,
+      340,
+      346,
+      349,
+      352,
+      354,
+      355,
+      360,
+      362,
+      364,
+      365,
+      367,
+      372,
+      374,
+      376,
+      378,
+      379,
+      381,
+      383,
+      385,
+      386,
+      390,
+      392,
+      394,
+      395,
+      398,
+      400,
+      401,
+      402,
+      403,
+      404,
+      405
+    ],
+    "wrong_lines": [
+      [
+        71,
+        72
+      ]
+    ]
+  },
+  "test_004": {
+    "ground_truth": "../cov_trace//trace_004.json",
+    "ana_result": "../../../../result/tot_info/trace_004",
+    "recall": [
+      0.6896551724137931
+    ],
+    "precision": [
+      0.84
+    ],
+    "accuracy": [
+      0.9869266563261688
+    ],
+    "max_recall_files": [
+      "../../../../result/tot_info/trace_004/full_path_coverage_00.json"
+    ],
+    "max_precision_files": [
+      "../../../../result/tot_info/trace_004/MPP_coverage_00.json"
+    ],
+    "max_acc_files": [
+      "../../../../result/tot_info/trace_004/full_path_00.json"
+    ],
+    "uncovered_lines": [
+      41,
+      293,
+      305,
+      306,
+      308,
+      310,
+      311,
+      404,
+      405
+    ],
+    "wrong_lines": [
+      [
+        71,
+        72
+      ],
+      [
+        127,
+        128
+      ]
+    ]
+  },
+  "test_005": {
+    "ground_truth": "../cov_trace//trace_005.json",
+    "ana_result": "../../../../result/tot_info/trace_005",
+    "recall": [
+      0.26136363636363635
+    ],
+    "precision": [
+      0.84
+    ],
+    "accuracy": [
+      0.9676490139596721
+    ],
+    "max_recall_files": [
+      "../../../../result/tot_info/trace_005/full_path_coverage_00.json"
+    ],
+    "max_precision_files": [
+      "../../../../result/tot_info/trace_005/MPP_coverage_00.json"
+    ],
+    "max_acc_files": [
+      "../../../../result/tot_info/trace_005/full_path_00.json"
+    ],
+    "uncovered_lines": [
+      41,
+      150,
+      162,
+      164,
+      166,
+      169,
+      170,
+      172,
+      174,
+      175,
+      177,
+      184,
+      191,
+      194,
+      196,
+      198,
+      200,
+      201,
+      244,
+      248,
+      252,
+      256,
+      293,
+      305,
+      306,
+      308,
+      310,
+      311,
+      314,
+      316,
+      322,
+      330,
+      332,
+      334,
+      336,
+      338,
+      340,
+      346,
+      349,
+      352,
+      360,
+      362,
+      364,
+      365,
+      367,
+      372,
+      374,
+      376,
+      378,
+      379,
+      381,
+      383,
+      385,
+      386,
+      390,
+      392,
+      394,
+      395,
+      398,
+      400,
+      401,
+      402,
+      403,
+      404,
+      405
+    ],
+    "wrong_lines": [
+      [
+        71,
+        72
+      ],
+      [
+        127,
+        128
+      ]
+    ]
+  },
+  "test_006": {
+    "ground_truth": "../cov_trace//trace_006.json",
+    "ana_result": "../../../../result/tot_info/trace_006",
+    "recall": [
+      0.22115384615384615
+    ],
+    "precision": [
+      0.84
+    ],
+    "accuracy": [
+      0.964103700421006
+    ],
+    "max_recall_files": [
+      "../../../../result/tot_info/trace_006/full_path_coverage_00.json"
+    ],
+    "max_precision_files": [
+      "../../../../result/tot_info/trace_006/MPP_coverage_00.json"
+    ],
+    "max_acc_files": [
+      "../../../../result/tot_info/trace_006/full_path_00.json"
+    ],
+    "uncovered_lines": [
+      41,
+      150,
+      162,
+      169,
+      170,
+      172,
+      174,
+      175,
+      177,
+      184,
+      191,
+      192,
+      194,
+      196,
+      198,
+      200,
+      201,
+      208,
+      212,
+      213,
+      215,
+      218,
+      219,
+      221,
+      222,
+      223,
+      224,
+      225,
+      227,
+      229,
+      231,
+      233,
+      234,
+      236,
+      244,
+      248,
+      252,
+      256,
+      293,
+      305,
+      306,
+      308,
+      310,
+      311,
+      314,
+      316,
+      322,
+      330,
+      332,
+      334,
+      336,
+      338,
+      340,
+      346,
+      349,
+      352,
+      360,
+      362,
+      364,
+      365,
+      367,
+      372,
+      374,
+      376,
+      378,
+      379,
+      381,
+      383,
+      385,
+      386,
+      390,
+      392,
+      394,
+      395,
+      398,
+      400,
+      401,
+      402,
+      403,
+      404,
+      405
+    ],
+    "wrong_lines": [
+      [
+        71,
+        72
+      ],
+      [
+        127,
+        128
+      ]
+    ]
+  },
+  "test_007": {
+    "ground_truth": "../cov_trace//trace_007.json",
+    "ana_result": "../../../../result/tot_info/trace_007",
+    "recall": [
+      0.25842696629213485
+    ],
+    "precision": [
+      0.92
+    ],
+    "accuracy": [
+      0.9669842676711722
+    ],
+    "max_recall_files": [
+      "../../../../result/tot_info/trace_007/full_path_coverage_00.json"
+    ],
+    "max_precision_files": [
+      "../../../../result/tot_info/trace_007/MPP_coverage_00.json"
+    ],
+    "max_acc_files": [
+      "../../../../result/tot_info/trace_007/full_path_00.json"
+    ],
+    "uncovered_lines": [
+      41,
+      123,
+      150,
+      162,
+      169,
+      170,
+      172,
+      174,
+      175,
+      177,
+      184,
+      191,
+      194,
+      196,
+      198,
+      200,
+      201,
+      244,
+      248,
+      252,
+      256,
+      293,
+      305,
+      306,
+      308,
+      314,
+      316,
+      322,
+      330,
+      332,
+      334,
+      336,
+      338,
+      340,
+      342,
+      343,
+      346,
+      349,
+      352,
+      354,
+      355,
+      360,
+      362,
+      364,
+      365,
+      367,
+      372,
+      374,
+      376,
+      378,
+      379,
+      381,
+      383,
+      385,
+      386,
+      390,
+      392,
+      394,
+      395,
+      398,
+      400,
+      401,
+      402,
+      403,
+      404,
+      405
+    ],
+    "wrong_lines": [
+      [
+        71,
+        72
+      ]
+    ]
+  },
+  "test_008": {
+    "ground_truth": "../cov_trace//trace_008.json",
+    "ana_result": "../../../../result/tot_info/trace_008",
+    "recall": [
+      0.4375
+    ],
+    "precision": [
+      0.84
+    ],
+    "accuracy": [
+      0.9833813427875028
+    ],
+    "max_recall_files": [
+      "../../../../result/tot_info/trace_008/full_path_coverage_00.json"
+    ],
+    "max_precision_files": [
+      "../../../../result/tot_info/trace_008/MPP_coverage_00.json"
+    ],
+    "max_acc_files": [
+      "../../../../result/tot_info/trace_008/full_path_00.json"
+    ],
+    "uncovered_lines": [
+      41,
+      293,
+      305,
+      306,
+      308,
+      310,
+      311,
+      314,
+      316,
+      322,
+      330,
+      332,
+      334,
+      336,
+      338,
+      340,
+      346,
+      349,
+      352,
+      354,
+      355,
+      400,
+      401,
+      402,
+      403,
+      404,
+      405
+    ],
+    "wrong_lines": [
+      [
+        71,
+        72
+      ],
+      [
+        127,
+        128
+      ]
+    ]
+  },
+  "test_009": {
+    "ground_truth": "../cov_trace//trace_009.json",
+    "ana_result": "../../../../result/tot_info/trace_009",
+    "recall": [
+      0.3108108108108108
+    ],
+    "precision": [
+      0.84
+    ],
+    "accuracy": [
+      0.9720806558830046
+    ],
+    "max_recall_files": [
+      "../../../../result/tot_info/trace_009/full_path_coverage_00.json"
+    ],
+    "max_precision_files": [
+      "../../../../result/tot_info/trace_009/MPP_coverage_00.json"
+    ],
+    "max_acc_files": [
+      "../../../../result/tot_info/trace_009/full_path_00.json"
+    ],
+    "uncovered_lines": [
+      41,
+      184,
+      191,
+      192,
+      244,
+      248,
+      252,
+      256,
+      293,
+      305,
+      306,
+      308,
+      314,
+      316,
+      322,
+      330,
+      332,
+      334,
+      336,
+      338,
+      340,
+      342,
+      343,
+      346,
+      349,
+      352,
+      360,
+      362,
+      364,
+      365,
+      367,
+      372,
+      374,
+      376,
+      378,
+      379,
+      381,
+      383,
+      385,
+      386,
+      390,
+      392,
+      394,
+      395,
+      398,
+      400,
+      401,
+      402,
+      403,
+      404,
+      405
+    ],
+    "wrong_lines": [
+      [
+        71,
+        72
+      ],
+      [
+        127,
+        128
+      ]
+    ]
+  },
+  "test_010": {
+    "ground_truth": "../cov_trace//trace_010.json",
+    "ana_result": "../../../../result/tot_info/trace_010",
+    "recall": [
+      0.4375
+    ],
+    "precision": [
+      0.84
+    ],
+    "accuracy": [
+      0.9833813427875028
+    ],
+    "max_recall_files": [
+      "../../../../result/tot_info/trace_010/full_path_coverage_00.json"
+    ],
+    "max_precision_files": [
+      "../../../../result/tot_info/trace_010/MPP_coverage_00.json"
+    ],
+    "max_acc_files": [
+      "../../../../result/tot_info/trace_010/full_path_00.json"
+    ],
+    "uncovered_lines": [
+      41,
+      293,
+      305,
+      306,
+      308,
+      310,
+      311,
+      314,
+      316,
+      322,
+      330,
+      332,
+      334,
+      336,
+      338,
+      340,
+      346,
+      349,
+      352,
+      354,
+      355,
+      400,
+      401,
+      402,
+      403,
+      404,
+      405
+    ],
+    "wrong_lines": [
+      [
+        71,
+        72
+      ],
+      [
+        127,
+        128
+      ]
+    ]
+  },
+  "test_011": {
+    "ground_truth": "../cov_trace//trace_011.json",
+    "ana_result": "../../../../result/tot_info/trace_011",
+    "recall": [
+      0.9230769230769231
+    ],
+    "precision": [
+      0.8
+    ],
+    "accuracy": [
+      0.9937957013073344
+    ],
+    "max_recall_files": [
+      "../../../../result/tot_info/trace_011/full_path_coverage_00.json"
+    ],
+    "max_precision_files": [
+      "../../../../result/tot_info/trace_011/MPP_coverage_00.json"
+    ],
+    "max_acc_files": [
+      "../../../../result/tot_info/trace_011/full_path_00.json"
+    ],
+    "uncovered_lines": [
+      41
+    ],
+    "wrong_lines": [
+      [
+        61,
+        61
+      ],
+      [
+        71,
+        72
+      ],
+      [
+        127,
+        128
+      ]
+    ]
+  },
+  "test_012": {
+    "ground_truth": "../cov_trace//trace_012.json",
+    "ana_result": "../../../../result/tot_info/trace_012",
+    "recall": [
+      0.23170731707317074
+    ],
+    "precision": [
+      0.84
+    ],
+    "accuracy": [
+      0.9711943274983381
+    ],
+    "max_recall_files": [
+      "../../../../result/tot_info/trace_012/full_path_coverage_00.json"
+    ],
+    "max_precision_files": [
+      "../../../../result/tot_info/trace_012/MPP_coverage_00.json"
+    ],
+    "max_acc_files": [
+      "../../../../result/tot_info/trace_012/full_path_00.json"
+    ],
+    "uncovered_lines": [
+      41,
+      150,
+      162,
+      164,
+      166,
+      169,
+      170,
+      172,
+      174,
+      175,
+      177,
+      184,
+      191,
+      194,
+      196,
+      198,
+      200,
+      201,
+      244,
+      248,
+      252,
+      256,
+      293,
+      305,
+      306,
+      308,
+      314,
+      316,
+      322,
+      330,
+      332,
+      334,
+      336,
+      338,
+      340,
+      346,
+      349,
+      352,
+      360,
+      362,
+      364,
+      365,
+      367,
+      372,
+      374,
+      376,
+      378,
+      379,
+      381,
+      383,
+      385,
+      386,
+      390,
+      392,
+      394,
+      395,
+      398,
+      400,
+      401,
+      402,
+      403,
+      404,
+      405
+    ],
+    "wrong_lines": [
+      [
+        71,
+        72
+      ],
+      [
+        127,
+        128
+      ]
+    ]
+  },
+  "test_013": {
+    "ground_truth": "../cov_trace//trace_013.json",
+    "ana_result": "../../../../result/tot_info/trace_013",
+    "recall": [
+      0.2079207920792079
+    ],
+    "precision": [
+      0.84
+    ],
+    "accuracy": [
+      0.9674274318635054
+    ],
+    "max_recall_files": [
+      "../../../../result/tot_info/trace_013/full_path_coverage_00.json"
+    ],
+    "max_precision_files": [
+      "../../../../result/tot_info/trace_013/MPP_coverage_00.json"
+    ],
+    "max_acc_files": [
+      "../../../../result/tot_info/trace_013/full_path_00.json"
+    ],
+    "uncovered_lines": [
+      41,
+      150,
+      162,
+      164,
+      166,
+      169,
+      170,
+      172,
+      174,
+      175,
+      177,
+      184,
+      191,
+      194,
+      196,
+      198,
+      200,
+      201,
+      208,
+      212,
+      213,
+      215,
+      218,
+      219,
+      221,
+      222,
+      223,
+      224,
+      225,
+      227,
+      229,
+      231,
+      233,
+      234,
+      236,
+      244,
+      248,
+      252,
+      256,
+      293,
+      305,
+      306,
+      308,
+      314,
+      316,
+      322,
+      330,
+      332,
+      334,
+      336,
+      338,
+      340,
+      346,
+      349,
+      352,
+      360,
+      362,
+      364,
+      365,
+      367,
+      372,
+      374,
+      376,
+      378,
+      379,
+      381,
+      383,
+      385,
+      386,
+      390,
+      392,
+      394,
+      395,
+      398,
+      400,
+      401,
+      402,
+      403,
+      404,
+      405
+    ],
+    "wrong_lines": [
+      [
+        71,
+        72
+      ],
+      [
+        127,
+        128
+      ]
+    ]
+  },
+  "test_014": {
+    "ground_truth": "../cov_trace//trace_014.json",
+    "ana_result": "../../../../result/tot_info/trace_014",
+    "recall": [
+      0.20588235294117646
+    ],
+    "precision": [
+      0.92
+    ],
+    "accuracy": [
+      0.9669842676711722
+    ],
+    "max_recall_files": [
+      "../../../../result/tot_info/trace_014/full_path_coverage_00.json"
+    ],
+    "max_precision_files": [
+      "../../../../result/tot_info/trace_014/MPP_coverage_00.json"
+    ],
+    "max_acc_files": [
+      "../../../../result/tot_info/trace_014/full_path_00.json"
+    ],
+    "uncovered_lines": [
+      41,
+      123,
+      150,
+      162,
+      164,
+      166,
+      169,
+      170,
+      172,
+      174,
+      175,
+      177,
+      184,
+      191,
+      194,
+      196,
+      198,
+      200,
+      201,
+      208,
+      212,
+      213,
+      215,
+      218,
+      219,
+      221,
+      222,
+      223,
+      224,
+      225,
+      227,
+      229,
+      231,
+      233,
+      234,
+      236,
+      244,
+      248,
+      252,
+      256,
+      293,
+      305,
+      306,
+      308,
+      314,
+      316,
+      322,
+      330,
+      332,
+      334,
+      336,
+      338,
+      340,
+      346,
+      349,
+      352,
+      360,
+      362,
+      364,
+      365,
+      367,
+      372,
+      374,
+      376,
+      378,
+      379,
+      381,
+      383,
+      385,
+      386,
+      390,
+      392,
+      394,
+      395,
+      398,
+      400,
+      401,
+      402,
+      403,
+      404,
+      405
+    ],
+    "wrong_lines": [
+      [
+        71,
+        72
+      ]
+    ]
+  },
+  "test_015": {
+    "ground_truth": "../cov_trace//trace_015.json",
+    "ana_result": "../../../../result/tot_info/trace_015",
+    "recall": [
+      0.23232323232323232
+    ],
+    "precision": [
+      0.92
+    ],
+    "accuracy": [
+      0.9665411034788389
+    ],
+    "max_recall_files": [
+      "../../../../result/tot_info/trace_015/full_path_coverage_00.json"
+    ],
+    "max_precision_files": [
+      "../../../../result/tot_info/trace_015/MPP_coverage_00.json"
+    ],
+    "max_acc_files": [
+      "../../../../result/tot_info/trace_015/full_path_00.json"
+    ],
+    "uncovered_lines": [
+      41,
+      123,
+      150,
+      162,
+      169,
+      170,
+      172,
+      174,
+      175,
+      177,
+      208,
+      212,
+      213,
+      215,
+      218,
+      219,
+      221,
+      222,
+      223,
+      224,
+      225,
+      227,
+      229,
+      231,
+      233,
+      234,
+      236,
+      244,
+      248,
+      252,
+      256,
+      293,
+      305,
+      306,
+      308,
+      314,
+      316,
+      322,
+      330,
+      332,
+      334,
+      336,
+      338,
+      340,
+      342,
+      343,
+      346,
+      349,
+      352,
+      354,
+      355,
+      360,
+      362,
+      364,
+      365,
+      367,
+      372,
+      374,
+      376,
+      378,
+      379,
+      381,
+      383,
+      385,
+      386,
+      390,
+      392,
+      394,
+      395,
+      398,
+      400,
+      401,
+      402,
+      403,
+      404,
+      405
+    ],
+    "wrong_lines": [
+      [
+        71,
+        72
+      ]
+    ]
+  },
+  "test_016": {
+    "ground_truth": "../cov_trace//trace_016.json",
+    "ana_result": "../../../../result/tot_info/trace_016",
+    "recall": [
+      0.1919191919191919
+    ],
+    "precision": [
+      0.84
+    ],
+    "accuracy": [
+      0.9678705960558387
+    ],
+    "max_recall_files": [
+      "../../../../result/tot_info/trace_016/full_path_coverage_00.json"
+    ],
+    "max_precision_files": [
+      "../../../../result/tot_info/trace_016/MPP_coverage_00.json"
+    ],
+    "max_acc_files": [
+      "../../../../result/tot_info/trace_016/full_path_00.json"
+    ],
+    "uncovered_lines": [
+      41,
+      150,
+      162,
+      164,
+      166,
+      169,
+      170,
+      172,
+      174,
+      175,
+      177,
+      184,
+      191,
+      194,
+      196,
+      198,
+      200,
+      201,
+      208,
+      212,
+      213,
+      215,
+      218,
+      219,
+      221,
+      222,
+      223,
+      224,
+      225,
+      227,
+      229,
+      231,
+      233,
+      234,
+      236,
+      244,
+      248,
+      252,
+      256,
+      293,
+      305,
+      306,
+      308,
+      314,
+      316,
+      322,
+      330,
+      332,
+      334,
+      336,
+      338,
+      340,
+      346,
+      349,
+      352,
+      360,
+      362,
+      364,
+      365,
+      367,
+      372,
+      374,
+      376,
+      378,
+      379,
+      381,
+      383,
+      385,
+      386,
+      390,
+      392,
+      394,
+      395,
+      398,
+      400,
+      401,
+      402,
+      403,
+      404,
+      405
+    ],
+    "wrong_lines": [
+      [
+        71,
+        72
+      ],
+      [
+        127,
+        128
+      ]
+    ]
+  },
+  "test_017": {
+    "ground_truth": "../cov_trace//trace_017.json",
+    "ana_result": "../../../../result/tot_info/trace_017",
+    "recall": [
+      0.425
+    ],
+    "precision": [
+      0.8
+    ],
+    "accuracy": [
+      0.9844892532683359
+    ],
+    "max_recall_files": [
+      "../../../../result/tot_info/trace_017/full_path_coverage_00.json"
+    ],
+    "max_precision_files": [
+      "../../../../result/tot_info/trace_017/MPP_coverage_00.json"
+    ],
+    "max_acc_files": [
+      "../../../../result/tot_info/trace_017/full_path_00.json"
+    ],
+    "uncovered_lines": [
+      41,
+      293,
+      305,
+      306,
+      308,
+      314,
+      316,
+      322,
+      330,
+      332,
+      334,
+      336,
+      338,
+      340,
+      342,
+      343,
+      346,
+      400,
+      401,
+      402,
+      403,
+      404,
+      405
+    ],
+    "wrong_lines": [
+      [
+        61,
+        61
+      ],
+      [
+        71,
+        72
+      ],
+      [
+        127,
+        128
+      ]
+    ]
+  },
+  "test_018": {
+    "ground_truth": "../cov_trace//trace_018.json",
+    "ana_result": "../../../../result/tot_info/trace_018",
+    "recall": [
+      0.23711340206185566
+    ],
+    "precision": [
+      0.92
+    ],
+    "accuracy": [
+      0.9667626855750056
+    ],
+    "max_recall_files": [
+      "../../../../result/tot_info/trace_018/full_path_coverage_00.json"
+    ],
+    "max_precision_files": [
+      "../../../../result/tot_info/trace_018/MPP_coverage_00.json"
+    ],
+    "max_acc_files": [
+      "../../../../result/tot_info/trace_018/full_path_00.json"
+    ],
+    "uncovered_lines": [
+      41,
+      123,
+      150,
+      162,
+      169,
+      170,
+      172,
+      174,
+      175,
+      177,
+      208,
+      212,
+      213,
+      215,
+      218,
+      219,
+      221,
+      222,
+      223,
+      224,
+      225,
+      227,
+      229,
+      231,
+      233,
+      234,
+      236,
+      244,
+      248,
+      252,
+      256,
+      293,
+      305,
+      306,
+      308,
+      314,
+      316,
+      322,
+      330,
+      332,
+      334,
+      336,
+      338,
+      340,
+      346,
+      349,
+      352,
+      354,
+      355,
+      360,
+      362,
+      364,
+      365,
+      367,
+      372,
+      374,
+      376,
+      378,
+      379,
+      381,
+      383,
+      385,
+      386,
+      390,
+      392,
+      394,
+      395,
+      398,
+      400,
+      401,
+      402,
+      403,
+      404,
+      405
+    ],
+    "wrong_lines": [
+      [
+        71,
+        72
+      ]
+    ]
+  },
+  "test_019": {
+    "ground_truth": "../cov_trace//trace_019.json",
+    "ana_result": "../../../../result/tot_info/trace_019",
+    "recall": [
+      0.22826086956521738
+    ],
+    "precision": [
+      0.92
+    ],
+    "accuracy": [
+      0.9705295812098382
+    ],
+    "max_recall_files": [
+      "../../../../result/tot_info/trace_019/full_path_coverage_00.json"
+    ],
+    "max_precision_files": [
+      "../../../../result/tot_info/trace_019/MPP_coverage_00.json"
+    ],
+    "max_acc_files": [
+      "../../../../result/tot_info/trace_019/full_path_00.json"
+    ],
+    "uncovered_lines": [
+      41,
+      150,
+      162,
+      169,
+      170,
+      172,
+      174,
+      175,
+      177,
+      208,
+      212,
+      213,
+      215,
+      218,
+      219,
+      221,
+      222,
+      223,
+      224,
+      225,
+      227,
+      229,
+      231,
+      233,
+      234,
+      236,
+      244,
+      248,
+      252,
+      256,
+      293,
+      305,
+      306,
+      308,
+      314,
+      316,
+      322,
+      330,
+      332,
+      334,
+      336,
+      338,
+      340,
+      346,
+      349,
+      352,
+      360,
+      362,
+      364,
+      365,
+      367,
+      372,
+      374,
+      376,
+      378,
+      379,
+      381,
+      383,
+      385,
+      386,
+      390,
+      392,
+      394,
+      395,
+      398,
+      400,
+      401,
+      402,
+      403,
+      404,
+      405
+    ],
+    "wrong_lines": [
+      [
+        127,
+        128
+      ]
+    ]
+  },
+  "test_020": {
+    "ground_truth": "../cov_trace//trace_020.json",
+    "ana_result": "../../../../result/tot_info/trace_020",
+    "recall": [
+      0.26436781609195403
+    ],
+    "precision": [
+      0.92
+    ],
+    "accuracy": [
+      0.9672058497673388
+    ],
+    "max_recall_files": [
+      "../../../../result/tot_info/trace_020/full_path_coverage_00.json"
+    ],
+    "max_precision_files": [
+      "../../../../result/tot_info/trace_020/MPP_coverage_00.json"
+    ],
+    "max_acc_files": [
+      "../../../../result/tot_info/trace_020/full_path_00.json"
+    ],
+    "uncovered_lines": [
+      41,
+      123,
+      150,
+      162,
+      169,
+      170,
+      172,
+      174,
+      175,
+      177,
+      184,
+      191,
+      194,
+      196,
+      198,
+      200,
+      201,
+      244,
+      248,
+      252,
+      256,
+      293,
+      305,
+      306,
+      308,
+      314,
+      316,
+      322,
+      330,
+      332,
+      334,
+      336,
+      338,
+      340,
+      346,
+      349,
+      352,
+      354,
+      355,
+      360,
+      362,
+      364,
+      365,
+      367,
+      372,
+      374,
+      376,
+      378,
+      379,
+      381,
+      383,
+      385,
+      386,
+      390,
+      392,
+      394,
+      395,
+      398,
+      400,
+      401,
+      402,
+      403,
+      404,
+      405
+    ],
+    "wrong_lines": [
+      [
+        71,
+        72
+      ]
+    ]
+  },
+  "test_021": {
+    "ground_truth": "../cov_trace//trace_021.json",
+    "ana_result": "../../../../result/tot_info/trace_021",
+    "recall": [
+      0.1919191919191919
+    ],
+    "precision": [
+      0.84
+    ],
+    "accuracy": [
+      0.9678705960558387
+    ],
+    "max_recall_files": [
+      "../../../../result/tot_info/trace_021/full_path_coverage_00.json"
+    ],
+    "max_precision_files": [
+      "../../../../result/tot_info/trace_021/MPP_coverage_00.json"
+    ],
+    "max_acc_files": [
+      "../../../../result/tot_info/trace_021/full_path_00.json"
+    ],
+    "uncovered_lines": [
+      41,
+      150,
+      162,
+      164,
+      166,
+      169,
+      170,
+      172,
+      174,
+      175,
+      177,
+      184,
+      191,
+      194,
+      196,
+      198,
+      200,
+      201,
+      208,
+      212,
+      213,
+      215,
+      218,
+      219,
+      221,
+      222,
+      223,
+      224,
+      225,
+      227,
+      229,
+      231,
+      233,
+      234,
+      236,
+      244,
+      248,
+      252,
+      256,
+      293,
+      305,
+      306,
+      308,
+      314,
+      316,
+      322,
+      330,
+      332,
+      334,
+      336,
+      338,
+      340,
+      346,
+      349,
+      352,
+      360,
+      362,
+      364,
+      365,
+      367,
+      372,
+      374,
+      376,
+      378,
+      379,
+      381,
+      383,
+      385,
+      386,
+      390,
+      392,
+      394,
+      395,
+      398,
+      400,
+      401,
+      402,
+      403,
+      404,
+      405
+    ],
+    "wrong_lines": [
+      [
+        71,
+        72
+      ],
+      [
+        127,
+        128
+      ]
+    ]
+  },
+  "test_022": {
+    "ground_truth": "../cov_trace//trace_022.json",
+    "ana_result": "../../../../result/tot_info/trace_022",
+    "recall": [
+      0.23711340206185566
+    ],
+    "precision": [
+      0.92
+    ],
+    "accuracy": [
+      0.9667626855750056
+    ],
+    "max_recall_files": [
+      "../../../../result/tot_info/trace_022/full_path_coverage_00.json"
+    ],
+    "max_precision_files": [
+      "../../../../result/tot_info/trace_022/MPP_coverage_00.json"
+    ],
+    "max_acc_files": [
+      "../../../../result/tot_info/trace_022/full_path_00.json"
+    ],
+    "uncovered_lines": [
+      41,
+      123,
+      150,
+      162,
+      169,
+      170,
+      172,
+      174,
+      175,
+      177,
+      208,
+      212,
+      213,
+      215,
+      218,
+      219,
+      221,
+      222,
+      223,
+      224,
+      225,
+      227,
+      229,
+      231,
+      233,
+      234,
+      236,
+      244,
+      248,
+      252,
+      256,
+      293,
+      305,
+      306,
+      308,
+      314,
+      316,
+      322,
+      330,
+      332,
+      334,
+      336,
+      338,
+      340,
+      346,
+      349,
+      352,
+      354,
+      355,
+      360,
+      362,
+      364,
+      365,
+      367,
+      372,
+      374,
+      376,
+      378,
+      379,
+      381,
+      383,
+      385,
+      386,
+      390,
+      392,
+      394,
+      395,
+      398,
+      400,
+      401,
+      402,
+      403,
+      404,
+      405
+    ],
+    "wrong_lines": [
+      [
+        71,
+        72
+      ]
+    ]
+  },
+  "test_023": {
+    "ground_truth": "../cov_trace//trace_023.json",
+    "ana_result": "../../../../result/tot_info/trace_023",
+    "recall": [
+      0.1919191919191919
+    ],
+    "precision": [
+      0.84
+    ],
+    "accuracy": [
+      0.9678705960558387
+    ],
+    "max_recall_files": [
+      "../../../../result/tot_info/trace_023/full_path_coverage_00.json"
+    ],
+    "max_precision_files": [
+      "../../../../result/tot_info/trace_023/MPP_coverage_00.json"
+    ],
+    "max_acc_files": [
+      "../../../../result/tot_info/trace_023/full_path_00.json"
+    ],
+    "uncovered_lines": [
+      41,
+      150,
+      162,
+      164,
+      166,
+      169,
+      170,
+      172,
+      174,
+      175,
+      177,
+      184,
+      191,
+      194,
+      196,
+      198,
+      200,
+      201,
+      208,
+      212,
+      213,
+      215,
+      218,
+      219,
+      221,
+      222,
+      223,
+      224,
+      225,
+      227,
+      229,
+      231,
+      233,
+      234,
+      236,
+      244,
+      248,
+      252,
+      256,
+      293,
+      305,
+      306,
+      308,
+      314,
+      316,
+      322,
+      330,
+      332,
+      334,
+      336,
+      338,
+      340,
+      346,
+      349,
+      352,
+      360,
+      362,
+      364,
+      365,
+      367,
+      372,
+      374,
+      376,
+      378,
+      379,
+      381,
+      383,
+      385,
+      386,
+      390,
+      392,
+      394,
+      395,
+      398,
+      400,
+      401,
+      402,
+      403,
+      404,
+      405
+    ],
+    "wrong_lines": [
+      [
+        71,
+        72
+      ],
+      [
+        127,
+        128
+      ]
+    ]
+  },
+  "test_024": {
+    "ground_truth": "../cov_trace//trace_024.json",
+    "ana_result": "../../../../result/tot_info/trace_024",
+    "recall": [
+      0.26436781609195403
+    ],
+    "precision": [
+      0.92
+    ],
+    "accuracy": [
+      0.9672058497673388
+    ],
+    "max_recall_files": [
+      "../../../../result/tot_info/trace_024/full_path_coverage_00.json"
+    ],
+    "max_precision_files": [
+      "../../../../result/tot_info/trace_024/MPP_coverage_00.json"
+    ],
+    "max_acc_files": [
+      "../../../../result/tot_info/trace_024/full_path_00.json"
+    ],
+    "uncovered_lines": [
+      41,
+      123,
+      150,
+      162,
+      169,
+      170,
+      172,
+      174,
+      175,
+      177,
+      184,
+      191,
+      194,
+      196,
+      198,
+      200,
+      201,
+      244,
+      248,
+      252,
+      256,
+      293,
+      305,
+      306,
+      308,
+      314,
+      316,
+      322,
+      330,
+      332,
+      334,
+      336,
+      338,
+      340,
+      346,
+      349,
+      352,
+      354,
+      355,
+      360,
+      362,
+      364,
+      365,
+      367,
+      372,
+      374,
+      376,
+      378,
+      379,
+      381,
+      383,
+      385,
+      386,
+      390,
+      392,
+      394,
+      395,
+      398,
+      400,
+      401,
+      402,
+      403,
+      404,
+      405
+    ],
+    "wrong_lines": [
+      [
+        71,
+        72
+      ]
+    ]
+  },
+  "test_025": {
+    "ground_truth": "../cov_trace//trace_025.json",
+    "ana_result": "../../../../result/tot_info/trace_025",
+    "recall": [
+      0.2079207920792079
+    ],
+    "precision": [
+      0.84
+    ],
+    "accuracy": [
+      0.9674274318635054
+    ],
+    "max_recall_files": [
+      "../../../../result/tot_info/trace_025/full_path_coverage_00.json"
+    ],
+    "max_precision_files": [
+      "../../../../result/tot_info/trace_025/MPP_coverage_00.json"
+    ],
+    "max_acc_files": [
+      "../../../../result/tot_info/trace_025/full_path_00.json"
+    ],
+    "uncovered_lines": [
+      41,
+      150,
+      162,
+      164,
+      166,
+      169,
+      170,
+      172,
+      174,
+      175,
+      177,
+      184,
+      191,
+      194,
+      196,
+      198,
+      200,
+      201,
+      208,
+      212,
+      213,
+      215,
+      218,
+      219,
+      221,
+      222,
+      223,
+      224,
+      225,
+      227,
+      229,
+      231,
+      233,
+      234,
+      236,
+      244,
+      248,
+      252,
+      256,
+      293,
+      305,
+      306,
+      308,
+      314,
+      316,
+      322,
+      330,
+      332,
+      334,
+      336,
+      338,
+      340,
+      346,
+      349,
+      352,
+      360,
+      362,
+      364,
+      365,
+      367,
+      372,
+      374,
+      376,
+      378,
+      379,
+      381,
+      383,
+      385,
+      386,
+      390,
+      392,
+      394,
+      395,
+      398,
+      400,
+      401,
+      402,
+      403,
+      404,
+      405
+    ],
+    "wrong_lines": [
+      [
+        71,
+        72
+      ],
+      [
+        127,
+        128
+      ]
+    ]
+  },
+  "test_026": {
+    "ground_truth": "../cov_trace//trace_026.json",
+    "ana_result": "../../../../result/tot_info/trace_026",
+    "recall": [
+      0.9375
+    ],
+    "precision": [
+      0.8
+    ],
+    "accuracy": [
+      0.991579880345668
+    ],
+    "max_recall_files": [
+      "../../../../result/tot_info/trace_026/full_path_coverage_00.json"
+    ],
+    "max_precision_files": [
+      "../../../../result/tot_info/trace_026/MPP_coverage_00.json"
+    ],
+    "max_acc_files": [
+      "../../../../result/tot_info/trace_026/full_path_00.json"
+    ],
+    "uncovered_lines": [
+      41
+    ],
+    "wrong_lines": [
+      [
+        61,
+        61
+      ],
+      [
+        71,
+        72
+      ],
+      [
+        127,
+        128
+      ]
+    ]
+  },
+  "test_027": {
+    "ground_truth": "../cov_trace//trace_027.json",
+    "ana_result": "../../../../result/tot_info/trace_027",
+    "recall": [
+      0.23711340206185566
+    ],
+    "precision": [
+      0.92
+    ],
+    "accuracy": [
+      0.9667626855750056
+    ],
+    "max_recall_files": [
+      "../../../../result/tot_info/trace_027/full_path_coverage_00.json"
+    ],
+    "max_precision_files": [
+      "../../../../result/tot_info/trace_027/MPP_coverage_00.json"
+    ],
+    "max_acc_files": [
+      "../../../../result/tot_info/trace_027/full_path_00.json"
+    ],
+    "uncovered_lines": [
+      41,
+      123,
+      150,
+      162,
+      169,
+      170,
+      172,
+      174,
+      175,
+      177,
+      208,
+      212,
+      213,
+      215,
+      218,
+      219,
+      221,
+      222,
+      223,
+      224,
+      225,
+      227,
+      229,
+      231,
+      233,
+      234,
+      236,
+      244,
+      248,
+      252,
+      256,
+      293,
+      305,
+      306,
+      308,
+      314,
+      316,
+      322,
+      330,
+      332,
+      334,
+      336,
+      338,
+      340,
+      346,
+      349,
+      352,
+      354,
+      355,
+      360,
+      362,
+      364,
+      365,
+      367,
+      372,
+      374,
+      376,
+      378,
+      379,
+      381,
+      383,
+      385,
+      386,
+      390,
+      392,
+      394,
+      395,
+      398,
+      400,
+      401,
+      402,
+      403,
+      404,
+      405
+    ],
+    "wrong_lines": [
+      [
+        71,
+        72
+      ]
+    ]
+  },
+  "test_028": {
+    "ground_truth": "../cov_trace//trace_028.json",
+    "ana_result": "../../../../result/tot_info/trace_028",
+    "recall": [
+      0.25842696629213485
+    ],
+    "precision": [
+      0.92
+    ],
+    "accuracy": [
+      0.9669842676711722
+    ],
+    "max_recall_files": [
+      "../../../../result/tot_info/trace_028/full_path_coverage_00.json"
+    ],
+    "max_precision_files": [
+      "../../../../result/tot_info/trace_028/MPP_coverage_00.json"
+    ],
+    "max_acc_files": [
+      "../../../../result/tot_info/trace_028/full_path_00.json"
+    ],
+    "uncovered_lines": [
+      41,
+      123,
+      150,
+      162,
+      169,
+      170,
+      172,
+      174,
+      175,
+      177,
+      184,
+      191,
+      194,
+      196,
+      198,
+      200,
+      201,
+      244,
+      248,
+      252,
+      256,
+      293,
+      305,
+      306,
+      308,
+      314,
+      316,
+      322,
+      330,
+      332,
+      334,
+      336,
+      338,
+      340,
+      342,
+      343,
+      346,
+      349,
+      352,
+      354,
+      355,
+      360,
+      362,
+      364,
+      365,
+      367,
+      372,
+      374,
+      376,
+      378,
+      379,
+      381,
+      383,
+      385,
+      386,
+      390,
+      392,
+      394,
+      395,
+      398,
+      400,
+      401,
+      402,
+      403,
+      404,
+      405
+    ],
+    "wrong_lines": [
+      [
+        71,
+        72
+      ]
+    ]
+  },
+  "test_029": {
+    "ground_truth": "../cov_trace//trace_029.json",
+    "ana_result": "../../../../result/tot_info/trace_029",
+    "recall": [
+      0.26744186046511625
+    ],
+    "precision": [
+      0.84
+    ],
+    "accuracy": [
+      0.9676490139596721
+    ],
+    "max_recall_files": [
+      "../../../../result/tot_info/trace_029/full_path_coverage_00.json"
+    ],
+    "max_precision_files": [
+      "../../../../result/tot_info/trace_029/MPP_coverage_00.json"
+    ],
+    "max_acc_files": [
+      "../../../../result/tot_info/trace_029/full_path_00.json"
+    ],
+    "uncovered_lines": [
+      41,
+      150,
+      162,
+      169,
+      170,
+      172,
+      174,
+      175,
+      177,
+      184,
+      191,
+      194,
+      196,
+      198,
+      200,
+      201,
+      244,
+      248,
+      252,
+      256,
+      293,
+      305,
+      306,
+      308,
+      314,
+      316,
+      322,
+      330,
+      332,
+      334,
+      336,
+      338,
+      340,
+      342,
+      343,
+      346,
+      349,
+      352,
+      360,
+      362,
+      364,
+      365,
+      367,
+      372,
+      374,
+      376,
+      378,
+      379,
+      381,
+      383,
+      385,
+      386,
+      390,
+      392,
+      394,
+      395,
+      398,
+      400,
+      401,
+      402,
+      403,
+      404,
+      405
+    ],
+    "wrong_lines": [
+      [
+        71,
+        72
+      ],
+      [
+        127,
+        128
+      ]
+    ]
+  },
+  "test_030": {
+    "ground_truth": "../cov_trace//trace_030.json",
+    "ana_result": "../../../../result/tot_info/trace_030",
+    "recall": [
+      0.20588235294117646
+    ],
+    "precision": [
+      0.92
+    ],
+    "accuracy": [
+      0.9643252825171726
+    ],
+    "max_recall_files": [
+      "../../../../result/tot_info/trace_030/full_path_coverage_00.json"
+    ],
+    "max_precision_files": [
+      "../../../../result/tot_info/trace_030/MPP_coverage_00.json"
+    ],
+    "max_acc_files": [
+      "../../../../result/tot_info/trace_030/full_path_00.json"
+    ],
+    "uncovered_lines": [
+      41,
+      150,
+      162,
+      164,
+      166,
+      169,
+      170,
+      172,
+      174,
+      175,
+      177,
+      184,
+      191,
+      192,
+      194,
+      196,
+      198,
+      200,
+      201,
+      208,
+      212,
+      213,
+      215,
+      218,
+      219,
+      221,
+      222,
+      223,
+      224,
+      225,
+      227,
+      229,
+      231,
+      233,
+      234,
+      236,
+      244,
+      248,
+      252,
+      256,
+      293,
+      305,
+      306,
+      308,
+      314,
+      316,
+      322,
+      330,
+      332,
+      334,
+      336,
+      338,
+      340,
+      346,
+      349,
+      352,
+      360,
+      362,
+      364,
+      365,
+      367,
+      372,
+      374,
+      376,
+      378,
+      379,
+      381,
+      383,
+      385,
+      386,
+      390,
+      392,
+      394,
+      395,
+      398,
+      400,
+      401,
+      402,
+      403,
+      404,
+      405
+    ],
+    "wrong_lines": [
+      [
+        127,
+        128
+      ]
+    ]
+  },
+  "test_031": {
+    "ground_truth": "../cov_trace//trace_031.json",
+    "ana_result": "../../../../result/tot_info/trace_031",
+    "recall": [
+      0.2169811320754717
+    ],
+    "precision": [
+      0.92
+    ],
+    "accuracy": [
+      0.9636605362286728
+    ],
+    "max_recall_files": [
+      "../../../../result/tot_info/trace_031/full_path_coverage_00.json"
+    ],
+    "max_precision_files": [
+      "../../../../result/tot_info/trace_031/MPP_coverage_00.json"
+    ],
+    "max_acc_files": [
+      "../../../../result/tot_info/trace_031/full_path_00.json"
+    ],
+    "uncovered_lines": [
+      41,
+      150,
+      162,
+      169,
+      170,
+      172,
+      174,
+      175,
+      177,
+      184,
+      191,
+      192,
+      194,
+      196,
+      198,
+      200,
+      201,
+      208,
+      212,
+      213,
+      215,
+      218,
+      219,
+      221,
+      222,
+      223,
+      224,
+      225,
+      227,
+      229,
+      231,
+      233,
+      234,
+      236,
+      244,
+      248,
+      252,
+      256,
+      293,
+      305,
+      306,
+      308,
+      314,
+      316,
+      322,
+      330,
+      332,
+      334,
+      336,
+      338,
+      340,
+      342,
+      343,
+      346,
+      349,
+      352,
+      354,
+      355,
+      360,
+      362,
+      364,
+      365,
+      367,
+      372,
+      374,
+      376,
+      378,
+      379,
+      381,
+      383,
+      385,
+      386,
+      390,
+      392,
+      394,
+      395,
+      398,
+      400,
+      401,
+      402,
+      403,
+      404,
+      405
+    ],
+    "wrong_lines": [
+      [
+        127,
+        128
+      ]
+    ]
+  },
+  "test_032": {
+    "ground_truth": "../cov_trace//trace_032.json",
+    "ana_result": "../../../../result/tot_info/trace_032",
+    "recall": [
+      0.23711340206185566
+    ],
+    "precision": [
+      0.92
+    ],
+    "accuracy": [
+      0.9667626855750056
+    ],
+    "max_recall_files": [
+      "../../../../result/tot_info/trace_032/full_path_coverage_00.json"
+    ],
+    "max_precision_files": [
+      "../../../../result/tot_info/trace_032/MPP_coverage_00.json"
+    ],
+    "max_acc_files": [
+      "../../../../result/tot_info/trace_032/full_path_00.json"
+    ],
+    "uncovered_lines": [
+      41,
+      123,
+      150,
+      162,
+      169,
+      170,
+      172,
+      174,
+      175,
+      177,
+      208,
+      212,
+      213,
+      215,
+      218,
+      219,
+      221,
+      222,
+      223,
+      224,
+      225,
+      227,
+      229,
+      231,
+      233,
+      234,
+      236,
+      244,
+      248,
+      252,
+      256,
+      293,
+      305,
+      306,
+      308,
+      314,
+      316,
+      322,
+      330,
+      332,
+      334,
+      336,
+      338,
+      340,
+      346,
+      349,
+      352,
+      354,
+      355,
+      360,
+      362,
+      364,
+      365,
+      367,
+      372,
+      374,
+      376,
+      378,
+      379,
+      381,
+      383,
+      385,
+      386,
+      390,
+      392,
+      394,
+      395,
+      398,
+      400,
+      401,
+      402,
+      403,
+      404,
+      405
+    ],
+    "wrong_lines": [
+      [
+        71,
+        72
+      ]
+    ]
+  },
+  "test_033": {
+    "ground_truth": "../cov_trace//trace_033.json",
+    "ana_result": "../../../../result/tot_info/trace_033",
+    "recall": [
+      0.23958333333333334
+    ],
+    "precision": [
+      0.84
+    ],
+    "accuracy": [
+      0.9672058497673388
+    ],
+    "max_recall_files": [
+      "../../../../result/tot_info/trace_033/full_path_coverage_00.json"
+    ],
+    "max_precision_files": [
+      "../../../../result/tot_info/trace_033/MPP_coverage_00.json"
+    ],
+    "max_acc_files": [
+      "../../../../result/tot_info/trace_033/full_path_00.json"
+    ],
+    "uncovered_lines": [
+      41,
+      150,
+      162,
+      169,
+      170,
+      172,
+      174,
+      175,
+      177,
+      208,
+      212,
+      213,
+      215,
+      218,
+      219,
+      221,
+      222,
+      223,
+      224,
+      225,
+      227,
+      229,
+      231,
+      233,
+      234,
+      236,
+      244,
+      248,
+      252,
+      256,
+      293,
+      305,
+      306,
+      308,
+      314,
+      316,
+      322,
+      330,
+      332,
+      334,
+      336,
+      338,
+      340,
+      342,
+      343,
+      346,
+      349,
+      352,
+      360,
+      362,
+      364,
+      365,
+      367,
+      372,
+      374,
+      376,
+      378,
+      379,
+      381,
+      383,
+      385,
+      386,
+      390,
+      392,
+      394,
+      395,
+      398,
+      400,
+      401,
+      402,
+      403,
+      404,
+      405
+    ],
+    "wrong_lines": [
+      [
+        71,
+        72
+      ],
+      [
+        127,
+        128
+      ]
+    ]
+  },
+  "test_034": {
+    "ground_truth": "../cov_trace//trace_034.json",
+    "ana_result": "../../../../result/tot_info/trace_034",
+    "recall": [
+      0.26136363636363635
+    ],
+    "precision": [
+      0.84
+    ],
+    "accuracy": [
+      0.9676490139596721
+    ],
+    "max_recall_files": [
+      "../../../../result/tot_info/trace_034/full_path_coverage_00.json"
+    ],
+    "max_precision_files": [
+      "../../../../result/tot_info/trace_034/MPP_coverage_00.json"
+    ],
+    "max_acc_files": [
+      "../../../../result/tot_info/trace_034/full_path_00.json"
+    ],
+    "uncovered_lines": [
+      41,
+      150,
+      162,
+      164,
+      166,
+      169,
+      170,
+      172,
+      174,
+      175,
+      177,
+      184,
+      191,
+      194,
+      196,
+      198,
+      200,
+      201,
+      244,
+      248,
+      252,
+      256,
+      293,
+      305,
+      306,
+      308,
+      310,
+      311,
+      314,
+      316,
+      322,
+      330,
+      332,
+      334,
+      336,
+      338,
+      340,
+      346,
+      349,
+      352,
+      360,
+      362,
+      364,
+      365,
+      367,
+      372,
+      374,
+      376,
+      378,
+      379,
+      381,
+      383,
+      385,
+      386,
+      390,
+      392,
+      394,
+      395,
+      398,
+      400,
+      401,
+      402,
+      403,
+      404,
+      405
+    ],
+    "wrong_lines": [
+      [
+        71,
+        72
+      ],
+      [
+        127,
+        128
+      ]
+    ]
+  },
+  "test_035": {
+    "ground_truth": "../cov_trace//trace_035.json",
+    "ana_result": "../../../../result/tot_info/trace_035",
+    "recall": [
+      0.23958333333333334
+    ],
+    "precision": [
+      0.84
+    ],
+    "accuracy": [
+      0.9672058497673388
+    ],
+    "max_recall_files": [
+      "../../../../result/tot_info/trace_035/full_path_coverage_00.json"
+    ],
+    "max_precision_files": [
+      "../../../../result/tot_info/trace_035/MPP_coverage_00.json"
+    ],
+    "max_acc_files": [
+      "../../../../result/tot_info/trace_035/full_path_00.json"
+    ],
+    "uncovered_lines": [
+      41,
+      150,
+      162,
+      169,
+      170,
+      172,
+      174,
+      175,
+      177,
+      208,
+      212,
+      213,
+      215,
+      218,
+      219,
+      221,
+      222,
+      223,
+      224,
+      225,
+      227,
+      229,
+      231,
+      233,
+      234,
+      236,
+      244,
+      248,
+      252,
+      256,
+      293,
+      305,
+      306,
+      308,
+      314,
+      316,
+      322,
+      330,
+      332,
+      334,
+      336,
+      338,
+      340,
+      342,
+      343,
+      346,
+      349,
+      352,
+      360,
+      362,
+      364,
+      365,
+      367,
+      372,
+      374,
+      376,
+      378,
+      379,
+      381,
+      383,
+      385,
+      386,
+      390,
+      392,
+      394,
+      395,
+      398,
+      400,
+      401,
+      402,
+      403,
+      404,
+      405
+    ],
+    "wrong_lines": [
+      [
+        71,
+        72
+      ],
+      [
+        127,
+        128
+      ]
+    ]
+  },
+  "test_036": {
+    "ground_truth": "../cov_trace//trace_036.json",
+    "ana_result": "../../../../result/tot_info/trace_036",
+    "recall": [
+      0.25842696629213485
+    ],
+    "precision": [
+      0.92
+    ],
+    "accuracy": [
+      0.9669842676711722
+    ],
+    "max_recall_files": [
+      "../../../../result/tot_info/trace_036/full_path_coverage_00.json"
+    ],
+    "max_precision_files": [
+      "../../../../result/tot_info/trace_036/MPP_coverage_00.json"
+    ],
+    "max_acc_files": [
+      "../../../../result/tot_info/trace_036/full_path_00.json"
+    ],
+    "uncovered_lines": [
+      41,
+      123,
+      150,
+      162,
+      169,
+      170,
+      172,
+      174,
+      175,
+      177,
+      184,
+      191,
+      194,
+      196,
+      198,
+      200,
+      201,
+      244,
+      248,
+      252,
+      256,
+      293,
+      305,
+      306,
+      308,
+      314,
+      316,
+      322,
+      330,
+      332,
+      334,
+      336,
+      338,
+      340,
+      342,
+      343,
+      346,
+      349,
+      352,
+      354,
+      355,
+      360,
+      362,
+      364,
+      365,
+      367,
+      372,
+      374,
+      376,
+      378,
+      379,
+      381,
+      383,
+      385,
+      386,
+      390,
+      392,
+      394,
+      395,
+      398,
+      400,
+      401,
+      402,
+      403,
+      404,
+      405
+    ],
+    "wrong_lines": [
+      [
+        71,
+        72
+      ]
+    ]
+  },
+  "test_037": {
+    "ground_truth": "../cov_trace//trace_037.json",
+    "ana_result": "../../../../result/tot_info/trace_037",
+    "recall": [
+      0.4444444444444444
+    ],
+    "precision": [
+      0.84
+    ],
+    "accuracy": [
+      0.9840460890760027
+    ],
+    "max_recall_files": [
+      "../../../../result/tot_info/trace_037/full_path_coverage_00.json"
+    ],
+    "max_precision_files": [
+      "../../../../result/tot_info/trace_037/MPP_coverage_00.json"
+    ],
+    "max_acc_files": [
+      "../../../../result/tot_info/trace_037/full_path_00.json"
+    ],
+    "uncovered_lines": [
+      41,
+      293,
+      305,
+      306,
+      308,
+      310,
+      311,
+      314,
+      316,
+      322,
+      330,
+      332,
+      334,
+      336,
+      338,
+      340,
+      342,
+      343,
+      346,
+      400,
+      401,
+      402,
+      403,
+      404,
+      405
+    ],
+    "wrong_lines": [
+      [
+        71,
+        72
+      ],
+      [
+        127,
+        128
+      ]
+    ]
+  },
+  "test_038": {
+    "ground_truth": "../cov_trace//trace_038.json",
+    "ana_result": "../../../../result/tot_info/trace_038",
+    "recall": [
+      0.9230769230769231
+    ],
+    "precision": [
+      0.8
+    ],
+    "accuracy": [
+      0.9937957013073344
+    ],
+    "max_recall_files": [
+      "../../../../result/tot_info/trace_038/full_path_coverage_00.json"
+    ],
+    "max_precision_files": [
+      "../../../../result/tot_info/trace_038/MPP_coverage_00.json"
+    ],
+    "max_acc_files": [
+      "../../../../result/tot_info/trace_038/full_path_00.json"
+    ],
+    "uncovered_lines": [
+      41
+    ],
+    "wrong_lines": [
+      [
+        61,
+        61
+      ],
+      [
+        71,
+        72
+      ],
+      [
+        127,
+        128
+      ]
+    ]
+  },
+  "test_039": {
+    "ground_truth": "../cov_trace//trace_039.json",
+    "ana_result": "../../../../result/tot_info/trace_039",
+    "recall": [
+      0.1919191919191919
+    ],
+    "precision": [
+      0.84
+    ],
+    "accuracy": [
+      0.9678705960558387
+    ],
+    "max_recall_files": [
+      "../../../../result/tot_info/trace_039/full_path_coverage_00.json"
+    ],
+    "max_precision_files": [
+      "../../../../result/tot_info/trace_039/MPP_coverage_00.json"
+    ],
+    "max_acc_files": [
+      "../../../../result/tot_info/trace_039/full_path_00.json"
+    ],
+    "uncovered_lines": [
+      41,
+      150,
+      162,
+      164,
+      166,
+      169,
+      170,
+      172,
+      174,
+      175,
+      177,
+      184,
+      191,
+      194,
+      196,
+      198,
+      200,
+      201,
+      208,
+      212,
+      213,
+      215,
+      218,
+      219,
+      221,
+      222,
+      223,
+      224,
+      225,
+      227,
+      229,
+      231,
+      233,
+      234,
+      236,
+      244,
+      248,
+      252,
+      256,
+      293,
+      305,
+      306,
+      308,
+      314,
+      316,
+      322,
+      330,
+      332,
+      334,
+      336,
+      338,
+      340,
+      346,
+      349,
+      352,
+      360,
+      362,
+      364,
+      365,
+      367,
+      372,
+      374,
+      376,
+      378,
+      379,
+      381,
+      383,
+      385,
+      386,
+      390,
+      392,
+      394,
+      395,
+      398,
+      400,
+      401,
+      402,
+      403,
+      404,
+      405
+    ],
+    "wrong_lines": [
+      [
+        71,
+        72
+      ],
+      [
+        127,
+        128
+      ]
+    ]
+  },
+  "test_040": {
+    "ground_truth": "../cov_trace//trace_040.json",
+    "ana_result": "../../../../result/tot_info/trace_040",
+    "recall": [
+      0.9230769230769231
+    ],
+    "precision": [
+      0.8
+    ],
+    "accuracy": [
+      0.9937957013073344
+    ],
+    "max_recall_files": [
+      "../../../../result/tot_info/trace_040/full_path_coverage_00.json"
+    ],
+    "max_precision_files": [
+      "../../../../result/tot_info/trace_040/MPP_coverage_00.json"
+    ],
+    "max_acc_files": [
+      "../../../../result/tot_info/trace_040/full_path_00.json"
+    ],
+    "uncovered_lines": [
+      41
+    ],
+    "wrong_lines": [
+      [
+        61,
+        61
+      ],
+      [
+        71,
+        72
+      ],
+      [
+        127,
+        128
+      ]
+    ]
+  },
+  "test_041": {
+    "ground_truth": "../cov_trace//trace_041.json",
+    "ana_result": "../../../../result/tot_info/trace_041",
+    "recall": [
+      0.30666666666666664
+    ],
+    "precision": [
+      0.92
+    ],
+    "accuracy": [
+      0.9716374916906714
+    ],
+    "max_recall_files": [
+      "../../../../result/tot_info/trace_041/full_path_coverage_00.json"
+    ],
+    "max_precision_files": [
+      "../../../../result/tot_info/trace_041/MPP_coverage_00.json"
+    ],
+    "max_acc_files": [
+      "../../../../result/tot_info/trace_041/full_path_00.json"
+    ],
+    "uncovered_lines": [
+      41,
+      123,
+      184,
+      191,
+      192,
+      244,
+      248,
+      252,
+      256,
+      293,
+      305,
+      306,
+      308,
+      314,
+      316,
+      322,
+      330,
+      332,
+      334,
+      336,
+      338,
+      340,
+      346,
+      349,
+      352,
+      354,
+      355,
+      360,
+      362,
+      364,
+      365,
+      367,
+      372,
+      374,
+      376,
+      378,
+      379,
+      381,
+      383,
+      385,
+      386,
+      390,
+      392,
+      394,
+      395,
+      398,
+      400,
+      401,
+      402,
+      403,
+      404,
+      405
+    ],
+    "wrong_lines": [
+      [
+        71,
+        72
+      ]
+    ]
+  },
+  "test_042": {
+    "ground_truth": "../cov_trace//trace_042.json",
+    "ana_result": "../../../../result/tot_info/trace_042",
+    "recall": [
+      0.2987012987012987
+    ],
+    "precision": [
+      0.92
+    ],
+    "accuracy": [
+      0.9714159095945047
+    ],
+    "max_recall_files": [
+      "../../../../result/tot_info/trace_042/full_path_coverage_00.json"
+    ],
+    "max_precision_files": [
+      "../../../../result/tot_info/trace_042/MPP_coverage_00.json"
+    ],
+    "max_acc_files": [
+      "../../../../result/tot_info/trace_042/full_path_00.json"
+    ],
+    "uncovered_lines": [
+      41,
+      123,
+      184,
+      191,
+      192,
+      244,
+      248,
+      252,
+      256,
+      293,
+      305,
+      306,
+      308,
+      314,
+      316,
+      322,
+      330,
+      332,
+      334,
+      336,
+      338,
+      340,
+      342,
+      343,
+      346,
+      349,
+      352,
+      354,
+      355,
+      360,
+      362,
+      364,
+      365,
+      367,
+      372,
+      374,
+      376,
+      378,
+      379,
+      381,
+      383,
+      385,
+      386,
+      390,
+      392,
+      394,
+      395,
+      398,
+      400,
+      401,
+      402,
+      403,
+      404,
+      405
+    ],
+    "wrong_lines": [
+      [
+        71,
+        72
+      ]
+    ]
+  },
+  "test_043": {
+    "ground_truth": "../cov_trace//trace_043.json",
+    "ana_result": "../../../../result/tot_info/trace_043",
+    "recall": [
+      0.4444444444444444
+    ],
+    "precision": [
+      0.84
+    ],
+    "accuracy": [
+      0.9840460890760027
+    ],
+    "max_recall_files": [
+      "../../../../result/tot_info/trace_043/full_path_coverage_00.json"
+    ],
+    "max_precision_files": [
+      "../../../../result/tot_info/trace_043/MPP_coverage_00.json"
+    ],
+    "max_acc_files": [
+      "../../../../result/tot_info/trace_043/full_path_00.json"
+    ],
+    "uncovered_lines": [
+      41,
+      293,
+      305,
+      306,
+      308,
+      310,
+      311,
+      314,
+      316,
+      322,
+      330,
+      332,
+      334,
+      336,
+      338,
+      340,
+      342,
+      343,
+      346,
+      400,
+      401,
+      402,
+      403,
+      404,
+      405
+    ],
+    "wrong_lines": [
+      [
+        71,
+        72
+      ],
+      [
+        127,
+        128
+      ]
+    ]
+  },
+  "test_044": {
+    "ground_truth": "../cov_trace//trace_044.json",
+    "ana_result": "../../../../result/tot_info/trace_044",
+    "recall": [
+      0.23958333333333334
+    ],
+    "precision": [
+      0.84
+    ],
+    "accuracy": [
+      0.9672058497673388
+    ],
+    "max_recall_files": [
+      "../../../../result/tot_info/trace_044/full_path_coverage_00.json"
+    ],
+    "max_precision_files": [
+      "../../../../result/tot_info/trace_044/MPP_coverage_00.json"
+    ],
+    "max_acc_files": [
+      "../../../../result/tot_info/trace_044/full_path_00.json"
+    ],
+    "uncovered_lines": [
+      41,
+      150,
+      162,
+      169,
+      170,
+      172,
+      174,
+      175,
+      177,
+      208,
+      212,
+      213,
+      215,
+      218,
+      219,
+      221,
+      222,
+      223,
+      224,
+      225,
+      227,
+      229,
+      231,
+      233,
+      234,
+      236,
+      244,
+      248,
+      252,
+      256,
+      293,
+      305,
+      306,
+      308,
+      314,
+      316,
+      322,
+      330,
+      332,
+      334,
+      336,
+      338,
+      340,
+      342,
+      343,
+      346,
+      349,
+      352,
+      360,
+      362,
+      364,
+      365,
+      367,
+      372,
+      374,
+      376,
+      378,
+      379,
+      381,
+      383,
+      385,
+      386,
+      390,
+      392,
+      394,
+      395,
+      398,
+      400,
+      401,
+      402,
+      403,
+      404,
+      405
+    ],
+    "wrong_lines": [
+      [
+        71,
+        72
+      ],
+      [
+        127,
+        128
+      ]
+    ]
+  },
+  "test_045": {
+    "ground_truth": "../cov_trace//trace_045.json",
+    "ana_result": "../../../../result/tot_info/trace_045",
+    "recall": [
+      0.4375
+    ],
+    "precision": [
+      0.84
+    ],
+    "accuracy": [
+      0.9833813427875028
+    ],
+    "max_recall_files": [
+      "../../../../result/tot_info/trace_045/full_path_coverage_00.json"
+    ],
+    "max_precision_files": [
+      "../../../../result/tot_info/trace_045/MPP_coverage_00.json"
+    ],
+    "max_acc_files": [
+      "../../../../result/tot_info/trace_045/full_path_00.json"
+    ],
+    "uncovered_lines": [
+      41,
+      293,
+      305,
+      306,
+      308,
+      310,
+      311,
+      314,
+      316,
+      322,
+      330,
+      332,
+      334,
+      336,
+      338,
+      340,
+      346,
+      349,
+      352,
+      354,
+      355,
+      400,
+      401,
+      402,
+      403,
+      404,
+      405
+    ],
+    "wrong_lines": [
+      [
+        71,
+        72
+      ],
+      [
+        127,
+        128
+      ]
+    ]
+  },
+  "test_046": {
+    "ground_truth": "../cov_trace//trace_046.json",
+    "ana_result": "../../../../result/tot_info/trace_046",
+    "recall": [
+      0.20588235294117646
+    ],
+    "precision": [
+      0.84
+    ],
+    "accuracy": [
+      0.9669842676711722
+    ],
+    "max_recall_files": [
+      "../../../../result/tot_info/trace_046/full_path_coverage_00.json"
+    ],
+    "max_precision_files": [
+      "../../../../result/tot_info/trace_046/MPP_coverage_00.json"
+    ],
+    "max_acc_files": [
+      "../../../../result/tot_info/trace_046/full_path_00.json"
+    ],
+    "uncovered_lines": [
+      41,
+      150,
+      162,
+      164,
+      166,
+      169,
+      170,
+      172,
+      174,
+      175,
+      177,
+      184,
+      191,
+      192,
+      194,
+      196,
+      198,
+      200,
+      201,
+      208,
+      212,
+      213,
+      215,
+      218,
+      219,
+      221,
+      222,
+      223,
+      224,
+      225,
+      227,
+      229,
+      231,
+      233,
+      234,
+      236,
+      244,
+      248,
+      252,
+      256,
+      293,
+      305,
+      306,
+      308,
+      314,
+      316,
+      322,
+      330,
+      332,
+      334,
+      336,
+      338,
+      340,
+      346,
+      349,
+      352,
+      360,
+      362,
+      364,
+      365,
+      367,
+      372,
+      374,
+      376,
+      378,
+      379,
+      381,
+      383,
+      385,
+      386,
+      390,
+      392,
+      394,
+      395,
+      398,
+      400,
+      401,
+      402,
+      403,
+      404,
+      405
+    ],
+    "wrong_lines": [
+      [
+        71,
+        72
+      ],
+      [
+        127,
+        128
+      ]
+    ]
+  },
+  "test_047": {
+    "ground_truth": "../cov_trace//trace_047.json",
+    "ana_result": "../../../../result/tot_info/trace_047",
+    "recall": [
+      0.1919191919191919
+    ],
+    "precision": [
+      0.84
+    ],
+    "accuracy": [
+      0.9678705960558387
+    ],
+    "max_recall_files": [
+      "../../../../result/tot_info/trace_047/full_path_coverage_00.json"
+    ],
+    "max_precision_files": [
+      "../../../../result/tot_info/trace_047/MPP_coverage_00.json"
+    ],
+    "max_acc_files": [
+      "../../../../result/tot_info/trace_047/full_path_00.json"
+    ],
+    "uncovered_lines": [
+      41,
+      150,
+      162,
+      164,
+      166,
+      169,
+      170,
+      172,
+      174,
+      175,
+      177,
+      184,
+      191,
+      194,
+      196,
+      198,
+      200,
+      201,
+      208,
+      212,
+      213,
+      215,
+      218,
+      219,
+      221,
+      222,
+      223,
+      224,
+      225,
+      227,
+      229,
+      231,
+      233,
+      234,
+      236,
+      244,
+      248,
+      252,
+      256,
+      293,
+      305,
+      306,
+      308,
+      314,
+      316,
+      322,
+      330,
+      332,
+      334,
+      336,
+      338,
+      340,
+      346,
+      349,
+      352,
+      360,
+      362,
+      364,
+      365,
+      367,
+      372,
+      374,
+      376,
+      378,
+      379,
+      381,
+      383,
+      385,
+      386,
+      390,
+      392,
+      394,
+      395,
+      398,
+      400,
+      401,
+      402,
+      403,
+      404,
+      405
+    ],
+    "wrong_lines": [
+      [
+        71,
+        72
+      ],
+      [
+        127,
+        128
+      ]
+    ]
+  },
+  "test_048": {
+    "ground_truth": "../cov_trace//trace_048.json",
+    "ana_result": "../../../../result/tot_info/trace_048",
+    "recall": [
+      0.45652173913043476
+    ],
+    "precision": [
+      0.84
+    ],
+    "accuracy": [
+      0.9833813427875028
+    ],
+    "max_recall_files": [
+      "../../../../result/tot_info/trace_048/full_path_coverage_00.json"
+    ],
+    "max_precision_files": [
+      "../../../../result/tot_info/trace_048/MPP_coverage_00.json"
+    ],
+    "max_acc_files": [
+      "../../../../result/tot_info/trace_048/full_path_00.json"
+    ],
+    "uncovered_lines": [
+      41,
+      293,
+      305,
+      306,
+      308,
+      314,
+      316,
+      322,
+      330,
+      332,
+      334,
+      336,
+      338,
+      340,
+      346,
+      349,
+      352,
+      354,
+      355,
+      400,
+      401,
+      402,
+      403,
+      404,
+      405
+    ],
+    "wrong_lines": [
+      [
+        71,
+        72
+      ],
+      [
+        127,
+        128
+      ]
+    ]
+  },
+  "test_049": {
+    "ground_truth": "../cov_trace//trace_049.json",
+    "ana_result": "../../../../result/tot_info/trace_049",
+    "recall": [
+      0.9411764705882353
+    ],
+    "precision": [
+      0.84
+    ],
+    "accuracy": [
+      0.991579880345668
+    ],
+    "max_recall_files": [
+      "../../../../result/tot_info/trace_049/full_path_coverage_00.json"
+    ],
+    "max_precision_files": [
+      "../../../../result/tot_info/trace_049/MPP_coverage_00.json"
+    ],
+    "max_acc_files": [
+      "../../../../result/tot_info/trace_049/full_path_00.json"
+    ],
+    "uncovered_lines": [
+      41
+    ],
+    "wrong_lines": [
+      [
+        71,
+        72
+      ],
+      [
+        127,
+        128
+      ]
+    ]
+  },
+  "test_050": {
+    "ground_truth": "../cov_trace//trace_050.json",
+    "ana_result": "../../../../result/tot_info/trace_050",
+    "recall": [
+      0.21904761904761905
+    ],
+    "precision": [
+      0.84
+    ],
+    "accuracy": [
+      0.9643252825171726
+    ],
+    "max_recall_files": [
+      "../../../../result/tot_info/trace_050/full_path_coverage_00.json"
+    ],
+    "max_precision_files": [
+      "../../../../result/tot_info/trace_050/MPP_coverage_00.json"
+    ],
+    "max_acc_files": [
+      "../../../../result/tot_info/trace_050/full_path_00.json"
+    ],
+    "uncovered_lines": [
+      41,
+      150,
+      162,
+      164,
+      166,
+      169,
+      170,
+      172,
+      174,
+      175,
+      177,
+      184,
+      191,
+      194,
+      196,
+      198,
+      200,
+      201,
+      208,
+      212,
+      213,
+      215,
+      218,
+      219,
+      221,
+      222,
+      223,
+      224,
+      225,
+      227,
+      229,
+      231,
+      233,
+      234,
+      236,
+      244,
+      248,
+      252,
+      256,
+      293,
+      305,
+      306,
+      308,
+      310,
+      311,
+      314,
+      316,
+      322,
+      330,
+      332,
+      334,
+      336,
+      338,
+      340,
+      346,
+      349,
+      352,
+      360,
+      362,
+      364,
+      365,
+      367,
+      372,
+      374,
+      376,
+      378,
+      379,
+      381,
+      383,
+      385,
+      386,
+      390,
+      392,
+      394,
+      395,
+      398,
+      400,
+      401,
+      402,
+      403,
+      404,
+      405
+    ],
+    "wrong_lines": [
+      [
+        71,
+        72
+      ],
+      [
+        127,
+        128
+      ]
+    ]
+  },
+  "test_051": {
+    "ground_truth": "../cov_trace//trace_051.json",
+    "ana_result": "../../../../result/tot_info/trace_051",
+    "recall": [
+      0.2079207920792079
+    ],
+    "precision": [
+      0.84
+    ],
+    "accuracy": [
+      0.9674274318635054
+    ],
+    "max_recall_files": [
+      "../../../../result/tot_info/trace_051/full_path_coverage_00.json"
+    ],
+    "max_precision_files": [
+      "../../../../result/tot_info/trace_051/MPP_coverage_00.json"
+    ],
+    "max_acc_files": [
+      "../../../../result/tot_info/trace_051/full_path_00.json"
+    ],
+    "uncovered_lines": [
+      41,
+      150,
+      162,
+      164,
+      166,
+      169,
+      170,
+      172,
+      174,
+      175,
+      177,
+      184,
+      191,
+      194,
+      196,
+      198,
+      200,
+      201,
+      208,
+      212,
+      213,
+      215,
+      218,
+      219,
+      221,
+      222,
+      223,
+      224,
+      225,
+      227,
+      229,
+      231,
+      233,
+      234,
+      236,
+      244,
+      248,
+      252,
+      256,
+      293,
+      305,
+      306,
+      308,
+      314,
+      316,
+      322,
+      330,
+      332,
+      334,
+      336,
+      338,
+      340,
+      346,
+      349,
+      352,
+      360,
+      362,
+      364,
+      365,
+      367,
+      372,
+      374,
+      376,
+      378,
+      379,
+      381,
+      383,
+      385,
+      386,
+      390,
+      392,
+      394,
+      395,
+      398,
+      400,
+      401,
+      402,
+      403,
+      404,
+      405
+    ],
+    "wrong_lines": [
+      [
+        71,
+        72
+      ],
+      [
+        127,
+        128
+      ]
+    ]
+  },
+  "test_052": {
+    "ground_truth": "../cov_trace//trace_052.json",
+    "ana_result": "../../../../result/tot_info/trace_052",
+    "recall": [
+      0.23711340206185566
+    ],
+    "precision": [
+      0.92
+    ],
+    "accuracy": [
+      0.9667626855750056
+    ],
+    "max_recall_files": [
+      "../../../../result/tot_info/trace_052/full_path_coverage_00.json"
+    ],
+    "max_precision_files": [
+      "../../../../result/tot_info/trace_052/MPP_coverage_00.json"
+    ],
+    "max_acc_files": [
+      "../../../../result/tot_info/trace_052/full_path_00.json"
+    ],
+    "uncovered_lines": [
+      41,
+      123,
+      150,
+      162,
+      169,
+      170,
+      172,
+      174,
+      175,
+      177,
+      208,
+      212,
+      213,
+      215,
+      218,
+      219,
+      221,
+      222,
+      223,
+      224,
+      225,
+      227,
+      229,
+      231,
+      233,
+      234,
+      236,
+      244,
+      248,
+      252,
+      256,
+      293,
+      305,
+      306,
+      308,
+      314,
+      316,
+      322,
+      330,
+      332,
+      334,
+      336,
+      338,
+      340,
+      346,
+      349,
+      352,
+      354,
+      355,
+      360,
+      362,
+      364,
+      365,
+      367,
+      372,
+      374,
+      376,
+      378,
+      379,
+      381,
+      383,
+      385,
+      386,
+      390,
+      392,
+      394,
+      395,
+      398,
+      400,
+      401,
+      402,
+      403,
+      404,
+      405
+    ],
+    "wrong_lines": [
+      [
+        71,
+        72
+      ]
+    ]
+  },
+  "test_053": {
+    "ground_truth": "../cov_trace//trace_053.json",
+    "ana_result": "../../../../result/tot_info/trace_053",
+    "recall": [
+      0.425531914893617
+    ],
+    "precision": [
+      0.84
+    ],
+    "accuracy": [
+      0.9836029248836694
+    ],
+    "max_recall_files": [
+      "../../../../result/tot_info/trace_053/full_path_coverage_00.json"
+    ],
+    "max_precision_files": [
+      "../../../../result/tot_info/trace_053/MPP_coverage_00.json"
+    ],
+    "max_acc_files": [
+      "../../../../result/tot_info/trace_053/full_path_00.json"
+    ],
+    "uncovered_lines": [
+      41,
+      293,
+      305,
+      306,
+      308,
+      314,
+      316,
+      322,
+      330,
+      332,
+      334,
+      336,
+      338,
+      340,
+      342,
+      343,
+      346,
+      349,
+      352,
+      354,
+      355,
+      400,
+      401,
+      402,
+      403,
+      404,
+      405
+    ],
+    "wrong_lines": [
+      [
+        71,
+        72
+      ],
+      [
+        127,
+        128
+      ]
+    ]
+  },
+  "test_054": {
+    "ground_truth": "../cov_trace//trace_054.json",
+    "ana_result": "../../../../result/tot_info/trace_054",
+    "recall": [
+      0.1919191919191919
+    ],
+    "precision": [
+      0.84
+    ],
+    "accuracy": [
+      0.9678705960558387
+    ],
+    "max_recall_files": [
+      "../../../../result/tot_info/trace_054/full_path_coverage_00.json"
+    ],
+    "max_precision_files": [
+      "../../../../result/tot_info/trace_054/MPP_coverage_00.json"
+    ],
+    "max_acc_files": [
+      "../../../../result/tot_info/trace_054/full_path_00.json"
+    ],
+    "uncovered_lines": [
+      41,
+      150,
+      162,
+      164,
+      166,
+      169,
+      170,
+      172,
+      174,
+      175,
+      177,
+      184,
+      191,
+      194,
+      196,
+      198,
+      200,
+      201,
+      208,
+      212,
+      213,
+      215,
+      218,
+      219,
+      221,
+      222,
+      223,
+      224,
+      225,
+      227,
+      229,
+      231,
+      233,
+      234,
+      236,
+      244,
+      248,
+      252,
+      256,
+      293,
+      305,
+      306,
+      308,
+      314,
+      316,
+      322,
+      330,
+      332,
+      334,
+      336,
+      338,
+      340,
+      346,
+      349,
+      352,
+      360,
+      362,
+      364,
+      365,
+      367,
+      372,
+      374,
+      376,
+      378,
+      379,
+      381,
+      383,
+      385,
+      386,
+      390,
+      392,
+      394,
+      395,
+      398,
+      400,
+      401,
+      402,
+      403,
+      404,
+      405
+    ],
+    "wrong_lines": [
+      [
+        71,
+        72
+      ],
+      [
+        127,
+        128
+      ]
+    ]
+  },
+  "test_055": {
+    "ground_truth": "../cov_trace//trace_055.json",
+    "ana_result": "../../../../result/tot_info/trace_055",
+    "recall": [
+      0.2441860465116279
+    ],
+    "precision": [
+      0.84
+    ],
+    "accuracy": [
+      0.9678705960558387
+    ],
+    "max_recall_files": [
+      "../../../../result/tot_info/trace_055/full_path_coverage_00.json"
+    ],
+    "max_precision_files": [
+      "../../../../result/tot_info/trace_055/MPP_coverage_00.json"
+    ],
+    "max_acc_files": [
+      "../../../../result/tot_info/trace_055/full_path_00.json"
+    ],
+    "uncovered_lines": [
+      41,
+      150,
+      162,
+      164,
+      166,
+      169,
+      170,
+      172,
+      174,
+      175,
+      177,
+      184,
+      191,
+      194,
+      196,
+      198,
+      200,
+      201,
+      244,
+      248,
+      252,
+      256,
+      293,
+      305,
+      306,
+      308,
+      314,
+      316,
+      322,
+      330,
+      332,
+      334,
+      336,
+      338,
+      340,
+      342,
+      343,
+      346,
+      349,
+      352,
+      360,
+      362,
+      364,
+      365,
+      367,
+      372,
+      374,
+      376,
+      378,
+      379,
+      381,
+      383,
+      385,
+      386,
+      390,
+      392,
+      394,
+      395,
+      398,
+      400,
+      401,
+      402,
+      403,
+      404,
+      405
+    ],
+    "wrong_lines": [
+      [
+        71,
+        72
+      ],
+      [
+        127,
+        128
+      ]
+    ]
+  },
+  "test_056": {
+    "ground_truth": "../cov_trace//trace_056.json",
+    "ana_result": "../../../../result/tot_info/trace_056",
+    "recall": [
+      0.22115384615384615
+    ],
+    "precision": [
+      0.84
+    ],
+    "accuracy": [
+      0.964103700421006
+    ],
+    "max_recall_files": [
+      "../../../../result/tot_info/trace_056/full_path_coverage_00.json"
+    ],
+    "max_precision_files": [
+      "../../../../result/tot_info/trace_056/MPP_coverage_00.json"
+    ],
+    "max_acc_files": [
+      "../../../../result/tot_info/trace_056/full_path_00.json"
+    ],
+    "uncovered_lines": [
+      41,
+      150,
+      162,
+      169,
+      170,
+      172,
+      174,
+      175,
+      177,
+      184,
+      191,
+      192,
+      194,
+      196,
+      198,
+      200,
+      201,
+      208,
+      212,
+      213,
+      215,
+      218,
+      219,
+      221,
+      222,
+      223,
+      224,
+      225,
+      227,
+      229,
+      231,
+      233,
+      234,
+      236,
+      244,
+      248,
+      252,
+      256,
+      293,
+      305,
+      306,
+      308,
+      310,
+      311,
+      314,
+      316,
+      322,
+      330,
+      332,
+      334,
+      336,
+      338,
+      340,
+      346,
+      349,
+      352,
+      360,
+      362,
+      364,
+      365,
+      367,
+      372,
+      374,
+      376,
+      378,
+      379,
+      381,
+      383,
+      385,
+      386,
+      390,
+      392,
+      394,
+      395,
+      398,
+      400,
+      401,
+      402,
+      403,
+      404,
+      405
+    ],
+    "wrong_lines": [
+      [
+        71,
+        72
+      ],
+      [
+        127,
+        128
+      ]
+    ]
+  },
+  "test_057": {
+    "ground_truth": "../cov_trace//trace_057.json",
+    "ana_result": "../../../../result/tot_info/trace_057",
+    "recall": [
+      0.2079207920792079
+    ],
+    "precision": [
+      0.84
+    ],
+    "accuracy": [
+      0.9674274318635054
+    ],
+    "max_recall_files": [
+      "../../../../result/tot_info/trace_057/full_path_coverage_00.json"
+    ],
+    "max_precision_files": [
+      "../../../../result/tot_info/trace_057/MPP_coverage_00.json"
+    ],
+    "max_acc_files": [
+      "../../../../result/tot_info/trace_057/full_path_00.json"
+    ],
+    "uncovered_lines": [
+      41,
+      150,
+      162,
+      164,
+      166,
+      169,
+      170,
+      172,
+      174,
+      175,
+      177,
+      184,
+      191,
+      194,
+      196,
+      198,
+      200,
+      201,
+      208,
+      212,
+      213,
+      215,
+      218,
+      219,
+      221,
+      222,
+      223,
+      224,
+      225,
+      227,
+      229,
+      231,
+      233,
+      234,
+      236,
+      244,
+      248,
+      252,
+      256,
+      293,
+      305,
+      306,
+      308,
+      314,
+      316,
+      322,
+      330,
+      332,
+      334,
+      336,
+      338,
+      340,
+      346,
+      349,
+      352,
+      360,
+      362,
+      364,
+      365,
+      367,
+      372,
+      374,
+      376,
+      378,
+      379,
+      381,
+      383,
+      385,
+      386,
+      390,
+      392,
+      394,
+      395,
+      398,
+      400,
+      401,
+      402,
+      403,
+      404,
+      405
+    ],
+    "wrong_lines": [
+      [
+        71,
+        72
+      ],
+      [
+        127,
+        128
+      ]
+    ]
+  },
+  "test_058": {
+    "ground_truth": "../cov_trace//trace_058.json",
+    "ana_result": "../../../../result/tot_info/trace_058",
+    "recall": [
+      0.23469387755102042
+    ],
+    "precision": [
+      0.92
+    ],
+    "accuracy": [
+      0.9669842676711722
+    ],
+    "max_recall_files": [
+      "../../../../result/tot_info/trace_058/full_path_coverage_00.json"
+    ],
+    "max_precision_files": [
+      "../../../../result/tot_info/trace_058/MPP_coverage_00.json"
+    ],
+    "max_acc_files": [
+      "../../../../result/tot_info/trace_058/full_path_00.json"
+    ],
+    "uncovered_lines": [
+      41,
+      150,
+      162,
+      169,
+      170,
+      172,
+      174,
+      175,
+      177,
+      208,
+      212,
+      213,
+      215,
+      218,
+      219,
+      221,
+      222,
+      223,
+      224,
+      225,
+      227,
+      229,
+      231,
+      233,
+      234,
+      236,
+      244,
+      248,
+      252,
+      256,
+      293,
+      305,
+      306,
+      308,
+      314,
+      316,
+      322,
+      330,
+      332,
+      334,
+      336,
+      338,
+      340,
+      342,
+      343,
+      346,
+      349,
+      352,
+      354,
+      355,
+      360,
+      362,
+      364,
+      365,
+      367,
+      372,
+      374,
+      376,
+      378,
+      379,
+      381,
+      383,
+      385,
+      386,
+      390,
+      392,
+      394,
+      395,
+      398,
+      400,
+      401,
+      402,
+      403,
+      404,
+      405
+    ],
+    "wrong_lines": [
+      [
+        127,
+        128
+      ]
+    ]
+  },
+  "test_059": {
+    "ground_truth": "../cov_trace//trace_059.json",
+    "ana_result": "../../../../result/tot_info/trace_059",
+    "recall": [
+      0.31343283582089554
+    ],
+    "precision": [
+      0.84
+    ],
+    "accuracy": [
+      0.9740748947485043
+    ],
+    "max_recall_files": [
+      "../../../../result/tot_info/trace_059/full_path_coverage_00.json"
+    ],
+    "max_precision_files": [
+      "../../../../result/tot_info/trace_059/MPP_coverage_00.json"
+    ],
+    "max_acc_files": [
+      "../../../../result/tot_info/trace_059/full_path_00.json"
+    ],
+    "uncovered_lines": [
+      41,
+      293,
+      305,
+      306,
+      308,
+      314,
+      316,
+      322,
+      330,
+      332,
+      334,
+      336,
+      338,
+      340,
+      342,
+      343,
+      346,
+      349,
+      352,
+      354,
+      355,
+      360,
+      362,
+      364,
+      365,
+      367,
+      372,
+      374,
+      376,
+      378,
+      379,
+      381,
+      383,
+      385,
+      386,
+      390,
+      392,
+      394,
+      395,
+      398,
+      400,
+      401,
+      402,
+      403,
+      404,
+      405
+    ],
+    "wrong_lines": [
+      [
+        71,
+        72
+      ],
+      [
+        127,
+        128
+      ]
+    ]
+  },
+  "test_060": {
+    "ground_truth": "../cov_trace//trace_060.json",
+    "ana_result": "../../../../result/tot_info/trace_060",
+    "recall": [
+      0.1958762886597938
+    ],
+    "precision": [
+      0.84
+    ],
+    "accuracy": [
+      0.9680921781520053
+    ],
+    "max_recall_files": [
+      "../../../../result/tot_info/trace_060/full_path_coverage_00.json"
+    ],
+    "max_precision_files": [
+      "../../../../result/tot_info/trace_060/MPP_coverage_00.json"
+    ],
+    "max_acc_files": [
+      "../../../../result/tot_info/trace_060/full_path_00.json"
+    ],
+    "uncovered_lines": [
+      41,
+      150,
+      162,
+      169,
+      170,
+      172,
+      174,
+      175,
+      177,
+      184,
+      191,
+      194,
+      196,
+      198,
+      200,
+      201,
+      208,
+      212,
+      213,
+      215,
+      218,
+      219,
+      221,
+      222,
+      223,
+      224,
+      225,
+      227,
+      229,
+      231,
+      233,
+      234,
+      236,
+      244,
+      248,
+      252,
+      256,
+      293,
+      305,
+      306,
+      308,
+      314,
+      316,
+      322,
+      330,
+      332,
+      334,
+      336,
+      338,
+      340,
+      346,
+      349,
+      352,
+      360,
+      362,
+      364,
+      365,
+      367,
+      372,
+      374,
+      376,
+      378,
+      379,
+      381,
+      383,
+      385,
+      386,
+      390,
+      392,
+      394,
+      395,
+      398,
+      400,
+      401,
+      402,
+      403,
+      404,
+      405
+    ],
+    "wrong_lines": [
+      [
+        71,
+        72
+      ],
+      [
+        127,
+        128
+      ]
+    ]
+  },
+  "test_061": {
+    "ground_truth": "../cov_trace//trace_061.json",
+    "ana_result": "../../../../result/tot_info/trace_061",
+    "recall": [
+      0.1958762886597938
+    ],
+    "precision": [
+      0.84
+    ],
+    "accuracy": [
+      0.9680921781520053
+    ],
+    "max_recall_files": [
+      "../../../../result/tot_info/trace_061/full_path_coverage_00.json"
+    ],
+    "max_precision_files": [
+      "../../../../result/tot_info/trace_061/MPP_coverage_00.json"
+    ],
+    "max_acc_files": [
+      "../../../../result/tot_info/trace_061/full_path_00.json"
+    ],
+    "uncovered_lines": [
+      41,
+      150,
+      162,
+      169,
+      170,
+      172,
+      174,
+      175,
+      177,
+      184,
+      191,
+      194,
+      196,
+      198,
+      200,
+      201,
+      208,
+      212,
+      213,
+      215,
+      218,
+      219,
+      221,
+      222,
+      223,
+      224,
+      225,
+      227,
+      229,
+      231,
+      233,
+      234,
+      236,
+      244,
+      248,
+      252,
+      256,
+      293,
+      305,
+      306,
+      308,
+      314,
+      316,
+      322,
+      330,
+      332,
+      334,
+      336,
+      338,
+      340,
+      346,
+      349,
+      352,
+      360,
+      362,
+      364,
+      365,
+      367,
+      372,
+      374,
+      376,
+      378,
+      379,
+      381,
+      383,
+      385,
+      386,
+      390,
+      392,
+      394,
+      395,
+      398,
+      400,
+      401,
+      402,
+      403,
+      404,
+      405
+    ],
+    "wrong_lines": [
+      [
+        71,
+        72
+      ],
+      [
+        127,
+        128
+      ]
+    ]
+  },
+  "test_062": {
+    "ground_truth": "../cov_trace//trace_062.json",
+    "ana_result": "../../../../result/tot_info/trace_062",
+    "recall": [
+      0.31343283582089554
+    ],
+    "precision": [
+      0.84
+    ],
+    "accuracy": [
+      0.9742964768446709
+    ],
+    "max_recall_files": [
+      "../../../../result/tot_info/trace_062/full_path_coverage_00.json"
+    ],
+    "max_precision_files": [
+      "../../../../result/tot_info/trace_062/MPP_coverage_00.json"
+    ],
+    "max_acc_files": [
+      "../../../../result/tot_info/trace_062/full_path_00.json"
+    ],
+    "uncovered_lines": [
+      41,
+      293,
+      305,
+      306,
+      308,
+      310,
+      311,
+      314,
+      316,
+      322,
+      330,
+      332,
+      334,
+      336,
+      338,
+      340,
+      346,
+      349,
+      352,
+      354,
+      355,
+      360,
+      362,
+      364,
+      365,
+      367,
+      372,
+      374,
+      376,
+      378,
+      379,
+      381,
+      383,
+      385,
+      386,
+      390,
+      392,
+      394,
+      395,
+      398,
+      400,
+      401,
+      402,
+      403,
+      404,
+      405
+    ],
+    "wrong_lines": [
+      [
+        71,
+        72
+      ],
+      [
+        127,
+        128
+      ]
+    ]
+  },
+  "test_063": {
+    "ground_truth": "../cov_trace//trace_063.json",
+    "ana_result": "../../../../result/tot_info/trace_063",
+    "recall": [
+      0.26136363636363635
+    ],
+    "precision": [
+      0.84
+    ],
+    "accuracy": [
+      0.9676490139596721
+    ],
+    "max_recall_files": [
+      "../../../../result/tot_info/trace_063/full_path_coverage_00.json"
+    ],
+    "max_precision_files": [
+      "../../../../result/tot_info/trace_063/MPP_coverage_00.json"
+    ],
+    "max_acc_files": [
+      "../../../../result/tot_info/trace_063/full_path_00.json"
+    ],
+    "uncovered_lines": [
+      41,
+      150,
+      162,
+      164,
+      166,
+      169,
+      170,
+      172,
+      174,
+      175,
+      177,
+      184,
+      191,
+      194,
+      196,
+      198,
+      200,
+      201,
+      244,
+      248,
+      252,
+      256,
+      293,
+      305,
+      306,
+      308,
+      310,
+      311,
+      314,
+      316,
+      322,
+      330,
+      332,
+      334,
+      336,
+      338,
+      340,
+      346,
+      349,
+      352,
+      360,
+      362,
+      364,
+      365,
+      367,
+      372,
+      374,
+      376,
+      378,
+      379,
+      381,
+      383,
+      385,
+      386,
+      390,
+      392,
+      394,
+      395,
+      398,
+      400,
+      401,
+      402,
+      403,
+      404,
+      405
+    ],
+    "wrong_lines": [
+      [
+        71,
+        72
+      ],
+      [
+        127,
+        128
+      ]
+    ]
+  },
+  "test_064": {
+    "ground_truth": "../cov_trace//trace_064.json",
+    "ana_result": "../../../../result/tot_info/trace_064",
+    "recall": [
+      0.19
+    ],
+    "precision": [
+      0.92
+    ],
+    "accuracy": [
+      0.9674274318635054
+    ],
+    "max_recall_files": [
+      "../../../../result/tot_info/trace_064/full_path_coverage_00.json"
+    ],
+    "max_precision_files": [
+      "../../../../result/tot_info/trace_064/MPP_coverage_00.json"
+    ],
+    "max_acc_files": [
+      "../../../../result/tot_info/trace_064/full_path_00.json"
+    ],
+    "uncovered_lines": [
+      41,
+      123,
+      150,
+      162,
+      164,
+      166,
+      169,
+      170,
+      172,
+      174,
+      175,
+      177,
+      184,
+      191,
+      194,
+      196,
+      198,
+      200,
+      201,
+      208,
+      212,
+      213,
+      215,
+      218,
+      219,
+      221,
+      222,
+      223,
+      224,
+      225,
+      227,
+      229,
+      231,
+      233,
+      234,
+      236,
+      244,
+      248,
+      252,
+      256,
+      293,
+      305,
+      306,
+      308,
+      314,
+      316,
+      322,
+      330,
+      332,
+      334,
+      336,
+      338,
+      340,
+      346,
+      349,
+      352,
+      360,
+      362,
+      364,
+      365,
+      367,
+      372,
+      374,
+      376,
+      378,
+      379,
+      381,
+      383,
+      385,
+      386,
+      390,
+      392,
+      394,
+      395,
+      398,
+      400,
+      401,
+      402,
+      403,
+      404,
+      405
+    ],
+    "wrong_lines": [
+      [
+        71,
+        72
+      ]
+    ]
+  },
+  "test_065": {
+    "ground_truth": "../cov_trace//trace_065.json",
+    "ana_result": "../../../../result/tot_info/trace_065",
+    "recall": [
+      0.42
+    ],
+    "precision": [
+      0.84
+    ],
+    "accuracy": [
+      0.9831597606913361
+    ],
+    "max_recall_files": [
+      "../../../../result/tot_info/trace_065/full_path_coverage_00.json"
+    ],
+    "max_precision_files": [
+      "../../../../result/tot_info/trace_065/MPP_coverage_00.json"
+    ],
+    "max_acc_files": [
+      "../../../../result/tot_info/trace_065/full_path_00.json"
+    ],
+    "uncovered_lines": [
+      41,
+      293,
+      305,
+      306,
+      308,
+      310,
+      311,
+      314,
+      316,
+      322,
+      330,
+      332,
+      334,
+      336,
+      338,
+      340,
+      342,
+      343,
+      346,
+      349,
+      352,
+      354,
+      355,
+      400,
+      401,
+      402,
+      403,
+      404,
+      405
+    ],
+    "wrong_lines": [
+      [
+        71,
+        72
+      ],
+      [
+        127,
+        128
+      ]
+    ]
+  },
+  "test_066": {
+    "ground_truth": "../cov_trace//trace_066.json",
+    "ana_result": "../../../../result/tot_info/trace_066",
+    "recall": [
+      0.23333333333333334
+    ],
+    "precision": [
+      0.84
+    ],
+    "accuracy": [
+      0.9676490139596721
+    ],
+    "max_recall_files": [
+      "../../../../result/tot_info/trace_066/full_path_coverage_00.json"
+    ],
+    "max_precision_files": [
+      "../../../../result/tot_info/trace_066/MPP_coverage_00.json"
+    ],
+    "max_acc_files": [
+      "../../../../result/tot_info/trace_066/full_path_00.json"
+    ],
+    "uncovered_lines": [
+      41,
+      150,
+      162,
+      164,
+      166,
+      169,
+      170,
+      172,
+      174,
+      175,
+      177,
+      184,
+      191,
+      194,
+      196,
+      198,
+      200,
+      201,
+      244,
+      248,
+      252,
+      256,
+      293,
+      305,
+      306,
+      308,
+      310,
+      311,
+      314,
+      316,
+      322,
+      330,
+      332,
+      334,
+      336,
+      338,
+      340,
+      342,
+      343,
+      346,
+      349,
+      352,
+      354,
+      355,
+      360,
+      362,
+      364,
+      365,
+      367,
+      372,
+      374,
+      376,
+      378,
+      379,
+      381,
+      383,
+      385,
+      386,
+      390,
+      392,
+      394,
+      395,
+      398,
+      400,
+      401,
+      402,
+      403,
+      404,
+      405
+    ],
+    "wrong_lines": [
+      [
+        71,
+        72
+      ],
+      [
+        127,
+        128
+      ]
+    ]
+  },
+  "test_067": {
+    "ground_truth": "../cov_trace//trace_067.json",
+    "ana_result": "../../../../result/tot_info/trace_067",
+    "recall": [
+      0.4375
+    ],
+    "precision": [
+      0.84
+    ],
+    "accuracy": [
+      0.9831597606913361
+    ],
+    "max_recall_files": [
+      "../../../../result/tot_info/trace_067/full_path_coverage_00.json"
+    ],
+    "max_precision_files": [
+      "../../../../result/tot_info/trace_067/MPP_coverage_00.json"
+    ],
+    "max_acc_files": [
+      "../../../../result/tot_info/trace_067/full_path_00.json"
+    ],
+    "uncovered_lines": [
+      41,
+      293,
+      305,
+      306,
+      308,
+      314,
+      316,
+      322,
+      330,
+      332,
+      334,
+      336,
+      338,
+      340,
+      342,
+      343,
+      346,
+      349,
+      352,
+      354,
+      355,
+      400,
+      401,
+      402,
+      403,
+      404,
+      405
+    ],
+    "wrong_lines": [
+      [
+        71,
+        72
+      ],
+      [
+        127,
+        128
+      ]
+    ]
+  },
+  "test_068": {
+    "ground_truth": "../cov_trace//trace_068.json",
+    "ana_result": "../../../../result/tot_info/trace_068",
+    "recall": [
+      0.2079207920792079
+    ],
+    "precision": [
+      0.84
+    ],
+    "accuracy": [
+      0.9674274318635054
+    ],
+    "max_recall_files": [
+      "../../../../result/tot_info/trace_068/full_path_coverage_00.json"
+    ],
+    "max_precision_files": [
+      "../../../../result/tot_info/trace_068/MPP_coverage_00.json"
+    ],
+    "max_acc_files": [
+      "../../../../result/tot_info/trace_068/full_path_00.json"
+    ],
+    "uncovered_lines": [
+      41,
+      150,
+      162,
+      164,
+      166,
+      169,
+      170,
+      172,
+      174,
+      175,
+      177,
+      184,
+      191,
+      194,
+      196,
+      198,
+      200,
+      201,
+      208,
+      212,
+      213,
+      215,
+      218,
+      219,
+      221,
+      222,
+      223,
+      224,
+      225,
+      227,
+      229,
+      231,
+      233,
+      234,
+      236,
+      244,
+      248,
+      252,
+      256,
+      293,
+      305,
+      306,
+      308,
+      314,
+      316,
+      322,
+      330,
+      332,
+      334,
+      336,
+      338,
+      340,
+      346,
+      349,
+      352,
+      360,
+      362,
+      364,
+      365,
+      367,
+      372,
+      374,
+      376,
+      378,
+      379,
+      381,
+      383,
+      385,
+      386,
+      390,
+      392,
+      394,
+      395,
+      398,
+      400,
+      401,
+      402,
+      403,
+      404,
+      405
+    ],
+    "wrong_lines": [
+      [
+        71,
+        72
+      ],
+      [
+        127,
+        128
+      ]
+    ]
+  },
+  "test_069": {
+    "ground_truth": "../cov_trace//trace_069.json",
+    "ana_result": "../../../../result/tot_info/trace_069",
+    "recall": [
+      0.23232323232323232
+    ],
+    "precision": [
+      0.92
+    ],
+    "accuracy": [
+      0.9665411034788389
+    ],
+    "max_recall_files": [
+      "../../../../result/tot_info/trace_069/full_path_coverage_00.json"
+    ],
+    "max_precision_files": [
+      "../../../../result/tot_info/trace_069/MPP_coverage_00.json"
+    ],
+    "max_acc_files": [
+      "../../../../result/tot_info/trace_069/full_path_00.json"
+    ],
+    "uncovered_lines": [
+      41,
+      123,
+      150,
+      162,
+      169,
+      170,
+      172,
+      174,
+      175,
+      177,
+      208,
+      212,
+      213,
+      215,
+      218,
+      219,
+      221,
+      222,
+      223,
+      224,
+      225,
+      227,
+      229,
+      231,
+      233,
+      234,
+      236,
+      244,
+      248,
+      252,
+      256,
+      293,
+      305,
+      306,
+      308,
+      314,
+      316,
+      322,
+      330,
+      332,
+      334,
+      336,
+      338,
+      340,
+      342,
+      343,
+      346,
+      349,
+      352,
+      354,
+      355,
+      360,
+      362,
+      364,
+      365,
+      367,
+      372,
+      374,
+      376,
+      378,
+      379,
+      381,
+      383,
+      385,
+      386,
+      390,
+      392,
+      394,
+      395,
+      398,
+      400,
+      401,
+      402,
+      403,
+      404,
+      405
+    ],
+    "wrong_lines": [
+      [
+        71,
+        72
+      ]
+    ]
+  },
+  "test_070": {
+    "ground_truth": "../cov_trace//trace_070.json",
+    "ana_result": "../../../../result/tot_info/trace_070",
+    "recall": [
+      0.21978021978021978
+    ],
+    "precision": [
+      0.88
+    ],
+    "accuracy": [
+      0.9705295812098382
+    ],
+    "max_recall_files": [
+      "../../../../result/tot_info/trace_070/full_path_coverage_00.json"
+    ],
+    "max_precision_files": [
+      "../../../../result/tot_info/trace_070/MPP_coverage_00.json"
+    ],
+    "max_acc_files": [
+      "../../../../result/tot_info/trace_070/full_path_00.json"
+    ],
+    "uncovered_lines": [
+      41,
+      150,
+      162,
+      169,
+      170,
+      172,
+      174,
+      175,
+      177,
+      208,
+      212,
+      213,
+      215,
+      218,
+      219,
+      221,
+      222,
+      223,
+      224,
+      225,
+      227,
+      229,
+      231,
+      233,
+      234,
+      236,
+      244,
+      248,
+      252,
+      256,
+      293,
+      305,
+      306,
+      308,
+      314,
+      316,
+      322,
+      330,
+      332,
+      334,
+      336,
+      338,
+      340,
+      346,
+      349,
+      352,
+      360,
+      362,
+      364,
+      365,
+      367,
+      372,
+      374,
+      376,
+      378,
+      379,
+      381,
+      383,
+      385,
+      386,
+      390,
+      392,
+      394,
+      395,
+      398,
+      400,
+      401,
+      402,
+      403,
+      404,
+      405
+    ],
+    "wrong_lines": [
+      [
+        61,
+        61
+      ],
+      [
+        127,
+        128
+      ]
+    ]
+  },
+  "test_071": {
+    "ground_truth": "../cov_trace//trace_071.json",
+    "ana_result": "../../../../result/tot_info/trace_071",
+    "recall": [
+      0.20388349514563106
+    ],
+    "precision": [
+      0.84
+    ],
+    "accuracy": [
+      0.9645468646133393
+    ],
+    "max_recall_files": [
+      "../../../../result/tot_info/trace_071/full_path_coverage_00.json"
+    ],
+    "max_precision_files": [
+      "../../../../result/tot_info/trace_071/MPP_coverage_00.json"
+    ],
+    "max_acc_files": [
+      "../../../../result/tot_info/trace_071/full_path_00.json"
+    ],
+    "uncovered_lines": [
+      41,
+      150,
+      162,
+      164,
+      166,
+      169,
+      170,
+      172,
+      174,
+      175,
+      177,
+      184,
+      191,
+      194,
+      196,
+      198,
+      200,
+      201,
+      208,
+      212,
+      213,
+      215,
+      218,
+      219,
+      221,
+      222,
+      223,
+      224,
+      225,
+      227,
+      229,
+      231,
+      233,
+      234,
+      236,
+      244,
+      248,
+      252,
+      256,
+      293,
+      305,
+      306,
+      308,
+      314,
+      316,
+      322,
+      330,
+      332,
+      334,
+      336,
+      338,
+      340,
+      342,
+      343,
+      346,
+      349,
+      352,
+      360,
+      362,
+      364,
+      365,
+      367,
+      372,
+      374,
+      376,
+      378,
+      379,
+      381,
+      383,
+      385,
+      386,
+      390,
+      392,
+      394,
+      395,
+      398,
+      400,
+      401,
+      402,
+      403,
+      404,
+      405
+    ],
+    "wrong_lines": [
+      [
+        71,
+        72
+      ],
+      [
+        127,
+        128
+      ]
+    ]
+  },
+  "test_072": {
+    "ground_truth": "../cov_trace//trace_072.json",
+    "ana_result": "../../../../result/tot_info/trace_072",
+    "recall": [
+      0.425531914893617
+    ],
+    "precision": [
+      0.84
+    ],
+    "accuracy": [
+      0.9836029248836694
+    ],
+    "max_recall_files": [
+      "../../../../result/tot_info/trace_072/full_path_coverage_00.json"
+    ],
+    "max_precision_files": [
+      "../../../../result/tot_info/trace_072/MPP_coverage_00.json"
+    ],
+    "max_acc_files": [
+      "../../../../result/tot_info/trace_072/full_path_00.json"
+    ],
+    "uncovered_lines": [
+      41,
+      293,
+      305,
+      306,
+      308,
+      314,
+      316,
+      322,
+      330,
+      332,
+      334,
+      336,
+      338,
+      340,
+      342,
+      343,
+      346,
+      349,
+      352,
+      354,
+      355,
+      400,
+      401,
+      402,
+      403,
+      404,
+      405
+    ],
+    "wrong_lines": [
+      [
+        71,
+        72
+      ],
+      [
+        127,
+        128
+      ]
+    ]
+  },
+  "test_073": {
+    "ground_truth": "../cov_trace//trace_073.json",
+    "ana_result": "../../../../result/tot_info/trace_073",
+    "recall": [
+      0.9285714285714286
+    ],
+    "precision": [
+      0.8
+    ],
+    "accuracy": [
+      0.9920230445380013
+    ],
+    "max_recall_files": [
+      "../../../../result/tot_info/trace_073/full_path_coverage_00.json"
+    ],
+    "max_precision_files": [
+      "../../../../result/tot_info/trace_073/MPP_coverage_00.json"
+    ],
+    "max_acc_files": [
+      "../../../../result/tot_info/trace_073/full_path_00.json"
+    ],
+    "uncovered_lines": [
+      41
+    ],
+    "wrong_lines": [
+      [
+        61,
+        61
+      ],
+      [
+        71,
+        72
+      ],
+      [
+        127,
+        128
+      ]
+    ]
+  },
+  "test_074": {
+    "ground_truth": "../cov_trace//trace_074.json",
+    "ana_result": "../../../../result/tot_info/trace_074",
+    "recall": [
+      0.21904761904761905
+    ],
+    "precision": [
+      0.84
+    ],
+    "accuracy": [
+      0.9643252825171726
+    ],
+    "max_recall_files": [
+      "../../../../result/tot_info/trace_074/full_path_coverage_00.json"
+    ],
+    "max_precision_files": [
+      "../../../../result/tot_info/trace_074/MPP_coverage_00.json"
+    ],
+    "max_acc_files": [
+      "../../../../result/tot_info/trace_074/full_path_00.json"
+    ],
+    "uncovered_lines": [
+      41,
+      150,
+      162,
+      164,
+      166,
+      169,
+      170,
+      172,
+      174,
+      175,
+      177,
+      184,
+      191,
+      194,
+      196,
+      198,
+      200,
+      201,
+      208,
+      212,
+      213,
+      215,
+      218,
+      219,
+      221,
+      222,
+      223,
+      224,
+      225,
+      227,
+      229,
+      231,
+      233,
+      234,
+      236,
+      244,
+      248,
+      252,
+      256,
+      293,
+      305,
+      306,
+      308,
+      310,
+      311,
+      314,
+      316,
+      322,
+      330,
+      332,
+      334,
+      336,
+      338,
+      340,
+      346,
+      349,
+      352,
+      360,
+      362,
+      364,
+      365,
+      367,
+      372,
+      374,
+      376,
+      378,
+      379,
+      381,
+      383,
+      385,
+      386,
+      390,
+      392,
+      394,
+      395,
+      398,
+      400,
+      401,
+      402,
+      403,
+      404,
+      405
+    ],
+    "wrong_lines": [
+      [
+        71,
+        72
+      ],
+      [
+        127,
+        128
+      ]
+    ]
+  },
+  "test_075": {
+    "ground_truth": "../cov_trace//trace_075.json",
+    "ana_result": "../../../../result/tot_info/trace_075",
+    "recall": [
+      0.30158730158730157
+    ],
+    "precision": [
+      0.84
+    ],
+    "accuracy": [
+      0.9747396410370042
+    ],
+    "max_recall_files": [
+      "../../../../result/tot_info/trace_075/full_path_coverage_00.json"
+    ],
+    "max_precision_files": [
+      "../../../../result/tot_info/trace_075/MPP_coverage_00.json"
+    ],
+    "max_acc_files": [
+      "../../../../result/tot_info/trace_075/full_path_00.json"
+    ],
+    "uncovered_lines": [
+      41,
+      293,
+      305,
+      306,
+      308,
+      314,
+      316,
+      322,
+      330,
+      332,
+      334,
+      336,
+      338,
+      340,
+      342,
+      343,
+      346,
+      349,
+      352,
+      360,
+      362,
+      364,
+      365,
+      367,
+      372,
+      374,
+      376,
+      378,
+      379,
+      381,
+      383,
+      385,
+      386,
+      390,
+      392,
+      394,
+      395,
+      398,
+      400,
+      401,
+      402,
+      403,
+      404,
+      405
+    ],
+    "wrong_lines": [
+      [
+        71,
+        72
+      ],
+      [
+        127,
+        128
+      ]
+    ]
+  },
+  "test_076": {
+    "ground_truth": "../cov_trace//trace_076.json",
+    "ana_result": "../../../../result/tot_info/trace_076",
+    "recall": [
+      0.2079207920792079
+    ],
+    "precision": [
+      0.84
+    ],
+    "accuracy": [
+      0.9674274318635054
+    ],
+    "max_recall_files": [
+      "../../../../result/tot_info/trace_076/full_path_coverage_00.json"
+    ],
+    "max_precision_files": [
+      "../../../../result/tot_info/trace_076/MPP_coverage_00.json"
+    ],
+    "max_acc_files": [
+      "../../../../result/tot_info/trace_076/full_path_00.json"
+    ],
+    "uncovered_lines": [
+      41,
+      150,
+      162,
+      164,
+      166,
+      169,
+      170,
+      172,
+      174,
+      175,
+      177,
+      184,
+      191,
+      194,
+      196,
+      198,
+      200,
+      201,
+      208,
+      212,
+      213,
+      215,
+      218,
+      219,
+      221,
+      222,
+      223,
+      224,
+      225,
+      227,
+      229,
+      231,
+      233,
+      234,
+      236,
+      244,
+      248,
+      252,
+      256,
+      293,
+      305,
+      306,
+      308,
+      314,
+      316,
+      322,
+      330,
+      332,
+      334,
+      336,
+      338,
+      340,
+      346,
+      349,
+      352,
+      360,
+      362,
+      364,
+      365,
+      367,
+      372,
+      374,
+      376,
+      378,
+      379,
+      381,
+      383,
+      385,
+      386,
+      390,
+      392,
+      394,
+      395,
+      398,
+      400,
+      401,
+      402,
+      403,
+      404,
+      405
+    ],
+    "wrong_lines": [
+      [
+        71,
+        72
+      ],
+      [
+        127,
+        128
+      ]
+    ]
+  },
+  "test_077": {
+    "ground_truth": "../cov_trace//trace_077.json",
+    "ana_result": "../../../../result/tot_info/trace_077",
+    "recall": [
+      0.21904761904761905
+    ],
+    "precision": [
+      0.84
+    ],
+    "accuracy": [
+      0.9643252825171726
+    ],
+    "max_recall_files": [
+      "../../../../result/tot_info/trace_077/full_path_coverage_00.json"
+    ],
+    "max_precision_files": [
+      "../../../../result/tot_info/trace_077/MPP_coverage_00.json"
+    ],
+    "max_acc_files": [
+      "../../../../result/tot_info/trace_077/full_path_00.json"
+    ],
+    "uncovered_lines": [
+      41,
+      150,
+      162,
+      164,
+      166,
+      169,
+      170,
+      172,
+      174,
+      175,
+      177,
+      184,
+      191,
+      194,
+      196,
+      198,
+      200,
+      201,
+      208,
+      212,
+      213,
+      215,
+      218,
+      219,
+      221,
+      222,
+      223,
+      224,
+      225,
+      227,
+      229,
+      231,
+      233,
+      234,
+      236,
+      244,
+      248,
+      252,
+      256,
+      293,
+      305,
+      306,
+      308,
+      310,
+      311,
+      314,
+      316,
+      322,
+      330,
+      332,
+      334,
+      336,
+      338,
+      340,
+      346,
+      349,
+      352,
+      360,
+      362,
+      364,
+      365,
+      367,
+      372,
+      374,
+      376,
+      378,
+      379,
+      381,
+      383,
+      385,
+      386,
+      390,
+      392,
+      394,
+      395,
+      398,
+      400,
+      401,
+      402,
+      403,
+      404,
+      405
+    ],
+    "wrong_lines": [
+      [
+        71,
+        72
+      ],
+      [
+        127,
+        128
+      ]
+    ]
+  },
+  "test_078": {
+    "ground_truth": "../cov_trace//trace_078.json",
+    "ana_result": "../../../../result/tot_info/trace_078",
+    "recall": [
+      0.23232323232323232
+    ],
+    "precision": [
+      0.92
+    ],
+    "accuracy": [
+      0.9665411034788389
+    ],
+    "max_recall_files": [
+      "../../../../result/tot_info/trace_078/full_path_coverage_00.json"
+    ],
+    "max_precision_files": [
+      "../../../../result/tot_info/trace_078/MPP_coverage_00.json"
+    ],
+    "max_acc_files": [
+      "../../../../result/tot_info/trace_078/full_path_00.json"
+    ],
+    "uncovered_lines": [
+      41,
+      123,
+      150,
+      162,
+      169,
+      170,
+      172,
+      174,
+      175,
+      177,
+      208,
+      212,
+      213,
+      215,
+      218,
+      219,
+      221,
+      222,
+      223,
+      224,
+      225,
+      227,
+      229,
+      231,
+      233,
+      234,
+      236,
+      244,
+      248,
+      252,
+      256,
+      293,
+      305,
+      306,
+      308,
+      314,
+      316,
+      322,
+      330,
+      332,
+      334,
+      336,
+      338,
+      340,
+      342,
+      343,
+      346,
+      349,
+      352,
+      354,
+      355,
+      360,
+      362,
+      364,
+      365,
+      367,
+      372,
+      374,
+      376,
+      378,
+      379,
+      381,
+      383,
+      385,
+      386,
+      390,
+      392,
+      394,
+      395,
+      398,
+      400,
+      401,
+      402,
+      403,
+      404,
+      405
+    ],
+    "wrong_lines": [
+      [
+        71,
+        72
+      ]
+    ]
+  },
+  "test_079": {
+    "ground_truth": "../cov_trace//trace_079.json",
+    "ana_result": "../../../../result/tot_info/trace_079",
+    "recall": [
+      0.31343283582089554
+    ],
+    "precision": [
+      0.84
+    ],
+    "accuracy": [
+      0.9740748947485043
+    ],
+    "max_recall_files": [
+      "../../../../result/tot_info/trace_079/full_path_coverage_00.json"
+    ],
+    "max_precision_files": [
+      "../../../../result/tot_info/trace_079/MPP_coverage_00.json"
+    ],
+    "max_acc_files": [
+      "../../../../result/tot_info/trace_079/full_path_00.json"
+    ],
+    "uncovered_lines": [
+      41,
+      293,
+      305,
+      306,
+      308,
+      314,
+      316,
+      322,
+      330,
+      332,
+      334,
+      336,
+      338,
+      340,
+      342,
+      343,
+      346,
+      349,
+      352,
+      354,
+      355,
+      360,
+      362,
+      364,
+      365,
+      367,
+      372,
+      374,
+      376,
+      378,
+      379,
+      381,
+      383,
+      385,
+      386,
+      390,
+      392,
+      394,
+      395,
+      398,
+      400,
+      401,
+      402,
+      403,
+      404,
+      405
+    ],
+    "wrong_lines": [
+      [
+        71,
+        72
+      ],
+      [
+        127,
+        128
+      ]
+    ]
+  },
+  "test_080": {
+    "ground_truth": "../cov_trace//trace_080.json",
+    "ana_result": "../../../../result/tot_info/trace_080",
+    "recall": [
+      0.2169811320754717
+    ],
+    "precision": [
+      0.92
+    ],
+    "accuracy": [
+      0.9636605362286728
+    ],
+    "max_recall_files": [
+      "../../../../result/tot_info/trace_080/full_path_coverage_00.json"
+    ],
+    "max_precision_files": [
+      "../../../../result/tot_info/trace_080/MPP_coverage_00.json"
+    ],
+    "max_acc_files": [
+      "../../../../result/tot_info/trace_080/full_path_00.json"
+    ],
+    "uncovered_lines": [
+      41,
+      123,
+      150,
+      162,
+      169,
+      170,
+      172,
+      174,
+      175,
+      177,
+      184,
+      191,
+      194,
+      196,
+      198,
+      200,
+      201,
+      208,
+      212,
+      213,
+      215,
+      218,
+      219,
+      221,
+      222,
+      223,
+      224,
+      225,
+      227,
+      229,
+      231,
+      233,
+      234,
+      236,
+      244,
+      248,
+      252,
+      256,
+      293,
+      305,
+      306,
+      308,
+      314,
+      316,
+      322,
+      330,
+      332,
+      334,
+      336,
+      338,
+      340,
+      342,
+      343,
+      346,
+      349,
+      352,
+      354,
+      355,
+      360,
+      362,
+      364,
+      365,
+      367,
+      372,
+      374,
+      376,
+      378,
+      379,
+      381,
+      383,
+      385,
+      386,
+      390,
+      392,
+      394,
+      395,
+      398,
+      400,
+      401,
+      402,
+      403,
+      404,
+      405
+    ],
+    "wrong_lines": [
+      [
+        71,
+        72
+      ]
+    ]
+  },
+  "test_081": {
+    "ground_truth": "../cov_trace//trace_081.json",
+    "ana_result": "../../../../result/tot_info/trace_081",
+    "recall": [
+      0.22105263157894736
+    ],
+    "precision": [
+      0.92
+    ],
+    "accuracy": [
+      0.9672058497673388
+    ],
+    "max_recall_files": [
+      "../../../../result/tot_info/trace_081/full_path_coverage_00.json"
+    ],
+    "max_precision_files": [
+      "../../../../result/tot_info/trace_081/MPP_coverage_00.json"
+    ],
+    "max_acc_files": [
+      "../../../../result/tot_info/trace_081/full_path_00.json"
+    ],
+    "uncovered_lines": [
+      41,
+      123,
+      150,
+      162,
+      169,
+      170,
+      172,
+      174,
+      175,
+      177,
+      208,
+      212,
+      213,
+      215,
+      218,
+      219,
+      221,
+      222,
+      223,
+      224,
+      225,
+      227,
+      229,
+      231,
+      233,
+      234,
+      236,
+      244,
+      248,
+      252,
+      256,
+      293,
+      305,
+      306,
+      308,
+      314,
+      316,
+      322,
+      330,
+      332,
+      334,
+      336,
+      338,
+      340,
+      342,
+      343,
+      346,
+      349,
+      352,
+      360,
+      362,
+      364,
+      365,
+      367,
+      372,
+      374,
+      376,
+      378,
+      379,
+      381,
+      383,
+      385,
+      386,
+      390,
+      392,
+      394,
+      395,
+      398,
+      400,
+      401,
+      402,
+      403,
+      404,
+      405
+    ],
+    "wrong_lines": [
+      [
+        71,
+        72
+      ]
+    ]
+  },
+  "test_082": {
+    "ground_truth": "../cov_trace//trace_082.json",
+    "ana_result": "../../../../result/tot_info/trace_082",
+    "recall": [
+      0.22340425531914893
+    ],
+    "precision": [
+      0.84
+    ],
+    "accuracy": [
+      0.9676490139596721
+    ],
+    "max_recall_files": [
+      "../../../../result/tot_info/trace_082/full_path_coverage_00.json"
+    ],
+    "max_precision_files": [
+      "../../../../result/tot_info/trace_082/MPP_coverage_00.json"
+    ],
+    "max_acc_files": [
+      "../../../../result/tot_info/trace_082/full_path_00.json"
+    ],
+    "uncovered_lines": [
+      41,
+      150,
+      162,
+      169,
+      170,
+      172,
+      174,
+      175,
+      177,
+      208,
+      212,
+      213,
+      215,
+      218,
+      219,
+      221,
+      222,
+      223,
+      224,
+      225,
+      227,
+      229,
+      231,
+      233,
+      234,
+      236,
+      244,
+      248,
+      252,
+      256,
+      293,
+      305,
+      306,
+      308,
+      314,
+      316,
+      322,
+      330,
+      332,
+      334,
+      336,
+      338,
+      340,
+      342,
+      343,
+      346,
+      349,
+      352,
+      360,
+      362,
+      364,
+      365,
+      367,
+      372,
+      374,
+      376,
+      378,
+      379,
+      381,
+      383,
+      385,
+      386,
+      390,
+      392,
+      394,
+      395,
+      398,
+      400,
+      401,
+      402,
+      403,
+      404,
+      405
+    ],
+    "wrong_lines": [
+      [
+        71,
+        72
+      ],
+      [
+        127,
+        128
+      ]
+    ]
+  },
+  "test_083": {
+    "ground_truth": "../cov_trace//trace_083.json",
+    "ana_result": "../../../../result/tot_info/trace_083",
+    "recall": [
+      0.21904761904761905
+    ],
+    "precision": [
+      0.84
+    ],
+    "accuracy": [
+      0.9643252825171726
+    ],
+    "max_recall_files": [
+      "../../../../result/tot_info/trace_083/full_path_coverage_00.json"
+    ],
+    "max_precision_files": [
+      "../../../../result/tot_info/trace_083/MPP_coverage_00.json"
+    ],
+    "max_acc_files": [
+      "../../../../result/tot_info/trace_083/full_path_00.json"
+    ],
+    "uncovered_lines": [
+      41,
+      150,
+      162,
+      164,
+      166,
+      169,
+      170,
+      172,
+      174,
+      175,
+      177,
+      184,
+      191,
+      194,
+      196,
+      198,
+      200,
+      201,
+      208,
+      212,
+      213,
+      215,
+      218,
+      219,
+      221,
+      222,
+      223,
+      224,
+      225,
+      227,
+      229,
+      231,
+      233,
+      234,
+      236,
+      244,
+      248,
+      252,
+      256,
+      293,
+      305,
+      306,
+      308,
+      310,
+      311,
+      314,
+      316,
+      322,
+      330,
+      332,
+      334,
+      336,
+      338,
+      340,
+      346,
+      349,
+      352,
+      360,
+      362,
+      364,
+      365,
+      367,
+      372,
+      374,
+      376,
+      378,
+      379,
+      381,
+      383,
+      385,
+      386,
+      390,
+      392,
+      394,
+      395,
+      398,
+      400,
+      401,
+      402,
+      403,
+      404,
+      405
+    ],
+    "wrong_lines": [
+      [
+        71,
+        72
+      ],
+      [
+        127,
+        128
+      ]
+    ]
+  },
+  "test_084": {
+    "ground_truth": "../cov_trace//trace_084.json",
+    "ana_result": "../../../../result/tot_info/trace_084",
+    "recall": [
+      0.2441860465116279
+    ],
+    "precision": [
+      0.84
+    ],
+    "accuracy": [
+      0.9678705960558387
+    ],
+    "max_recall_files": [
+      "../../../../result/tot_info/trace_084/full_path_coverage_00.json"
+    ],
+    "max_precision_files": [
+      "../../../../result/tot_info/trace_084/MPP_coverage_00.json"
+    ],
+    "max_acc_files": [
+      "../../../../result/tot_info/trace_084/full_path_00.json"
+    ],
+    "uncovered_lines": [
+      41,
+      150,
+      162,
+      164,
+      166,
+      169,
+      170,
+      172,
+      174,
+      175,
+      177,
+      184,
+      191,
+      194,
+      196,
+      198,
+      200,
+      201,
+      244,
+      248,
+      252,
+      256,
+      293,
+      305,
+      306,
+      308,
+      314,
+      316,
+      322,
+      330,
+      332,
+      334,
+      336,
+      338,
+      340,
+      342,
+      343,
+      346,
+      349,
+      352,
+      360,
+      362,
+      364,
+      365,
+      367,
+      372,
+      374,
+      376,
+      378,
+      379,
+      381,
+      383,
+      385,
+      386,
+      390,
+      392,
+      394,
+      395,
+      398,
+      400,
+      401,
+      402,
+      403,
+      404,
+      405
+    ],
+    "wrong_lines": [
+      [
+        71,
+        72
+      ],
+      [
+        127,
+        128
+      ]
+    ]
+  },
+  "test_085": {
+    "ground_truth": "../cov_trace//trace_085.json",
+    "ana_result": "../../../../result/tot_info/trace_085",
+    "recall": [
+      0.45652173913043476
+    ],
+    "precision": [
+      0.84
+    ],
+    "accuracy": [
+      0.9833813427875028
+    ],
+    "max_recall_files": [
+      "../../../../result/tot_info/trace_085/full_path_coverage_00.json"
+    ],
+    "max_precision_files": [
+      "../../../../result/tot_info/trace_085/MPP_coverage_00.json"
+    ],
+    "max_acc_files": [
+      "../../../../result/tot_info/trace_085/full_path_00.json"
+    ],
+    "uncovered_lines": [
+      41,
+      293,
+      305,
+      306,
+      308,
+      314,
+      316,
+      322,
+      330,
+      332,
+      334,
+      336,
+      338,
+      340,
+      346,
+      349,
+      352,
+      354,
+      355,
+      400,
+      401,
+      402,
+      403,
+      404,
+      405
+    ],
+    "wrong_lines": [
+      [
+        71,
+        72
+      ],
+      [
+        127,
+        128
+      ]
+    ]
+  },
+  "test_086": {
+    "ground_truth": "../cov_trace//trace_086.json",
+    "ana_result": "../../../../result/tot_info/trace_086",
+    "recall": [
+      0.9285714285714286
+    ],
+    "precision": [
+      0.8
+    ],
+    "accuracy": [
+      0.9920230445380013
+    ],
+    "max_recall_files": [
+      "../../../../result/tot_info/trace_086/full_path_coverage_00.json"
+    ],
+    "max_precision_files": [
+      "../../../../result/tot_info/trace_086/MPP_coverage_00.json"
+    ],
+    "max_acc_files": [
+      "../../../../result/tot_info/trace_086/full_path_00.json"
+    ],
+    "uncovered_lines": [
+      41
+    ],
+    "wrong_lines": [
+      [
+        61,
+        61
+      ],
+      [
+        71,
+        72
+      ],
+      [
+        127,
+        128
+      ]
+    ]
+  },
+  "test_087": {
+    "ground_truth": "../cov_trace//trace_087.json",
+    "ana_result": "../../../../result/tot_info/trace_087",
+    "recall": [
+      0.23232323232323232
+    ],
+    "precision": [
+      0.92
+    ],
+    "accuracy": [
+      0.9665411034788389
+    ],
+    "max_recall_files": [
+      "../../../../result/tot_info/trace_087/full_path_coverage_00.json"
+    ],
+    "max_precision_files": [
+      "../../../../result/tot_info/trace_087/MPP_coverage_00.json"
+    ],
+    "max_acc_files": [
+      "../../../../result/tot_info/trace_087/full_path_00.json"
+    ],
+    "uncovered_lines": [
+      41,
+      123,
+      150,
+      162,
+      164,
+      166,
+      169,
+      170,
+      172,
+      174,
+      175,
+      177,
+      208,
+      212,
+      213,
+      215,
+      218,
+      219,
+      221,
+      222,
+      223,
+      224,
+      225,
+      227,
+      229,
+      231,
+      233,
+      234,
+      236,
+      244,
+      248,
+      252,
+      256,
+      293,
+      305,
+      306,
+      308,
+      314,
+      316,
+      322,
+      330,
+      332,
+      334,
+      336,
+      338,
+      340,
+      346,
+      349,
+      352,
+      354,
+      355,
+      360,
+      362,
+      364,
+      365,
+      367,
+      372,
+      374,
+      376,
+      378,
+      379,
+      381,
+      383,
+      385,
+      386,
+      390,
+      392,
+      394,
+      395,
+      398,
+      400,
+      401,
+      402,
+      403,
+      404,
+      405
+    ],
+    "wrong_lines": [
+      [
+        71,
+        72
+      ]
+    ]
+  },
+  "test_088": {
+    "ground_truth": "../cov_trace//trace_088.json",
+    "ana_result": "../../../../result/tot_info/trace_088",
+    "recall": [
+      0.26136363636363635
+    ],
+    "precision": [
+      0.84
+    ],
+    "accuracy": [
+      0.9676490139596721
+    ],
+    "max_recall_files": [
+      "../../../../result/tot_info/trace_088/full_path_coverage_00.json"
+    ],
+    "max_precision_files": [
+      "../../../../result/tot_info/trace_088/MPP_coverage_00.json"
+    ],
+    "max_acc_files": [
+      "../../../../result/tot_info/trace_088/full_path_00.json"
+    ],
+    "uncovered_lines": [
+      41,
+      150,
+      162,
+      164,
+      166,
+      169,
+      170,
+      172,
+      174,
+      175,
+      177,
+      184,
+      191,
+      194,
+      196,
+      198,
+      200,
+      201,
+      244,
+      248,
+      252,
+      256,
+      293,
+      305,
+      306,
+      308,
+      310,
+      311,
+      314,
+      316,
+      322,
+      330,
+      332,
+      334,
+      336,
+      338,
+      340,
+      346,
+      349,
+      352,
+      360,
+      362,
+      364,
+      365,
+      367,
+      372,
+      374,
+      376,
+      378,
+      379,
+      381,
+      383,
+      385,
+      386,
+      390,
+      392,
+      394,
+      395,
+      398,
+      400,
+      401,
+      402,
+      403,
+      404,
+      405
+    ],
+    "wrong_lines": [
+      [
+        71,
+        72
+      ],
+      [
+        127,
+        128
+      ]
+    ]
+  },
+  "test_089": {
+    "ground_truth": "../cov_trace//trace_089.json",
+    "ana_result": "../../../../result/tot_info/trace_089",
+    "recall": [
+      0.2079207920792079
+    ],
+    "precision": [
+      0.84
+    ],
+    "accuracy": [
+      0.9674274318635054
+    ],
+    "max_recall_files": [
+      "../../../../result/tot_info/trace_089/full_path_coverage_00.json"
+    ],
+    "max_precision_files": [
+      "../../../../result/tot_info/trace_089/MPP_coverage_00.json"
+    ],
+    "max_acc_files": [
+      "../../../../result/tot_info/trace_089/full_path_00.json"
+    ],
+    "uncovered_lines": [
+      41,
+      150,
+      162,
+      164,
+      166,
+      169,
+      170,
+      172,
+      174,
+      175,
+      177,
+      184,
+      191,
+      194,
+      196,
+      198,
+      200,
+      201,
+      208,
+      212,
+      213,
+      215,
+      218,
+      219,
+      221,
+      222,
+      223,
+      224,
+      225,
+      227,
+      229,
+      231,
+      233,
+      234,
+      236,
+      244,
+      248,
+      252,
+      256,
+      293,
+      305,
+      306,
+      308,
+      314,
+      316,
+      322,
+      330,
+      332,
+      334,
+      336,
+      338,
+      340,
+      346,
+      349,
+      352,
+      360,
+      362,
+      364,
+      365,
+      367,
+      372,
+      374,
+      376,
+      378,
+      379,
+      381,
+      383,
+      385,
+      386,
+      390,
+      392,
+      394,
+      395,
+      398,
+      400,
+      401,
+      402,
+      403,
+      404,
+      405
+    ],
+    "wrong_lines": [
+      [
+        71,
+        72
+      ],
+      [
+        127,
+        128
+      ]
+    ]
+  },
+  "test_090": {
+    "ground_truth": "../cov_trace//trace_090.json",
+    "ana_result": "../../../../result/tot_info/trace_090",
+    "recall": [
+      0.23469387755102042
+    ],
+    "precision": [
+      0.92
+    ],
+    "accuracy": [
+      0.9669842676711722
+    ],
+    "max_recall_files": [
+      "../../../../result/tot_info/trace_090/full_path_coverage_00.json"
+    ],
+    "max_precision_files": [
+      "../../../../result/tot_info/trace_090/MPP_coverage_00.json"
+    ],
+    "max_acc_files": [
+      "../../../../result/tot_info/trace_090/full_path_00.json"
+    ],
+    "uncovered_lines": [
+      41,
+      150,
+      162,
+      169,
+      170,
+      172,
+      174,
+      175,
+      177,
+      208,
+      212,
+      213,
+      215,
+      218,
+      219,
+      221,
+      222,
+      223,
+      224,
+      225,
+      227,
+      229,
+      231,
+      233,
+      234,
+      236,
+      244,
+      248,
+      252,
+      256,
+      293,
+      305,
+      306,
+      308,
+      314,
+      316,
+      322,
+      330,
+      332,
+      334,
+      336,
+      338,
+      340,
+      342,
+      343,
+      346,
+      349,
+      352,
+      354,
+      355,
+      360,
+      362,
+      364,
+      365,
+      367,
+      372,
+      374,
+      376,
+      378,
+      379,
+      381,
+      383,
+      385,
+      386,
+      390,
+      392,
+      394,
+      395,
+      398,
+      400,
+      401,
+      402,
+      403,
+      404,
+      405
+    ],
+    "wrong_lines": [
+      [
+        127,
+        128
+      ]
+    ]
+  },
+  "test_091": {
+    "ground_truth": "../cov_trace//trace_091.json",
+    "ana_result": "../../../../result/tot_info/trace_091",
+    "recall": [
+      0.21904761904761905
+    ],
+    "precision": [
+      0.84
+    ],
+    "accuracy": [
+      0.9643252825171726
+    ],
+    "max_recall_files": [
+      "../../../../result/tot_info/trace_091/full_path_coverage_00.json"
+    ],
+    "max_precision_files": [
+      "../../../../result/tot_info/trace_091/MPP_coverage_00.json"
+    ],
+    "max_acc_files": [
+      "../../../../result/tot_info/trace_091/full_path_00.json"
+    ],
+    "uncovered_lines": [
+      41,
+      150,
+      162,
+      164,
+      166,
+      169,
+      170,
+      172,
+      174,
+      175,
+      177,
+      184,
+      191,
+      194,
+      196,
+      198,
+      200,
+      201,
+      208,
+      212,
+      213,
+      215,
+      218,
+      219,
+      221,
+      222,
+      223,
+      224,
+      225,
+      227,
+      229,
+      231,
+      233,
+      234,
+      236,
+      244,
+      248,
+      252,
+      256,
+      293,
+      305,
+      306,
+      308,
+      310,
+      311,
+      314,
+      316,
+      322,
+      330,
+      332,
+      334,
+      336,
+      338,
+      340,
+      346,
+      349,
+      352,
+      360,
+      362,
+      364,
+      365,
+      367,
+      372,
+      374,
+      376,
+      378,
+      379,
+      381,
+      383,
+      385,
+      386,
+      390,
+      392,
+      394,
+      395,
+      398,
+      400,
+      401,
+      402,
+      403,
+      404,
+      405
+    ],
+    "wrong_lines": [
+      [
+        71,
+        72
+      ],
+      [
+        127,
+        128
+      ]
+    ]
+  },
+  "test_092": {
+    "ground_truth": "../cov_trace//trace_092.json",
+    "ana_result": "../../../../result/tot_info/trace_092",
+    "recall": [
+      0.23711340206185566
+    ],
+    "precision": [
+      0.92
+    ],
+    "accuracy": [
+      0.9667626855750056
+    ],
+    "max_recall_files": [
+      "../../../../result/tot_info/trace_092/full_path_coverage_00.json"
+    ],
+    "max_precision_files": [
+      "../../../../result/tot_info/trace_092/MPP_coverage_00.json"
+    ],
+    "max_acc_files": [
+      "../../../../result/tot_info/trace_092/full_path_00.json"
+    ],
+    "uncovered_lines": [
+      41,
+      123,
+      150,
+      162,
+      169,
+      170,
+      172,
+      174,
+      175,
+      177,
+      208,
+      212,
+      213,
+      215,
+      218,
+      219,
+      221,
+      222,
+      223,
+      224,
+      225,
+      227,
+      229,
+      231,
+      233,
+      234,
+      236,
+      244,
+      248,
+      252,
+      256,
+      293,
+      305,
+      306,
+      308,
+      314,
+      316,
+      322,
+      330,
+      332,
+      334,
+      336,
+      338,
+      340,
+      346,
+      349,
+      352,
+      354,
+      355,
+      360,
+      362,
+      364,
+      365,
+      367,
+      372,
+      374,
+      376,
+      378,
+      379,
+      381,
+      383,
+      385,
+      386,
+      390,
+      392,
+      394,
+      395,
+      398,
+      400,
+      401,
+      402,
+      403,
+      404,
+      405
+    ],
+    "wrong_lines": [
+      [
+        71,
+        72
+      ]
+    ]
+  },
+  "test_093": {
+    "ground_truth": "../cov_trace//trace_093.json",
+    "ana_result": "../../../../result/tot_info/trace_093",
+    "recall": [
+      0.22826086956521738
+    ],
+    "precision": [
+      0.84
+    ],
+    "accuracy": [
+      0.9705295812098382
+    ],
+    "max_recall_files": [
+      "../../../../result/tot_info/trace_093/full_path_coverage_00.json"
+    ],
+    "max_precision_files": [
+      "../../../../result/tot_info/trace_093/MPP_coverage_00.json"
+    ],
+    "max_acc_files": [
+      "../../../../result/tot_info/trace_093/full_path_00.json"
+    ],
+    "uncovered_lines": [
+      41,
+      150,
+      162,
+      169,
+      170,
+      172,
+      174,
+      175,
+      177,
+      208,
+      212,
+      213,
+      215,
+      218,
+      219,
+      221,
+      222,
+      223,
+      224,
+      225,
+      227,
+      229,
+      231,
+      233,
+      234,
+      236,
+      244,
+      248,
+      252,
+      256,
+      293,
+      305,
+      306,
+      308,
+      314,
+      316,
+      322,
+      330,
+      332,
+      334,
+      336,
+      338,
+      340,
+      346,
+      349,
+      352,
+      360,
+      362,
+      364,
+      365,
+      367,
+      372,
+      374,
+      376,
+      378,
+      379,
+      381,
+      383,
+      385,
+      386,
+      390,
+      392,
+      394,
+      395,
+      398,
+      400,
+      401,
+      402,
+      403,
+      404,
+      405
+    ],
+    "wrong_lines": [
+      [
+        71,
+        72
+      ],
+      [
+        127,
+        128
+      ]
+    ]
+  },
+  "test_094": {
+    "ground_truth": "../cov_trace//trace_094.json",
+    "ana_result": "../../../../result/tot_info/trace_094",
+    "recall": [
+      0.23711340206185566
+    ],
+    "precision": [
+      0.92
+    ],
+    "accuracy": [
+      0.9667626855750056
+    ],
+    "max_recall_files": [
+      "../../../../result/tot_info/trace_094/full_path_coverage_00.json"
+    ],
+    "max_precision_files": [
+      "../../../../result/tot_info/trace_094/MPP_coverage_00.json"
+    ],
+    "max_acc_files": [
+      "../../../../result/tot_info/trace_094/full_path_00.json"
+    ],
+    "uncovered_lines": [
+      41,
+      123,
+      150,
+      162,
+      169,
+      170,
+      172,
+      174,
+      175,
+      177,
+      208,
+      212,
+      213,
+      215,
+      218,
+      219,
+      221,
+      222,
+      223,
+      224,
+      225,
+      227,
+      229,
+      231,
+      233,
+      234,
+      236,
+      244,
+      248,
+      252,
+      256,
+      293,
+      305,
+      306,
+      308,
+      314,
+      316,
+      322,
+      330,
+      332,
+      334,
+      336,
+      338,
+      340,
+      346,
+      349,
+      352,
+      354,
+      355,
+      360,
+      362,
+      364,
+      365,
+      367,
+      372,
+      374,
+      376,
+      378,
+      379,
+      381,
+      383,
+      385,
+      386,
+      390,
+      392,
+      394,
+      395,
+      398,
+      400,
+      401,
+      402,
+      403,
+      404,
+      405
+    ],
+    "wrong_lines": [
+      [
+        71,
+        72
+      ]
+    ]
+  },
+  "test_095": {
+    "ground_truth": "../cov_trace//trace_095.json",
+    "ana_result": "../../../../result/tot_info/trace_095",
+    "recall": [
+      0.1919191919191919
+    ],
+    "precision": [
+      0.84
+    ],
+    "accuracy": [
+      0.9678705960558387
+    ],
+    "max_recall_files": [
+      "../../../../result/tot_info/trace_095/full_path_coverage_00.json"
+    ],
+    "max_precision_files": [
+      "../../../../result/tot_info/trace_095/MPP_coverage_00.json"
+    ],
+    "max_acc_files": [
+      "../../../../result/tot_info/trace_095/full_path_00.json"
+    ],
+    "uncovered_lines": [
+      41,
+      150,
+      162,
+      164,
+      166,
+      169,
+      170,
+      172,
+      174,
+      175,
+      177,
+      184,
+      191,
+      194,
+      196,
+      198,
+      200,
+      201,
+      208,
+      212,
+      213,
+      215,
+      218,
+      219,
+      221,
+      222,
+      223,
+      224,
+      225,
+      227,
+      229,
+      231,
+      233,
+      234,
+      236,
+      244,
+      248,
+      252,
+      256,
+      293,
+      305,
+      306,
+      308,
+      314,
+      316,
+      322,
+      330,
+      332,
+      334,
+      336,
+      338,
+      340,
+      346,
+      349,
+      352,
+      360,
+      362,
+      364,
+      365,
+      367,
+      372,
+      374,
+      376,
+      378,
+      379,
+      381,
+      383,
+      385,
+      386,
+      390,
+      392,
+      394,
+      395,
+      398,
+      400,
+      401,
+      402,
+      403,
+      404,
+      405
+    ],
+    "wrong_lines": [
+      [
+        71,
+        72
+      ],
+      [
+        127,
+        128
+      ]
+    ]
+  },
+  "test_096": {
+    "ground_truth": "../cov_trace//trace_096.json",
+    "ana_result": "../../../../result/tot_info/trace_096",
+    "recall": [
+      0.2375
+    ],
+    "precision": [
+      0.84
+    ],
+    "accuracy": [
+      0.9714159095945047
+    ],
+    "max_recall_files": [
+      "../../../../result/tot_info/trace_096/full_path_coverage_00.json"
+    ],
+    "max_precision_files": [
+      "../../../../result/tot_info/trace_096/MPP_coverage_00.json"
+    ],
+    "max_acc_files": [
+      "../../../../result/tot_info/trace_096/full_path_00.json"
+    ],
+    "uncovered_lines": [
+      41,
+      150,
+      162,
+      169,
+      170,
+      172,
+      174,
+      175,
+      177,
+      184,
+      191,
+      194,
+      196,
+      198,
+      200,
+      201,
+      244,
+      248,
+      252,
+      256,
+      293,
+      305,
+      306,
+      308,
+      314,
+      316,
+      322,
+      330,
+      332,
+      334,
+      336,
+      338,
+      340,
+      346,
+      349,
+      352,
+      360,
+      362,
+      364,
+      365,
+      367,
+      372,
+      374,
+      376,
+      378,
+      379,
+      381,
+      383,
+      385,
+      386,
+      390,
+      392,
+      394,
+      395,
+      398,
+      400,
+      401,
+      402,
+      403,
+      404,
+      405
+    ],
+    "wrong_lines": [
+      [
+        71,
+        72
+      ],
+      [
+        127,
+        128
+      ]
+    ]
+  },
+  "test_097": {
+    "ground_truth": "../cov_trace//trace_097.json",
+    "ana_result": "../../../../result/tot_info/trace_097",
+    "recall": [
+      0.23232323232323232
+    ],
+    "precision": [
+      0.92
+    ],
+    "accuracy": [
+      0.9665411034788389
+    ],
+    "max_recall_files": [
+      "../../../../result/tot_info/trace_097/full_path_coverage_00.json"
+    ],
+    "max_precision_files": [
+      "../../../../result/tot_info/trace_097/MPP_coverage_00.json"
+    ],
+    "max_acc_files": [
+      "../../../../result/tot_info/trace_097/full_path_00.json"
+    ],
+    "uncovered_lines": [
+      41,
+      123,
+      150,
+      162,
+      169,
+      170,
+      172,
+      174,
+      175,
+      177,
+      208,
+      212,
+      213,
+      215,
+      218,
+      219,
+      221,
+      222,
+      223,
+      224,
+      225,
+      227,
+      229,
+      231,
+      233,
+      234,
+      236,
+      244,
+      248,
+      252,
+      256,
+      293,
+      305,
+      306,
+      308,
+      314,
+      316,
+      322,
+      330,
+      332,
+      334,
+      336,
+      338,
+      340,
+      342,
+      343,
+      346,
+      349,
+      352,
+      354,
+      355,
+      360,
+      362,
+      364,
+      365,
+      367,
+      372,
+      374,
+      376,
+      378,
+      379,
+      381,
+      383,
+      385,
+      386,
+      390,
+      392,
+      394,
+      395,
+      398,
+      400,
+      401,
+      402,
+      403,
+      404,
+      405
+    ],
+    "wrong_lines": [
+      [
+        71,
+        72
+      ]
+    ]
+  },
+  "test_098": {
+    "ground_truth": "../cov_trace//trace_098.json",
+    "ana_result": "../../../../result/tot_info/trace_098",
+    "recall": [
+      0.2079207920792079
+    ],
+    "precision": [
+      0.84
+    ],
+    "accuracy": [
+      0.9647684467095059
+    ],
+    "max_recall_files": [
+      "../../../../result/tot_info/trace_098/full_path_coverage_00.json"
+    ],
+    "max_precision_files": [
+      "../../../../result/tot_info/trace_098/MPP_coverage_00.json"
+    ],
+    "max_acc_files": [
+      "../../../../result/tot_info/trace_098/full_path_00.json"
+    ],
+    "uncovered_lines": [
+      41,
+      150,
+      162,
+      169,
+      170,
+      172,
+      174,
+      175,
+      177,
+      184,
+      191,
+      194,
+      196,
+      198,
+      200,
+      201,
+      208,
+      212,
+      213,
+      215,
+      218,
+      219,
+      221,
+      222,
+      223,
+      224,
+      225,
+      227,
+      229,
+      231,
+      233,
+      234,
+      236,
+      244,
+      248,
+      252,
+      256,
+      293,
+      305,
+      306,
+      308,
+      314,
+      316,
+      322,
+      330,
+      332,
+      334,
+      336,
+      338,
+      340,
+      342,
+      343,
+      346,
+      349,
+      352,
+      360,
+      362,
+      364,
+      365,
+      367,
+      372,
+      374,
+      376,
+      378,
+      379,
+      381,
+      383,
+      385,
+      386,
+      390,
+      392,
+      394,
+      395,
+      398,
+      400,
+      401,
+      402,
+      403,
+      404,
+      405
+    ],
+    "wrong_lines": [
+      [
+        71,
+        72
+      ],
+      [
+        127,
+        128
+      ]
+    ]
+  },
+  "test_099": {
+    "ground_truth": "../cov_trace//trace_099.json",
+    "ana_result": "../../../../result/tot_info/trace_099",
+    "recall": [
+      0.21904761904761905
+    ],
+    "precision": [
+      0.84
+    ],
+    "accuracy": [
+      0.964103700421006
+    ],
+    "max_recall_files": [
+      "../../../../result/tot_info/trace_099/full_path_coverage_00.json"
+    ],
+    "max_precision_files": [
+      "../../../../result/tot_info/trace_099/MPP_coverage_00.json"
+    ],
+    "max_acc_files": [
+      "../../../../result/tot_info/trace_099/full_path_00.json"
+    ],
+    "uncovered_lines": [
+      41,
+      150,
+      162,
+      164,
+      166,
+      169,
+      170,
+      172,
+      174,
+      175,
+      177,
+      184,
+      191,
+      194,
+      196,
+      198,
+      200,
+      201,
+      208,
+      212,
+      213,
+      215,
+      218,
+      219,
+      221,
+      222,
+      223,
+      224,
+      225,
+      227,
+      229,
+      231,
+      233,
+      234,
+      236,
+      244,
+      248,
+      252,
+      256,
+      293,
+      305,
+      306,
+      308,
+      314,
+      316,
+      322,
+      330,
+      332,
+      334,
+      336,
+      338,
+      340,
+      346,
+      349,
+      352,
+      354,
+      355,
+      360,
+      362,
+      364,
+      365,
+      367,
+      372,
+      374,
+      376,
+      378,
+      379,
+      381,
+      383,
+      385,
+      386,
+      390,
+      392,
+      394,
+      395,
+      398,
+      400,
+      401,
+      402,
+      403,
+      404,
+      405
+    ],
+    "wrong_lines": [
+      [
+        71,
+        72
+      ],
+      [
+        127,
+        128
+      ]
+    ]
+  },
+  "test_100": {
+    "ground_truth": "../cov_trace//trace_100.json",
+    "ana_result": "../../../../result/tot_info/trace_100",
+    "recall": [
+      0.2079207920792079
+    ],
+    "precision": [
+      0.84
+    ],
+    "accuracy": [
+      0.9674274318635054
+    ],
+    "max_recall_files": [
+      "../../../../result/tot_info/trace_100/full_path_coverage_00.json"
+    ],
+    "max_precision_files": [
+      "../../../../result/tot_info/trace_100/MPP_coverage_00.json"
+    ],
+    "max_acc_files": [
+      "../../../../result/tot_info/trace_100/full_path_00.json"
+    ],
+    "uncovered_lines": [
+      41,
+      150,
+      162,
+      164,
+      166,
+      169,
+      170,
+      172,
+      174,
+      175,
+      177,
+      184,
+      191,
+      194,
+      196,
+      198,
+      200,
+      201,
+      208,
+      212,
+      213,
+      215,
+      218,
+      219,
+      221,
+      222,
+      223,
+      224,
+      225,
+      227,
+      229,
+      231,
+      233,
+      234,
+      236,
+      244,
+      248,
+      252,
+      256,
+      293,
+      305,
+      306,
+      308,
+      314,
+      316,
+      322,
+      330,
+      332,
+      334,
+      336,
+      338,
+      340,
+      346,
+      349,
+      352,
+      360,
+      362,
+      364,
+      365,
+      367,
+      372,
+      374,
+      376,
+      378,
+      379,
+      381,
+      383,
+      385,
+      386,
+      390,
+      392,
+      394,
+      395,
+      398,
+      400,
+      401,
+      402,
+      403,
+      404,
+      405
+    ],
+    "wrong_lines": [
+      [
+        71,
+        72
+      ],
+      [
+        127,
+        128
+      ]
+    ]
+  }
+}

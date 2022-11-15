@@ -1,0 +1,9 @@
+{
+  "tcas": [
+    "../source/tcas  958 1 1 2597  574 4253 0  399  400 0 0 1     > ../outputs/t1",
+    "../source/tcas  627 0 0  621  216  382 1  400  641 1 1 0     > ../outputs/t2",
+    "../source/tcas  549 1 1 4398  133 1445 1  641  639 0 0 1     > ../outputs/t3",
+    "../source/tcas  576 0 1 3469  183  381 2  641  501 1 0 1     > ../outputs/t4",
+    "../source/tcas  992 1 0 3342   23 4657 1  640  741 0 0 0     > ../outputs/t5"
+  ]
+}

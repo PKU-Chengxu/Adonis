@@ -1,0 +1,110 @@
+{
+  "atoi": [
+    "atoi$"
+  ],
+  "chmod": [
+    "chmod$"
+  ],
+  "chown": [
+    "chown$"
+  ],
+  "close": [
+    "close$"
+  ],
+  "closedir": [
+    "closedir$"
+  ],
+  "exit": [
+    "exit$"
+  ],
+  "fflush": [
+    "fflush$"
+  ],
+  "fileno": [
+    "fileno$"
+  ],
+  "fprintf": [
+    "fprintf$",
+    "fputc$",
+    "fputs$",
+    "fwrite$"
+  ],
+  "fputc": [
+    "fputc$"
+  ],
+  "fwrite": [
+    "fwrite$"
+  ],
+  "getenv": [
+    "getenv$"
+  ],
+  "isatty": [
+    "isatty$"
+  ],
+  "memcmp": [
+    "memcmp$"
+  ],
+  "memset": [
+    "memset$"
+  ],
+  "open": [
+    "open$"
+  ],
+  "opendir": [
+    "opendir$"
+  ],
+  "perror": [
+    "perror$"
+  ],
+  "putc": [
+    "putc$"
+  ],
+  "read": [
+    "read$"
+  ],
+  "readdir": [
+    "readdir$"
+  ],
+  "signal": [
+    "signal$"
+  ],
+  "strcat": [
+    "strcat$"
+  ],
+  "strchr": [
+    "strchr$"
+  ],
+  "strcmp": [
+    "strcmp$"
+  ],
+  "strcpy": [
+    "strcpy$"
+  ],
+  "strcspn": [
+    "strcspn$"
+  ],
+  "strlen": [
+    "strlen$"
+  ],
+  "strncmp": [
+    "strncmp$"
+  ],
+  "strncpy": [
+    "strncpy$"
+  ],
+  "strrchr": [
+    "strrchr$"
+  ],
+  "strspn": [
+    "strspn$"
+  ],
+  "unlink": [
+    "unlink$"
+  ],
+  "utime": [
+    "utime$"
+  ],
+  "write": [
+    "write$"
+  ]
+}

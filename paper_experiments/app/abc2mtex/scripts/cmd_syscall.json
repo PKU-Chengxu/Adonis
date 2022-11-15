@@ -1,0 +1,8 @@
+{
+  "abc2mtex": [
+    "../source/abc2mtex ../inputs/English.abc",
+    "../source/abc2mtex ../inputs/Jigs.abc",
+    "../source/abc2mtex ../inputs/Reels.abc",
+    "../source/abc2mtex ../inputs/Strspys.abc"
+  ]
+}

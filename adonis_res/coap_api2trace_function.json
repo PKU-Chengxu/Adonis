@@ -1,0 +1,40 @@
+{
+  "bind": [
+    "bind$"
+  ],
+  "htonl": [
+    "htonl$"
+  ],
+  "htons": [
+    "htons$"
+  ],
+  "memcmp": [
+    "memcmp$"
+  ],
+  "printf": [
+    "printf$",
+    "putc$",
+    "puts$"
+  ],
+  "putchar": [
+    "putchar$"
+  ],
+  "puts": [
+    "puts$"
+  ],
+  "recvfrom": [
+    "recvfrom$"
+  ],
+  "sendto": [
+    "sendto$"
+  ],
+  "socket": [
+    "socket$"
+  ],
+  "strlen": [
+    "strlen$"
+  ],
+  "strncat": [
+    "strncat$"
+  ]
+}

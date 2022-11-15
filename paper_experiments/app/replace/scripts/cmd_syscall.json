@@ -1,0 +1,14 @@
+{
+  "replace": [
+    "../source/replace '-?' 'a&'  < ../inputs/temp-test/1.inp.1.1 > ../outputs/t1",
+    "../source/replace ' ' '@%@&'  < ../inputs/temp-test/777.inp.334.1 > ../outputs/t2",
+    "../source/replace ' ' 'NEW'  < ../inputs/temp-test/550.inp.238.1 > ../outputs/t3",
+    "../source/replace ' ' 'NEW'  < ../inputs/temp-test/551.inp.238.3 > ../outputs/t4",
+    "../source/replace ' ' 'rY NCDt+32Ilu>dr~s^1Q{0*{RLN>Muz'  < ../inputs/input/ruin.1224 > ../outputs/t5",
+    "../source/replace ' '  < ../inputs/input/ruin.1160 > ../outputs/t6",
+    "../source/replace ' *' '@%&a'  < ../inputs/temp-test/2298.inp.975.1 > ../outputs/t7",
+    "../source/replace ' *' 'a&'  < ../inputs/temp-test/1839.inp.782.1 > ../outputs/t8",
+    "../source/replace ' *' 'a&'  < ../inputs/temp-test/1840.inp.782.2 > ../outputs/t9",
+    "../source/replace ' *' 'a&'  < ../inputs/temp-test/1841.inp.782.3 > ../outputs/t10"
+  ]
+}

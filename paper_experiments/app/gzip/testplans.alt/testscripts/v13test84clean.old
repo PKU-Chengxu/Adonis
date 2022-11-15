@@ -1,0 +1,1 @@
+cp ${ARISTOTLE_DB_DIR}/inputs/gzfile/34filea ${ARISTOTLE_DB_DIR}/outputs/gzfile/test84

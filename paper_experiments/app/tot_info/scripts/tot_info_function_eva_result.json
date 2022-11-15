@@ -1,0 +1,5184 @@
+{
+  "test_001": {
+    "ground_truth": "../cov_trace//trace_001.json",
+    "ana_result": "../../../../result/tot_info/trace_001",
+    "recall": [
+      0.9375
+    ],
+    "precision": [
+      0.8461538461538461,
+      0.8461538461538461,
+      0.8461538461538461,
+      0.8461538461538461,
+      0.8461538461538461
+    ],
+    "accuracy": [
+      0.9842676711721693
+    ],
+    "max_recall_files": [
+      "../../../../result/tot_info/trace_001/full_path_coverage_00.json"
+    ],
+    "max_precision_files": [
+      "../../../../result/tot_info/trace_001/MPP_coverage_00.json",
+      "../../../../result/tot_info/trace_001/MPP_coverage_01.json",
+      "../../../../result/tot_info/trace_001/MPP_coverage_02.json",
+      "../../../../result/tot_info/trace_001/MPP_coverage_03.json",
+      "../../../../result/tot_info/trace_001/MPP_coverage_04.json"
+    ],
+    "max_acc_files": [
+      "../../../../result/tot_info/trace_001/full_path_00.json"
+    ],
+    "uncovered_lines": [
+      41,
+      293,
+      405
+    ],
+    "wrong_lines": [
+      [
+        71,
+        72
+      ],
+      [
+        127,
+        128
+      ]
+    ]
+  },
+  "test_002": {
+    "ground_truth": "../cov_trace//trace_002.json",
+    "ana_result": "../../../../result/tot_info/trace_002",
+    "recall": [
+      0.9166666666666666
+    ],
+    "precision": [
+      0.9733333333333334
+    ],
+    "accuracy": [
+      0.9800576113450034
+    ],
+    "max_recall_files": [
+      "../../../../result/tot_info/trace_002/full_path_coverage_00.json"
+    ],
+    "max_precision_files": [
+      "../../../../result/tot_info/trace_002/MPP_coverage_00.json"
+    ],
+    "max_acc_files": [
+      "../../../../result/tot_info/trace_002/full_path_00.json"
+    ],
+    "uncovered_lines": [
+      41,
+      150,
+      184,
+      244,
+      252,
+      293,
+      405
+    ],
+    "wrong_lines": [
+      [
+        127,
+        128
+      ]
+    ]
+  },
+  "test_003": {
+    "ground_truth": "../cov_trace//trace_003.json",
+    "ana_result": "../../../../result/tot_info/trace_003",
+    "recall": [
+      0.9230769230769231
+    ],
+    "precision": [
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0
+    ],
+    "accuracy": [
+      0.9827165964990029
+    ],
+    "max_recall_files": [
+      "../../../../result/tot_info/trace_003/full_path_coverage_00.json"
+    ],
+    "max_precision_files": [
+      "../../../../result/tot_info/trace_003/MPP_coverage_00.json",
+      "../../../../result/tot_info/trace_003/MPP_coverage_01.json",
+      "../../../../result/tot_info/trace_003/MPP_coverage_02.json",
+      "../../../../result/tot_info/trace_003/MPP_coverage_03.json",
+      "../../../../result/tot_info/trace_003/MPP_coverage_04.json"
+    ],
+    "max_acc_files": [
+      "../../../../result/tot_info/trace_003/full_path_00.json"
+    ],
+    "uncovered_lines": [
+      41,
+      150,
+      184,
+      208,
+      244,
+      252,
+      293,
+      405
+    ],
+    "wrong_lines": []
+  },
+  "test_004": {
+    "ground_truth": "../cov_trace//trace_004.json",
+    "ana_result": "../../../../result/tot_info/trace_004",
+    "recall": [
+      0.896551724137931
+    ],
+    "precision": [
+      0.8461538461538461,
+      0.84
+    ],
+    "accuracy": [
+      0.9816086860181698
+    ],
+    "max_recall_files": [
+      "../../../../result/tot_info/trace_004/full_path_coverage_00.json"
+    ],
+    "max_precision_files": [
+      "../../../../result/tot_info/trace_004/MPP_coverage_00.json"
+    ],
+    "max_acc_files": [
+      "../../../../result/tot_info/trace_004/full_path_00.json"
+    ],
+    "uncovered_lines": [
+      41,
+      293,
+      405
+    ],
+    "wrong_lines": [
+      [
+        71,
+        72
+      ],
+      [
+        127,
+        128
+      ]
+    ]
+  },
+  "test_005": {
+    "ground_truth": "../cov_trace//trace_005.json",
+    "ana_result": "../../../../result/tot_info/trace_005",
+    "recall": [
+      0.7272727272727273
+    ],
+    "precision": [
+      0.8461538461538461,
+      0.84
+    ],
+    "accuracy": [
+      0.9773986261910038
+    ],
+    "max_recall_files": [
+      "../../../../result/tot_info/trace_005/full_path_coverage_00.json"
+    ],
+    "max_precision_files": [
+      "../../../../result/tot_info/trace_005/MPP_coverage_00.json"
+    ],
+    "max_acc_files": [
+      "../../../../result/tot_info/trace_005/full_path_00.json"
+    ],
+    "uncovered_lines": [
+      41,
+      150,
+      162,
+      164,
+      166,
+      169,
+      170,
+      172,
+      174,
+      175,
+      177,
+      184,
+      191,
+      194,
+      196,
+      198,
+      200,
+      201,
+      244,
+      248,
+      252,
+      256,
+      293,
+      405
+    ],
+    "wrong_lines": [
+      [
+        71,
+        72
+      ],
+      [
+        127,
+        128
+      ]
+    ]
+  },
+  "test_006": {
+    "ground_truth": "../cov_trace//trace_006.json",
+    "ana_result": "../../../../result/tot_info/trace_006",
+    "recall": [
+      0.9230769230769231,
+      0.9230769230769231,
+      0.9230769230769231,
+      0.9230769230769231,
+      0.9230769230769231,
+      0.9230769230769231,
+      0.9230769230769231,
+      0.9230769230769231
+    ],
+    "precision": [
+      0.9736842105263158,
+      0.9736842105263158,
+      0.9736842105263158,
+      0.9736842105263158,
+      0.9736842105263158,
+      0.9733333333333334,
+      0.9736842105263158,
+      0.9733333333333334,
+      0.9736842105263158,
+      0.9736842105263158,
+      0.9736842105263158,
+      0.9736842105263158,
+      0.9736842105263158,
+      0.9733333333333334,
+      0.9736842105263158,
+      0.9733333333333334,
+      0.9736842105263158,
+      0.9736842105263158,
+      0.9736842105263158,
+      0.9736842105263158,
+      0.9736842105263158,
+      0.9733333333333334,
+      0.9736842105263158,
+      0.9733333333333334,
+      0.9736842105263158,
+      0.9736842105263158,
+      0.9736842105263158,
+      0.9736842105263158,
+      0.9736842105263158,
+      0.9733333333333334,
+      0.9736842105263158,
+      0.9733333333333334,
+      0.9736842105263158,
+      0.9736842105263158,
+      0.9736842105263158,
+      0.9736842105263158,
+      0.9736842105263158,
+      0.9733333333333334,
+      0.9736842105263158,
+      0.9733333333333334,
+      0.9736842105263158,
+      0.9736842105263158,
+      0.9736842105263158,
+      0.9736842105263158,
+      0.9736842105263158,
+      0.9733333333333334,
+      0.9736842105263158,
+      0.9733333333333334,
+      0.9736842105263158,
+      0.9736842105263158,
+      0.9736842105263158,
+      0.9736842105263158,
+      0.9736842105263158,
+      0.9733333333333334,
+      0.9736842105263158,
+      0.9733333333333334,
+      0.9736842105263158,
+      0.9736842105263158,
+      0.9736842105263158,
+      0.9736842105263158,
+      0.9736842105263158,
+      0.9733333333333334,
+      0.9736842105263158,
+      0.9733333333333334
+    ],
+    "accuracy": [
+      0.9824950144028363,
+      0.9824950144028363,
+      0.9824950144028363,
+      0.9824950144028363,
+      0.9824950144028363,
+      0.9824950144028363,
+      0.9824950144028363,
+      0.9824950144028363
+    ],
+    "max_recall_files": [
+      "../../../../result/tot_info/trace_006/full_path_coverage_00.json",
+      "../../../../result/tot_info/trace_006/full_path_coverage_01.json",
+      "../../../../result/tot_info/trace_006/full_path_coverage_02.json",
+      "../../../../result/tot_info/trace_006/full_path_coverage_03.json",
+      "../../../../result/tot_info/trace_006/full_path_coverage_04.json",
+      "../../../../result/tot_info/trace_006/full_path_coverage_05.json",
+      "../../../../result/tot_info/trace_006/full_path_coverage_06.json",
+      "../../../../result/tot_info/trace_006/full_path_coverage_07.json"
+    ],
+    "max_precision_files": [
+      "../../../../result/tot_info/trace_006/MPP_coverage_00.json",
+      "../../../../result/tot_info/trace_006/MPP_coverage_01.json",
+      "../../../../result/tot_info/trace_006/MPP_coverage_02.json",
+      "../../../../result/tot_info/trace_006/MPP_coverage_03.json",
+      "../../../../result/tot_info/trace_006/MPP_coverage_04.json",
+      "../../../../result/tot_info/trace_006/MPP_coverage_06.json",
+      "../../../../result/tot_info/trace_006/MPP_coverage_08.json",
+      "../../../../result/tot_info/trace_006/MPP_coverage_09.json",
+      "../../../../result/tot_info/trace_006/MPP_coverage_10.json",
+      "../../../../result/tot_info/trace_006/MPP_coverage_11.json",
+      "../../../../result/tot_info/trace_006/MPP_coverage_12.json",
+      "../../../../result/tot_info/trace_006/MPP_coverage_14.json",
+      "../../../../result/tot_info/trace_006/MPP_coverage_16.json",
+      "../../../../result/tot_info/trace_006/MPP_coverage_17.json",
+      "../../../../result/tot_info/trace_006/MPP_coverage_18.json",
+      "../../../../result/tot_info/trace_006/MPP_coverage_19.json",
+      "../../../../result/tot_info/trace_006/MPP_coverage_20.json",
+      "../../../../result/tot_info/trace_006/MPP_coverage_22.json",
+      "../../../../result/tot_info/trace_006/MPP_coverage_24.json",
+      "../../../../result/tot_info/trace_006/MPP_coverage_25.json",
+      "../../../../result/tot_info/trace_006/MPP_coverage_26.json",
+      "../../../../result/tot_info/trace_006/MPP_coverage_27.json",
+      "../../../../result/tot_info/trace_006/MPP_coverage_28.json",
+      "../../../../result/tot_info/trace_006/MPP_coverage_30.json",
+      "../../../../result/tot_info/trace_006/MPP_coverage_32.json",
+      "../../../../result/tot_info/trace_006/MPP_coverage_33.json",
+      "../../../../result/tot_info/trace_006/MPP_coverage_34.json",
+      "../../../../result/tot_info/trace_006/MPP_coverage_35.json",
+      "../../../../result/tot_info/trace_006/MPP_coverage_36.json",
+      "../../../../result/tot_info/trace_006/MPP_coverage_38.json",
+      "../../../../result/tot_info/trace_006/MPP_coverage_40.json",
+      "../../../../result/tot_info/trace_006/MPP_coverage_41.json",
+      "../../../../result/tot_info/trace_006/MPP_coverage_42.json",
+      "../../../../result/tot_info/trace_006/MPP_coverage_43.json",
+      "../../../../result/tot_info/trace_006/MPP_coverage_44.json",
+      "../../../../result/tot_info/trace_006/MPP_coverage_46.json",
+      "../../../../result/tot_info/trace_006/MPP_coverage_48.json",
+      "../../../../result/tot_info/trace_006/MPP_coverage_49.json",
+      "../../../../result/tot_info/trace_006/MPP_coverage_50.json",
+      "../../../../result/tot_info/trace_006/MPP_coverage_51.json",
+      "../../../../result/tot_info/trace_006/MPP_coverage_52.json",
+      "../../../../result/tot_info/trace_006/MPP_coverage_54.json",
+      "../../../../result/tot_info/trace_006/MPP_coverage_56.json",
+      "../../../../result/tot_info/trace_006/MPP_coverage_57.json",
+      "../../../../result/tot_info/trace_006/MPP_coverage_58.json",
+      "../../../../result/tot_info/trace_006/MPP_coverage_59.json",
+      "../../../../result/tot_info/trace_006/MPP_coverage_60.json",
+      "../../../../result/tot_info/trace_006/MPP_coverage_62.json"
+    ],
+    "max_acc_files": [
+      "../../../../result/tot_info/trace_006/full_path_00.json",
+      "../../../../result/tot_info/trace_006/full_path_00.json",
+      "../../../../result/tot_info/trace_006/full_path_00.json",
+      "../../../../result/tot_info/trace_006/full_path_00.json",
+      "../../../../result/tot_info/trace_006/full_path_00.json",
+      "../../../../result/tot_info/trace_006/full_path_00.json",
+      "../../../../result/tot_info/trace_006/full_path_00.json",
+      "../../../../result/tot_info/trace_006/full_path_00.json"
+    ],
+    "uncovered_lines": [
+      41,
+      150,
+      184,
+      208,
+      244,
+      252,
+      293,
+      405
+    ],
+    "wrong_lines": [
+      [
+        127,
+        128
+      ]
+    ]
+  },
+  "test_007": {
+    "ground_truth": "../cov_trace//trace_007.json",
+    "ana_result": "../../../../result/tot_info/trace_007",
+    "recall": [
+      0.9213483146067416
+    ],
+    "precision": [
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0
+    ],
+    "accuracy": [
+      0.9800576113450034
+    ],
+    "max_recall_files": [
+      "../../../../result/tot_info/trace_007/full_path_coverage_00.json"
+    ],
+    "max_precision_files": [
+      "../../../../result/tot_info/trace_007/MPP_coverage_00.json",
+      "../../../../result/tot_info/trace_007/MPP_coverage_01.json",
+      "../../../../result/tot_info/trace_007/MPP_coverage_02.json",
+      "../../../../result/tot_info/trace_007/MPP_coverage_03.json",
+      "../../../../result/tot_info/trace_007/MPP_coverage_04.json"
+    ],
+    "max_acc_files": [
+      "../../../../result/tot_info/trace_007/full_path_00.json"
+    ],
+    "uncovered_lines": [
+      41,
+      150,
+      184,
+      244,
+      252,
+      293,
+      405
+    ],
+    "wrong_lines": []
+  },
+  "test_008": {
+    "ground_truth": "../cov_trace//trace_008.json",
+    "ana_result": "../../../../result/tot_info/trace_008",
+    "recall": [
+      0.9375
+    ],
+    "precision": [
+      0.8461538461538461,
+      0.8461538461538461,
+      0.8461538461538461,
+      0.84
+    ],
+    "accuracy": [
+      0.9842676711721693
+    ],
+    "max_recall_files": [
+      "../../../../result/tot_info/trace_008/full_path_coverage_00.json"
+    ],
+    "max_precision_files": [
+      "../../../../result/tot_info/trace_008/MPP_coverage_00.json",
+      "../../../../result/tot_info/trace_008/MPP_coverage_01.json",
+      "../../../../result/tot_info/trace_008/MPP_coverage_02.json"
+    ],
+    "max_acc_files": [
+      "../../../../result/tot_info/trace_008/full_path_00.json"
+    ],
+    "uncovered_lines": [
+      41,
+      293,
+      405
+    ],
+    "wrong_lines": [
+      [
+        71,
+        72
+      ],
+      [
+        127,
+        128
+      ]
+    ]
+  },
+  "test_009": {
+    "ground_truth": "../cov_trace//trace_009.json",
+    "ana_result": "../../../../result/tot_info/trace_009",
+    "recall": [
+      0.918918918918919
+    ],
+    "precision": [
+      0.9736842105263158,
+      0.9733333333333334
+    ],
+    "accuracy": [
+      0.9776202082871704
+    ],
+    "max_recall_files": [
+      "../../../../result/tot_info/trace_009/full_path_coverage_00.json"
+    ],
+    "max_precision_files": [
+      "../../../../result/tot_info/trace_009/MPP_coverage_00.json"
+    ],
+    "max_acc_files": [
+      "../../../../result/tot_info/trace_009/full_path_00.json"
+    ],
+    "uncovered_lines": [
+      41,
+      184,
+      244,
+      252,
+      293,
+      405
+    ],
+    "wrong_lines": [
+      [
+        127,
+        128
+      ]
+    ]
+  },
+  "test_010": {
+    "ground_truth": "../cov_trace//trace_010.json",
+    "ana_result": "../../../../result/tot_info/trace_010",
+    "recall": [
+      0.9375
+    ],
+    "precision": [
+      0.8461538461538461,
+      0.8461538461538461,
+      0.8461538461538461,
+      0.8461538461538461,
+      0.8461538461538461
+    ],
+    "accuracy": [
+      0.9842676711721693
+    ],
+    "max_recall_files": [
+      "../../../../result/tot_info/trace_010/full_path_coverage_00.json"
+    ],
+    "max_precision_files": [
+      "../../../../result/tot_info/trace_010/MPP_coverage_00.json",
+      "../../../../result/tot_info/trace_010/MPP_coverage_01.json",
+      "../../../../result/tot_info/trace_010/MPP_coverage_02.json",
+      "../../../../result/tot_info/trace_010/MPP_coverage_03.json",
+      "../../../../result/tot_info/trace_010/MPP_coverage_04.json"
+    ],
+    "max_acc_files": [
+      "../../../../result/tot_info/trace_010/full_path_00.json"
+    ],
+    "uncovered_lines": [
+      41,
+      293,
+      405
+    ],
+    "wrong_lines": [
+      [
+        71,
+        72
+      ],
+      [
+        127,
+        128
+      ]
+    ]
+  },
+  "test_011": {
+    "ground_truth": "../cov_trace//trace_011.json",
+    "ana_result": "../../../../result/tot_info/trace_011",
+    "recall": [
+      0.9230769230769231
+    ],
+    "precision": [
+      0.8
+    ],
+    "accuracy": [
+      0.9829381785951695
+    ],
+    "max_recall_files": [
+      "../../../../result/tot_info/trace_011/full_path_coverage_00.json"
+    ],
+    "max_precision_files": [
+      "../../../../result/tot_info/trace_011/MPP_coverage_00.json"
+    ],
+    "max_acc_files": [
+      "../../../../result/tot_info/trace_011/full_path_00.json"
+    ],
+    "uncovered_lines": [
+      41
+    ],
+    "wrong_lines": [
+      [
+        61,
+        61
+      ],
+      [
+        71,
+        72
+      ],
+      [
+        127,
+        128
+      ]
+    ]
+  },
+  "test_012": {
+    "ground_truth": "../cov_trace//trace_012.json",
+    "ana_result": "../../../../result/tot_info/trace_012",
+    "recall": [
+      0.9024390243902439
+    ],
+    "precision": [
+      0.972972972972973
+    ],
+    "accuracy": [
+      0.9813871039220031
+    ],
+    "max_recall_files": [
+      "../../../../result/tot_info/trace_012/full_path_coverage_00.json"
+    ],
+    "max_precision_files": [
+      "../../../../result/tot_info/trace_012/MPP_coverage_00.json"
+    ],
+    "max_acc_files": [
+      "../../../../result/tot_info/trace_012/full_path_00.json"
+    ],
+    "uncovered_lines": [
+      41,
+      63,
+      150,
+      184,
+      244,
+      252,
+      293,
+      405
+    ],
+    "wrong_lines": [
+      [
+        127,
+        128
+      ]
+    ]
+  },
+  "test_013": {
+    "ground_truth": "../cov_trace//trace_013.json",
+    "ana_result": "../../../../result/tot_info/trace_013",
+    "recall": [
+      0.9207920792079208,
+      0.9207920792079208
+    ],
+    "precision": [
+      0.9736842105263158,
+      0.9733333333333334,
+      0.9736842105263158,
+      0.9733333333333334
+    ],
+    "accuracy": [
+      0.9827165964990029,
+      0.9827165964990029
+    ],
+    "max_recall_files": [
+      "../../../../result/tot_info/trace_013/full_path_coverage_00.json",
+      "../../../../result/tot_info/trace_013/full_path_coverage_01.json"
+    ],
+    "max_precision_files": [
+      "../../../../result/tot_info/trace_013/MPP_coverage_00.json",
+      "../../../../result/tot_info/trace_013/MPP_coverage_02.json"
+    ],
+    "max_acc_files": [
+      "../../../../result/tot_info/trace_013/full_path_00.json",
+      "../../../../result/tot_info/trace_013/full_path_00.json"
+    ],
+    "uncovered_lines": [
+      41,
+      150,
+      184,
+      208,
+      244,
+      252,
+      293,
+      405
+    ],
+    "wrong_lines": [
+      [
+        127,
+        128
+      ]
+    ]
+  },
+  "test_014": {
+    "ground_truth": "../cov_trace//trace_014.json",
+    "ana_result": "../../../../result/tot_info/trace_014",
+    "recall": [
+      0.9215686274509803
+    ],
+    "precision": [
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0
+    ],
+    "accuracy": [
+      0.9827165964990029
+    ],
+    "max_recall_files": [
+      "../../../../result/tot_info/trace_014/full_path_coverage_00.json"
+    ],
+    "max_precision_files": [
+      "../../../../result/tot_info/trace_014/MPP_coverage_00.json",
+      "../../../../result/tot_info/trace_014/MPP_coverage_01.json",
+      "../../../../result/tot_info/trace_014/MPP_coverage_02.json",
+      "../../../../result/tot_info/trace_014/MPP_coverage_03.json",
+      "../../../../result/tot_info/trace_014/MPP_coverage_04.json"
+    ],
+    "max_acc_files": [
+      "../../../../result/tot_info/trace_014/full_path_00.json"
+    ],
+    "uncovered_lines": [
+      41,
+      150,
+      184,
+      208,
+      244,
+      252,
+      293,
+      405
+    ],
+    "wrong_lines": []
+  },
+  "test_015": {
+    "ground_truth": "../cov_trace//trace_015.json",
+    "ana_result": "../../../../result/tot_info/trace_015",
+    "recall": [
+      0.9292929292929293
+    ],
+    "precision": [
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0
+    ],
+    "accuracy": [
+      0.9800576113450034
+    ],
+    "max_recall_files": [
+      "../../../../result/tot_info/trace_015/full_path_coverage_00.json"
+    ],
+    "max_precision_files": [
+      "../../../../result/tot_info/trace_015/MPP_coverage_00.json",
+      "../../../../result/tot_info/trace_015/MPP_coverage_01.json",
+      "../../../../result/tot_info/trace_015/MPP_coverage_02.json",
+      "../../../../result/tot_info/trace_015/MPP_coverage_03.json",
+      "../../../../result/tot_info/trace_015/MPP_coverage_04.json"
+    ],
+    "max_acc_files": [
+      "../../../../result/tot_info/trace_015/full_path_00.json"
+    ],
+    "uncovered_lines": [
+      41,
+      150,
+      208,
+      244,
+      252,
+      293,
+      405
+    ],
+    "wrong_lines": []
+  },
+  "test_016": {
+    "ground_truth": "../cov_trace//trace_016.json",
+    "ana_result": "../../../../result/tot_info/trace_016",
+    "recall": [
+      0.9090909090909091
+    ],
+    "precision": [
+      0.972972972972973
+    ],
+    "accuracy": [
+      0.9842676711721693
+    ],
+    "max_recall_files": [
+      "../../../../result/tot_info/trace_016/full_path_coverage_00.json"
+    ],
+    "max_precision_files": [
+      "../../../../result/tot_info/trace_016/MPP_coverage_00.json"
+    ],
+    "max_acc_files": [
+      "../../../../result/tot_info/trace_016/full_path_00.json"
+    ],
+    "uncovered_lines": [
+      41,
+      63,
+      150,
+      184,
+      208,
+      244,
+      252,
+      293,
+      405
+    ],
+    "wrong_lines": [
+      [
+        127,
+        128
+      ]
+    ]
+  },
+  "test_017": {
+    "ground_truth": "../cov_trace//trace_017.json",
+    "ana_result": "../../../../result/tot_info/trace_017",
+    "recall": [
+      0.925
+    ],
+    "precision": [
+      0.8
+    ],
+    "accuracy": [
+      0.9847108353645025
+    ],
+    "max_recall_files": [
+      "../../../../result/tot_info/trace_017/full_path_coverage_00.json"
+    ],
+    "max_precision_files": [
+      "../../../../result/tot_info/trace_017/MPP_coverage_00.json"
+    ],
+    "max_acc_files": [
+      "../../../../result/tot_info/trace_017/full_path_00.json"
+    ],
+    "uncovered_lines": [
+      41,
+      293,
+      405
+    ],
+    "wrong_lines": [
+      [
+        61,
+        61
+      ],
+      [
+        71,
+        72
+      ],
+      [
+        127,
+        128
+      ]
+    ]
+  },
+  "test_018": {
+    "ground_truth": "../cov_trace//trace_018.json",
+    "ana_result": "../../../../result/tot_info/trace_018",
+    "recall": [
+      0.9278350515463918
+    ],
+    "precision": [
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0
+    ],
+    "accuracy": [
+      0.9798360292488367
+    ],
+    "max_recall_files": [
+      "../../../../result/tot_info/trace_018/full_path_coverage_00.json"
+    ],
+    "max_precision_files": [
+      "../../../../result/tot_info/trace_018/MPP_coverage_00.json",
+      "../../../../result/tot_info/trace_018/MPP_coverage_01.json",
+      "../../../../result/tot_info/trace_018/MPP_coverage_02.json",
+      "../../../../result/tot_info/trace_018/MPP_coverage_03.json",
+      "../../../../result/tot_info/trace_018/MPP_coverage_04.json"
+    ],
+    "max_acc_files": [
+      "../../../../result/tot_info/trace_018/full_path_00.json"
+    ],
+    "uncovered_lines": [
+      41,
+      150,
+      208,
+      244,
+      252,
+      293,
+      405
+    ],
+    "wrong_lines": []
+  },
+  "test_019": {
+    "ground_truth": "../cov_trace//trace_019.json",
+    "ana_result": "../../../../result/tot_info/trace_019",
+    "recall": [
+      0.6521739130434783
+    ],
+    "precision": [
+      0.92
+    ],
+    "accuracy": [
+      0.9769554619986706
+    ],
+    "max_recall_files": [
+      "../../../../result/tot_info/trace_019/full_path_coverage_00.json"
+    ],
+    "max_precision_files": [
+      "../../../../result/tot_info/trace_019/MPP_coverage_00.json"
+    ],
+    "max_acc_files": [
+      "../../../../result/tot_info/trace_019/full_path_00.json"
+    ],
+    "uncovered_lines": [
+      41,
+      150,
+      162,
+      169,
+      170,
+      172,
+      174,
+      175,
+      177,
+      208,
+      212,
+      213,
+      215,
+      218,
+      219,
+      221,
+      222,
+      223,
+      224,
+      225,
+      227,
+      229,
+      231,
+      233,
+      234,
+      236,
+      244,
+      248,
+      252,
+      256,
+      293,
+      405
+    ],
+    "wrong_lines": [
+      [
+        127,
+        128
+      ]
+    ]
+  },
+  "test_020": {
+    "ground_truth": "../cov_trace//trace_020.json",
+    "ana_result": "../../../../result/tot_info/trace_020",
+    "recall": [
+      0.9195402298850575
+    ],
+    "precision": [
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0
+    ],
+    "accuracy": [
+      0.9798360292488367
+    ],
+    "max_recall_files": [
+      "../../../../result/tot_info/trace_020/full_path_coverage_00.json"
+    ],
+    "max_precision_files": [
+      "../../../../result/tot_info/trace_020/MPP_coverage_00.json",
+      "../../../../result/tot_info/trace_020/MPP_coverage_01.json",
+      "../../../../result/tot_info/trace_020/MPP_coverage_02.json",
+      "../../../../result/tot_info/trace_020/MPP_coverage_03.json",
+      "../../../../result/tot_info/trace_020/MPP_coverage_04.json"
+    ],
+    "max_acc_files": [
+      "../../../../result/tot_info/trace_020/full_path_00.json"
+    ],
+    "uncovered_lines": [
+      41,
+      150,
+      184,
+      244,
+      252,
+      293,
+      405
+    ],
+    "wrong_lines": []
+  },
+  "test_021": {
+    "ground_truth": "../cov_trace//trace_021.json",
+    "ana_result": "../../../../result/tot_info/trace_021",
+    "recall": [
+      0.9090909090909091
+    ],
+    "precision": [
+      0.972972972972973
+    ],
+    "accuracy": [
+      0.9842676711721693
+    ],
+    "max_recall_files": [
+      "../../../../result/tot_info/trace_021/full_path_coverage_00.json"
+    ],
+    "max_precision_files": [
+      "../../../../result/tot_info/trace_021/MPP_coverage_00.json"
+    ],
+    "max_acc_files": [
+      "../../../../result/tot_info/trace_021/full_path_00.json"
+    ],
+    "uncovered_lines": [
+      41,
+      63,
+      150,
+      184,
+      208,
+      244,
+      252,
+      293,
+      405
+    ],
+    "wrong_lines": [
+      [
+        127,
+        128
+      ]
+    ]
+  },
+  "test_022": {
+    "ground_truth": "../cov_trace//trace_022.json",
+    "ana_result": "../../../../result/tot_info/trace_022",
+    "recall": [
+      0.9278350515463918
+    ],
+    "precision": [
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0
+    ],
+    "accuracy": [
+      0.9798360292488367
+    ],
+    "max_recall_files": [
+      "../../../../result/tot_info/trace_022/full_path_coverage_00.json"
+    ],
+    "max_precision_files": [
+      "../../../../result/tot_info/trace_022/MPP_coverage_00.json",
+      "../../../../result/tot_info/trace_022/MPP_coverage_01.json",
+      "../../../../result/tot_info/trace_022/MPP_coverage_02.json",
+      "../../../../result/tot_info/trace_022/MPP_coverage_03.json",
+      "../../../../result/tot_info/trace_022/MPP_coverage_04.json"
+    ],
+    "max_acc_files": [
+      "../../../../result/tot_info/trace_022/full_path_00.json"
+    ],
+    "uncovered_lines": [
+      41,
+      150,
+      208,
+      244,
+      252,
+      293,
+      405
+    ],
+    "wrong_lines": []
+  },
+  "test_023": {
+    "ground_truth": "../cov_trace//trace_023.json",
+    "ana_result": "../../../../result/tot_info/trace_023",
+    "recall": [
+      0.9090909090909091
+    ],
+    "precision": [
+      0.972972972972973
+    ],
+    "accuracy": [
+      0.9842676711721693
+    ],
+    "max_recall_files": [
+      "../../../../result/tot_info/trace_023/full_path_coverage_00.json"
+    ],
+    "max_precision_files": [
+      "../../../../result/tot_info/trace_023/MPP_coverage_00.json"
+    ],
+    "max_acc_files": [
+      "../../../../result/tot_info/trace_023/full_path_00.json"
+    ],
+    "uncovered_lines": [
+      41,
+      63,
+      150,
+      184,
+      208,
+      244,
+      252,
+      293,
+      405
+    ],
+    "wrong_lines": [
+      [
+        127,
+        128
+      ]
+    ]
+  },
+  "test_024": {
+    "ground_truth": "../cov_trace//trace_024.json",
+    "ana_result": "../../../../result/tot_info/trace_024",
+    "recall": [
+      0.9195402298850575
+    ],
+    "precision": [
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0
+    ],
+    "accuracy": [
+      0.9798360292488367
+    ],
+    "max_recall_files": [
+      "../../../../result/tot_info/trace_024/full_path_coverage_00.json"
+    ],
+    "max_precision_files": [
+      "../../../../result/tot_info/trace_024/MPP_coverage_00.json",
+      "../../../../result/tot_info/trace_024/MPP_coverage_01.json",
+      "../../../../result/tot_info/trace_024/MPP_coverage_02.json",
+      "../../../../result/tot_info/trace_024/MPP_coverage_03.json",
+      "../../../../result/tot_info/trace_024/MPP_coverage_04.json"
+    ],
+    "max_acc_files": [
+      "../../../../result/tot_info/trace_024/full_path_00.json"
+    ],
+    "uncovered_lines": [
+      41,
+      150,
+      184,
+      244,
+      252,
+      293,
+      405
+    ],
+    "wrong_lines": []
+  },
+  "test_025": {
+    "ground_truth": "../cov_trace//trace_025.json",
+    "ana_result": "../../../../result/tot_info/trace_025",
+    "recall": [
+      0.9207920792079208,
+      0.9207920792079208,
+      0.9207920792079208
+    ],
+    "precision": [
+      0.9733333333333334,
+      0.9733333333333334,
+      0.9733333333333334
+    ],
+    "accuracy": [
+      0.9824950144028363,
+      0.9824950144028363,
+      0.9824950144028363
+    ],
+    "max_recall_files": [
+      "../../../../result/tot_info/trace_025/full_path_coverage_00.json",
+      "../../../../result/tot_info/trace_025/full_path_coverage_01.json",
+      "../../../../result/tot_info/trace_025/full_path_coverage_02.json"
+    ],
+    "max_precision_files": [
+      "../../../../result/tot_info/trace_025/MPP_coverage_00.json",
+      "../../../../result/tot_info/trace_025/MPP_coverage_01.json",
+      "../../../../result/tot_info/trace_025/MPP_coverage_02.json"
+    ],
+    "max_acc_files": [
+      "../../../../result/tot_info/trace_025/full_path_00.json",
+      "../../../../result/tot_info/trace_025/full_path_00.json",
+      "../../../../result/tot_info/trace_025/full_path_00.json"
+    ],
+    "uncovered_lines": [
+      41,
+      150,
+      184,
+      208,
+      244,
+      252,
+      293,
+      405
+    ],
+    "wrong_lines": [
+      [
+        127,
+        128
+      ]
+    ]
+  },
+  "test_026": {
+    "ground_truth": "../cov_trace//trace_026.json",
+    "ana_result": "../../../../result/tot_info/trace_026",
+    "recall": [
+      0.9375
+    ],
+    "precision": [
+      0.8
+    ],
+    "accuracy": [
+      0.9811655218258365
+    ],
+    "max_recall_files": [
+      "../../../../result/tot_info/trace_026/full_path_coverage_00.json"
+    ],
+    "max_precision_files": [
+      "../../../../result/tot_info/trace_026/MPP_coverage_00.json"
+    ],
+    "max_acc_files": [
+      "../../../../result/tot_info/trace_026/full_path_00.json"
+    ],
+    "uncovered_lines": [
+      41
+    ],
+    "wrong_lines": [
+      [
+        61,
+        61
+      ],
+      [
+        71,
+        72
+      ],
+      [
+        127,
+        128
+      ]
+    ]
+  },
+  "test_027": {
+    "ground_truth": "../cov_trace//trace_027.json",
+    "ana_result": "../../../../result/tot_info/trace_027",
+    "recall": [
+      0.9278350515463918
+    ],
+    "precision": [
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0
+    ],
+    "accuracy": [
+      0.9798360292488367
+    ],
+    "max_recall_files": [
+      "../../../../result/tot_info/trace_027/full_path_coverage_00.json"
+    ],
+    "max_precision_files": [
+      "../../../../result/tot_info/trace_027/MPP_coverage_00.json",
+      "../../../../result/tot_info/trace_027/MPP_coverage_01.json",
+      "../../../../result/tot_info/trace_027/MPP_coverage_02.json",
+      "../../../../result/tot_info/trace_027/MPP_coverage_03.json",
+      "../../../../result/tot_info/trace_027/MPP_coverage_04.json"
+    ],
+    "max_acc_files": [
+      "../../../../result/tot_info/trace_027/full_path_00.json"
+    ],
+    "uncovered_lines": [
+      41,
+      150,
+      208,
+      244,
+      252,
+      293,
+      405
+    ],
+    "wrong_lines": []
+  },
+  "test_028": {
+    "ground_truth": "../cov_trace//trace_028.json",
+    "ana_result": "../../../../result/tot_info/trace_028",
+    "recall": [
+      0.9213483146067416
+    ],
+    "precision": [
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0
+    ],
+    "accuracy": [
+      0.9800576113450034
+    ],
+    "max_recall_files": [
+      "../../../../result/tot_info/trace_028/full_path_coverage_00.json"
+    ],
+    "max_precision_files": [
+      "../../../../result/tot_info/trace_028/MPP_coverage_00.json",
+      "../../../../result/tot_info/trace_028/MPP_coverage_01.json",
+      "../../../../result/tot_info/trace_028/MPP_coverage_02.json",
+      "../../../../result/tot_info/trace_028/MPP_coverage_03.json",
+      "../../../../result/tot_info/trace_028/MPP_coverage_04.json"
+    ],
+    "max_acc_files": [
+      "../../../../result/tot_info/trace_028/full_path_00.json"
+    ],
+    "uncovered_lines": [
+      41,
+      150,
+      184,
+      244,
+      252,
+      293,
+      405
+    ],
+    "wrong_lines": []
+  },
+  "test_029": {
+    "ground_truth": "../cov_trace//trace_029.json",
+    "ana_result": "../../../../result/tot_info/trace_029",
+    "recall": [
+      0.9186046511627907
+    ],
+    "precision": [
+      0.9736842105263158,
+      0.9733333333333334
+    ],
+    "accuracy": [
+      0.9798360292488367
+    ],
+    "max_recall_files": [
+      "../../../../result/tot_info/trace_029/full_path_coverage_00.json"
+    ],
+    "max_precision_files": [
+      "../../../../result/tot_info/trace_029/MPP_coverage_00.json"
+    ],
+    "max_acc_files": [
+      "../../../../result/tot_info/trace_029/full_path_00.json"
+    ],
+    "uncovered_lines": [
+      41,
+      150,
+      184,
+      244,
+      252,
+      293,
+      405
+    ],
+    "wrong_lines": [
+      [
+        127,
+        128
+      ]
+    ]
+  },
+  "test_030": {
+    "ground_truth": "../cov_trace//trace_030.json",
+    "ana_result": "../../../../result/tot_info/trace_030",
+    "recall": [
+      0.9215686274509803,
+      0.9215686274509803,
+      0.9215686274509803,
+      0.9215686274509803,
+      0.9215686274509803,
+      0.9215686274509803
+    ],
+    "precision": [
+      0.9736842105263158,
+      0.9736842105263158,
+      0.9733333333333334,
+      0.9736842105263158,
+      0.9736842105263158,
+      0.9733333333333334,
+      0.9736842105263158,
+      0.9736842105263158,
+      0.9733333333333334,
+      0.9736842105263158,
+      0.9736842105263158,
+      0.9733333333333334,
+      0.9736842105263158,
+      0.9736842105263158,
+      0.9733333333333334,
+      0.9736842105263158,
+      0.9736842105263158,
+      0.9733333333333334
+    ],
+    "accuracy": [
+      0.9827165964990029,
+      0.9827165964990029,
+      0.9827165964990029,
+      0.9827165964990029,
+      0.9827165964990029,
+      0.9827165964990029
+    ],
+    "max_recall_files": [
+      "../../../../result/tot_info/trace_030/full_path_coverage_00.json",
+      "../../../../result/tot_info/trace_030/full_path_coverage_01.json",
+      "../../../../result/tot_info/trace_030/full_path_coverage_02.json",
+      "../../../../result/tot_info/trace_030/full_path_coverage_03.json",
+      "../../../../result/tot_info/trace_030/full_path_coverage_04.json",
+      "../../../../result/tot_info/trace_030/full_path_coverage_05.json"
+    ],
+    "max_precision_files": [
+      "../../../../result/tot_info/trace_030/MPP_coverage_00.json",
+      "../../../../result/tot_info/trace_030/MPP_coverage_01.json",
+      "../../../../result/tot_info/trace_030/MPP_coverage_03.json",
+      "../../../../result/tot_info/trace_030/MPP_coverage_04.json",
+      "../../../../result/tot_info/trace_030/MPP_coverage_06.json",
+      "../../../../result/tot_info/trace_030/MPP_coverage_07.json",
+      "../../../../result/tot_info/trace_030/MPP_coverage_09.json",
+      "../../../../result/tot_info/trace_030/MPP_coverage_10.json",
+      "../../../../result/tot_info/trace_030/MPP_coverage_12.json",
+      "../../../../result/tot_info/trace_030/MPP_coverage_13.json",
+      "../../../../result/tot_info/trace_030/MPP_coverage_15.json",
+      "../../../../result/tot_info/trace_030/MPP_coverage_16.json"
+    ],
+    "max_acc_files": [
+      "../../../../result/tot_info/trace_030/full_path_00.json",
+      "../../../../result/tot_info/trace_030/full_path_00.json",
+      "../../../../result/tot_info/trace_030/full_path_00.json",
+      "../../../../result/tot_info/trace_030/full_path_00.json",
+      "../../../../result/tot_info/trace_030/full_path_00.json",
+      "../../../../result/tot_info/trace_030/full_path_00.json"
+    ],
+    "uncovered_lines": [
+      41,
+      150,
+      184,
+      208,
+      244,
+      252,
+      293,
+      405
+    ],
+    "wrong_lines": [
+      [
+        127,
+        128
+      ]
+    ]
+  },
+  "test_031": {
+    "ground_truth": "../cov_trace//trace_031.json",
+    "ana_result": "../../../../result/tot_info/trace_031",
+    "recall": [
+      0.9245283018867925,
+      0.9245283018867925,
+      0.9245283018867925,
+      0.9245283018867925
+    ],
+    "precision": [
+      0.9736842105263158,
+      0.9736842105263158,
+      0.9736842105263158,
+      0.9736842105263158,
+      0.9736842105263158,
+      0.9736842105263158,
+      0.9736842105263158,
+      0.9736842105263158,
+      0.9736842105263158,
+      0.9736842105263158,
+      0.9736842105263158,
+      0.9736842105263158,
+      0.9736842105263158,
+      0.9736842105263158,
+      0.9736842105263158,
+      0.9736842105263158,
+      0.9736842105263158,
+      0.9736842105263158,
+      0.9736842105263158,
+      0.9736842105263158,
+      0.9736842105263158,
+      0.9736842105263158,
+      0.9736842105263158,
+      0.9736842105263158,
+      0.9736842105263158,
+      0.9736842105263158,
+      0.9736842105263158,
+      0.9736842105263158,
+      0.9736842105263158,
+      0.9736842105263158,
+      0.9736842105263158,
+      0.9736842105263158,
+      0.9736842105263158,
+      0.9736842105263158,
+      0.9736842105263158,
+      0.9736842105263158,
+      0.9736842105263158,
+      0.9736842105263158,
+      0.9736842105263158,
+      0.9736842105263158
+    ],
+    "accuracy": [
+      0.9829381785951695,
+      0.9829381785951695,
+      0.9829381785951695,
+      0.9829381785951695
+    ],
+    "max_recall_files": [
+      "../../../../result/tot_info/trace_031/full_path_coverage_00.json",
+      "../../../../result/tot_info/trace_031/full_path_coverage_01.json",
+      "../../../../result/tot_info/trace_031/full_path_coverage_02.json",
+      "../../../../result/tot_info/trace_031/full_path_coverage_03.json"
+    ],
+    "max_precision_files": [
+      "../../../../result/tot_info/trace_031/MPP_coverage_00.json",
+      "../../../../result/tot_info/trace_031/MPP_coverage_01.json",
+      "../../../../result/tot_info/trace_031/MPP_coverage_02.json",
+      "../../../../result/tot_info/trace_031/MPP_coverage_03.json",
+      "../../../../result/tot_info/trace_031/MPP_coverage_04.json",
+      "../../../../result/tot_info/trace_031/MPP_coverage_05.json",
+      "../../../../result/tot_info/trace_031/MPP_coverage_06.json",
+      "../../../../result/tot_info/trace_031/MPP_coverage_07.json",
+      "../../../../result/tot_info/trace_031/MPP_coverage_08.json",
+      "../../../../result/tot_info/trace_031/MPP_coverage_09.json",
+      "../../../../result/tot_info/trace_031/MPP_coverage_10.json",
+      "../../../../result/tot_info/trace_031/MPP_coverage_11.json",
+      "../../../../result/tot_info/trace_031/MPP_coverage_12.json",
+      "../../../../result/tot_info/trace_031/MPP_coverage_13.json",
+      "../../../../result/tot_info/trace_031/MPP_coverage_14.json",
+      "../../../../result/tot_info/trace_031/MPP_coverage_15.json",
+      "../../../../result/tot_info/trace_031/MPP_coverage_16.json",
+      "../../../../result/tot_info/trace_031/MPP_coverage_17.json",
+      "../../../../result/tot_info/trace_031/MPP_coverage_18.json",
+      "../../../../result/tot_info/trace_031/MPP_coverage_19.json",
+      "../../../../result/tot_info/trace_031/MPP_coverage_20.json",
+      "../../../../result/tot_info/trace_031/MPP_coverage_21.json",
+      "../../../../result/tot_info/trace_031/MPP_coverage_22.json",
+      "../../../../result/tot_info/trace_031/MPP_coverage_23.json",
+      "../../../../result/tot_info/trace_031/MPP_coverage_24.json",
+      "../../../../result/tot_info/trace_031/MPP_coverage_25.json",
+      "../../../../result/tot_info/trace_031/MPP_coverage_26.json",
+      "../../../../result/tot_info/trace_031/MPP_coverage_27.json",
+      "../../../../result/tot_info/trace_031/MPP_coverage_28.json",
+      "../../../../result/tot_info/trace_031/MPP_coverage_29.json",
+      "../../../../result/tot_info/trace_031/MPP_coverage_30.json",
+      "../../../../result/tot_info/trace_031/MPP_coverage_31.json",
+      "../../../../result/tot_info/trace_031/MPP_coverage_32.json",
+      "../../../../result/tot_info/trace_031/MPP_coverage_33.json",
+      "../../../../result/tot_info/trace_031/MPP_coverage_34.json",
+      "../../../../result/tot_info/trace_031/MPP_coverage_35.json",
+      "../../../../result/tot_info/trace_031/MPP_coverage_36.json",
+      "../../../../result/tot_info/trace_031/MPP_coverage_37.json",
+      "../../../../result/tot_info/trace_031/MPP_coverage_38.json",
+      "../../../../result/tot_info/trace_031/MPP_coverage_39.json"
+    ],
+    "max_acc_files": [
+      "../../../../result/tot_info/trace_031/full_path_00.json",
+      "../../../../result/tot_info/trace_031/full_path_00.json",
+      "../../../../result/tot_info/trace_031/full_path_00.json",
+      "../../../../result/tot_info/trace_031/full_path_00.json"
+    ],
+    "uncovered_lines": [
+      41,
+      150,
+      184,
+      208,
+      244,
+      252,
+      293,
+      405
+    ],
+    "wrong_lines": [
+      [
+        127,
+        128
+      ]
+    ]
+  },
+  "test_032": {
+    "ground_truth": "../cov_trace//trace_032.json",
+    "ana_result": "../../../../result/tot_info/trace_032",
+    "recall": [
+      0.9278350515463918
+    ],
+    "precision": [
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0
+    ],
+    "accuracy": [
+      0.9798360292488367
+    ],
+    "max_recall_files": [
+      "../../../../result/tot_info/trace_032/full_path_coverage_00.json"
+    ],
+    "max_precision_files": [
+      "../../../../result/tot_info/trace_032/MPP_coverage_00.json",
+      "../../../../result/tot_info/trace_032/MPP_coverage_01.json",
+      "../../../../result/tot_info/trace_032/MPP_coverage_02.json",
+      "../../../../result/tot_info/trace_032/MPP_coverage_03.json",
+      "../../../../result/tot_info/trace_032/MPP_coverage_04.json"
+    ],
+    "max_acc_files": [
+      "../../../../result/tot_info/trace_032/full_path_00.json"
+    ],
+    "uncovered_lines": [
+      41,
+      150,
+      208,
+      244,
+      252,
+      293,
+      405
+    ],
+    "wrong_lines": []
+  },
+  "test_033": {
+    "ground_truth": "../cov_trace//trace_033.json",
+    "ana_result": "../../../../result/tot_info/trace_033",
+    "recall": [
+      0.9270833333333334
+    ],
+    "precision": [
+      0.9736842105263158,
+      0.9733333333333334
+    ],
+    "accuracy": [
+      0.9798360292488367
+    ],
+    "max_recall_files": [
+      "../../../../result/tot_info/trace_033/full_path_coverage_00.json"
+    ],
+    "max_precision_files": [
+      "../../../../result/tot_info/trace_033/MPP_coverage_00.json"
+    ],
+    "max_acc_files": [
+      "../../../../result/tot_info/trace_033/full_path_00.json"
+    ],
+    "uncovered_lines": [
+      41,
+      150,
+      208,
+      244,
+      252,
+      293,
+      405
+    ],
+    "wrong_lines": [
+      [
+        127,
+        128
+      ]
+    ]
+  },
+  "test_034": {
+    "ground_truth": "../cov_trace//trace_034.json",
+    "ana_result": "../../../../result/tot_info/trace_034",
+    "recall": [
+      0.7272727272727273
+    ],
+    "precision": [
+      0.8461538461538461,
+      0.84
+    ],
+    "accuracy": [
+      0.9773986261910038
+    ],
+    "max_recall_files": [
+      "../../../../result/tot_info/trace_034/full_path_coverage_00.json"
+    ],
+    "max_precision_files": [
+      "../../../../result/tot_info/trace_034/MPP_coverage_00.json"
+    ],
+    "max_acc_files": [
+      "../../../../result/tot_info/trace_034/full_path_00.json"
+    ],
+    "uncovered_lines": [
+      41,
+      150,
+      162,
+      164,
+      166,
+      169,
+      170,
+      172,
+      174,
+      175,
+      177,
+      184,
+      191,
+      194,
+      196,
+      198,
+      200,
+      201,
+      244,
+      248,
+      252,
+      256,
+      293,
+      405
+    ],
+    "wrong_lines": [
+      [
+        71,
+        72
+      ],
+      [
+        127,
+        128
+      ]
+    ]
+  },
+  "test_035": {
+    "ground_truth": "../cov_trace//trace_035.json",
+    "ana_result": "../../../../result/tot_info/trace_035",
+    "recall": [
+      0.9270833333333334
+    ],
+    "precision": [
+      0.9736842105263158,
+      0.9733333333333334
+    ],
+    "accuracy": [
+      0.9798360292488367
+    ],
+    "max_recall_files": [
+      "../../../../result/tot_info/trace_035/full_path_coverage_00.json"
+    ],
+    "max_precision_files": [
+      "../../../../result/tot_info/trace_035/MPP_coverage_00.json"
+    ],
+    "max_acc_files": [
+      "../../../../result/tot_info/trace_035/full_path_00.json"
+    ],
+    "uncovered_lines": [
+      41,
+      150,
+      208,
+      244,
+      252,
+      293,
+      405
+    ],
+    "wrong_lines": [
+      [
+        127,
+        128
+      ]
+    ]
+  },
+  "test_036": {
+    "ground_truth": "../cov_trace//trace_036.json",
+    "ana_result": "../../../../result/tot_info/trace_036",
+    "recall": [
+      0.9213483146067416
+    ],
+    "precision": [
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0
+    ],
+    "accuracy": [
+      0.9800576113450034
+    ],
+    "max_recall_files": [
+      "../../../../result/tot_info/trace_036/full_path_coverage_00.json"
+    ],
+    "max_precision_files": [
+      "../../../../result/tot_info/trace_036/MPP_coverage_00.json",
+      "../../../../result/tot_info/trace_036/MPP_coverage_01.json",
+      "../../../../result/tot_info/trace_036/MPP_coverage_02.json",
+      "../../../../result/tot_info/trace_036/MPP_coverage_03.json",
+      "../../../../result/tot_info/trace_036/MPP_coverage_04.json"
+    ],
+    "max_acc_files": [
+      "../../../../result/tot_info/trace_036/full_path_00.json"
+    ],
+    "uncovered_lines": [
+      41,
+      150,
+      184,
+      244,
+      252,
+      293,
+      405
+    ],
+    "wrong_lines": []
+  },
+  "test_037": {
+    "ground_truth": "../cov_trace//trace_037.json",
+    "ana_result": "../../../../result/tot_info/trace_037",
+    "recall": [
+      0.9333333333333333
+    ],
+    "precision": [
+      0.8461538461538461,
+      0.8461538461538461,
+      0.84
+    ],
+    "accuracy": [
+      0.9844892532683359
+    ],
+    "max_recall_files": [
+      "../../../../result/tot_info/trace_037/full_path_coverage_00.json"
+    ],
+    "max_precision_files": [
+      "../../../../result/tot_info/trace_037/MPP_coverage_00.json",
+      "../../../../result/tot_info/trace_037/MPP_coverage_01.json"
+    ],
+    "max_acc_files": [
+      "../../../../result/tot_info/trace_037/full_path_00.json"
+    ],
+    "uncovered_lines": [
+      41,
+      293,
+      405
+    ],
+    "wrong_lines": [
+      [
+        71,
+        72
+      ],
+      [
+        127,
+        128
+      ]
+    ]
+  },
+  "test_038": {
+    "ground_truth": "../cov_trace//trace_038.json",
+    "ana_result": "../../../../result/tot_info/trace_038",
+    "recall": [
+      0.9230769230769231
+    ],
+    "precision": [
+      0.8
+    ],
+    "accuracy": [
+      0.9829381785951695
+    ],
+    "max_recall_files": [
+      "../../../../result/tot_info/trace_038/full_path_coverage_00.json"
+    ],
+    "max_precision_files": [
+      "../../../../result/tot_info/trace_038/MPP_coverage_00.json"
+    ],
+    "max_acc_files": [
+      "../../../../result/tot_info/trace_038/full_path_00.json"
+    ],
+    "uncovered_lines": [
+      41
+    ],
+    "wrong_lines": [
+      [
+        61,
+        61
+      ],
+      [
+        71,
+        72
+      ],
+      [
+        127,
+        128
+      ]
+    ]
+  },
+  "test_039": {
+    "ground_truth": "../cov_trace//trace_039.json",
+    "ana_result": "../../../../result/tot_info/trace_039",
+    "recall": [
+      0.9090909090909091
+    ],
+    "precision": [
+      0.972972972972973
+    ],
+    "accuracy": [
+      0.9842676711721693
+    ],
+    "max_recall_files": [
+      "../../../../result/tot_info/trace_039/full_path_coverage_00.json"
+    ],
+    "max_precision_files": [
+      "../../../../result/tot_info/trace_039/MPP_coverage_00.json"
+    ],
+    "max_acc_files": [
+      "../../../../result/tot_info/trace_039/full_path_00.json"
+    ],
+    "uncovered_lines": [
+      41,
+      63,
+      150,
+      184,
+      208,
+      244,
+      252,
+      293,
+      405
+    ],
+    "wrong_lines": [
+      [
+        127,
+        128
+      ]
+    ]
+  },
+  "test_040": {
+    "ground_truth": "../cov_trace//trace_040.json",
+    "ana_result": "../../../../result/tot_info/trace_040",
+    "recall": [
+      0.9230769230769231
+    ],
+    "precision": [
+      0.8
+    ],
+    "accuracy": [
+      0.9829381785951695
+    ],
+    "max_recall_files": [
+      "../../../../result/tot_info/trace_040/full_path_coverage_00.json"
+    ],
+    "max_precision_files": [
+      "../../../../result/tot_info/trace_040/MPP_coverage_00.json"
+    ],
+    "max_acc_files": [
+      "../../../../result/tot_info/trace_040/full_path_00.json"
+    ],
+    "uncovered_lines": [
+      41
+    ],
+    "wrong_lines": [
+      [
+        61,
+        61
+      ],
+      [
+        71,
+        72
+      ],
+      [
+        127,
+        128
+      ]
+    ]
+  },
+  "test_041": {
+    "ground_truth": "../cov_trace//trace_041.json",
+    "ana_result": "../../../../result/tot_info/trace_041",
+    "recall": [
+      0.92
+    ],
+    "precision": [
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0
+    ],
+    "accuracy": [
+      0.9776202082871704
+    ],
+    "max_recall_files": [
+      "../../../../result/tot_info/trace_041/full_path_coverage_00.json"
+    ],
+    "max_precision_files": [
+      "../../../../result/tot_info/trace_041/MPP_coverage_00.json",
+      "../../../../result/tot_info/trace_041/MPP_coverage_01.json",
+      "../../../../result/tot_info/trace_041/MPP_coverage_02.json",
+      "../../../../result/tot_info/trace_041/MPP_coverage_03.json",
+      "../../../../result/tot_info/trace_041/MPP_coverage_04.json"
+    ],
+    "max_acc_files": [
+      "../../../../result/tot_info/trace_041/full_path_00.json"
+    ],
+    "uncovered_lines": [
+      41,
+      184,
+      244,
+      252,
+      293,
+      405
+    ],
+    "wrong_lines": []
+  },
+  "test_042": {
+    "ground_truth": "../cov_trace//trace_042.json",
+    "ana_result": "../../../../result/tot_info/trace_042",
+    "recall": [
+      0.922077922077922
+    ],
+    "precision": [
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0
+    ],
+    "accuracy": [
+      0.9778417903833371
+    ],
+    "max_recall_files": [
+      "../../../../result/tot_info/trace_042/full_path_coverage_00.json"
+    ],
+    "max_precision_files": [
+      "../../../../result/tot_info/trace_042/MPP_coverage_00.json",
+      "../../../../result/tot_info/trace_042/MPP_coverage_01.json",
+      "../../../../result/tot_info/trace_042/MPP_coverage_02.json",
+      "../../../../result/tot_info/trace_042/MPP_coverage_03.json",
+      "../../../../result/tot_info/trace_042/MPP_coverage_04.json"
+    ],
+    "max_acc_files": [
+      "../../../../result/tot_info/trace_042/full_path_00.json"
+    ],
+    "uncovered_lines": [
+      41,
+      184,
+      244,
+      252,
+      293,
+      405
+    ],
+    "wrong_lines": []
+  },
+  "test_043": {
+    "ground_truth": "../cov_trace//trace_043.json",
+    "ana_result": "../../../../result/tot_info/trace_043",
+    "recall": [
+      0.9333333333333333
+    ],
+    "precision": [
+      0.8461538461538461,
+      0.8461538461538461,
+      0.84
+    ],
+    "accuracy": [
+      0.9844892532683359
+    ],
+    "max_recall_files": [
+      "../../../../result/tot_info/trace_043/full_path_coverage_00.json"
+    ],
+    "max_precision_files": [
+      "../../../../result/tot_info/trace_043/MPP_coverage_00.json",
+      "../../../../result/tot_info/trace_043/MPP_coverage_01.json"
+    ],
+    "max_acc_files": [
+      "../../../../result/tot_info/trace_043/full_path_00.json"
+    ],
+    "uncovered_lines": [
+      41,
+      293,
+      405
+    ],
+    "wrong_lines": [
+      [
+        71,
+        72
+      ],
+      [
+        127,
+        128
+      ]
+    ]
+  },
+  "test_044": {
+    "ground_truth": "../cov_trace//trace_044.json",
+    "ana_result": "../../../../result/tot_info/trace_044",
+    "recall": [
+      0.9270833333333334
+    ],
+    "precision": [
+      0.9736842105263158,
+      0.9733333333333334
+    ],
+    "accuracy": [
+      0.9798360292488367
+    ],
+    "max_recall_files": [
+      "../../../../result/tot_info/trace_044/full_path_coverage_00.json"
+    ],
+    "max_precision_files": [
+      "../../../../result/tot_info/trace_044/MPP_coverage_00.json"
+    ],
+    "max_acc_files": [
+      "../../../../result/tot_info/trace_044/full_path_00.json"
+    ],
+    "uncovered_lines": [
+      41,
+      150,
+      208,
+      244,
+      252,
+      293,
+      405
+    ],
+    "wrong_lines": [
+      [
+        127,
+        128
+      ]
+    ]
+  },
+  "test_045": {
+    "ground_truth": "../cov_trace//trace_045.json",
+    "ana_result": "../../../../result/tot_info/trace_045",
+    "recall": [
+      0.9375
+    ],
+    "precision": [
+      0.8461538461538461,
+      0.8461538461538461,
+      0.8461538461538461,
+      0.84
+    ],
+    "accuracy": [
+      0.9842676711721693
+    ],
+    "max_recall_files": [
+      "../../../../result/tot_info/trace_045/full_path_coverage_00.json"
+    ],
+    "max_precision_files": [
+      "../../../../result/tot_info/trace_045/MPP_coverage_00.json",
+      "../../../../result/tot_info/trace_045/MPP_coverage_01.json",
+      "../../../../result/tot_info/trace_045/MPP_coverage_02.json"
+    ],
+    "max_acc_files": [
+      "../../../../result/tot_info/trace_045/full_path_00.json"
+    ],
+    "uncovered_lines": [
+      41,
+      293,
+      405
+    ],
+    "wrong_lines": [
+      [
+        71,
+        72
+      ],
+      [
+        127,
+        128
+      ]
+    ]
+  },
+  "test_046": {
+    "ground_truth": "../cov_trace//trace_046.json",
+    "ana_result": "../../../../result/tot_info/trace_046",
+    "recall": [
+      0.9215686274509803,
+      0.9215686274509803,
+      0.9215686274509803
+    ],
+    "precision": [
+      0.9736842105263158,
+      0.9733333333333334,
+      0.9736842105263158,
+      0.9733333333333334,
+      0.9736842105263158,
+      0.9733333333333334
+    ],
+    "accuracy": [
+      0.9827165964990029,
+      0.9827165964990029,
+      0.9827165964990029
+    ],
+    "max_recall_files": [
+      "../../../../result/tot_info/trace_046/full_path_coverage_00.json",
+      "../../../../result/tot_info/trace_046/full_path_coverage_01.json",
+      "../../../../result/tot_info/trace_046/full_path_coverage_02.json"
+    ],
+    "max_precision_files": [
+      "../../../../result/tot_info/trace_046/MPP_coverage_00.json",
+      "../../../../result/tot_info/trace_046/MPP_coverage_02.json",
+      "../../../../result/tot_info/trace_046/MPP_coverage_04.json"
+    ],
+    "max_acc_files": [
+      "../../../../result/tot_info/trace_046/full_path_00.json",
+      "../../../../result/tot_info/trace_046/full_path_00.json",
+      "../../../../result/tot_info/trace_046/full_path_00.json"
+    ],
+    "uncovered_lines": [
+      41,
+      150,
+      184,
+      208,
+      244,
+      252,
+      293,
+      405
+    ],
+    "wrong_lines": [
+      [
+        127,
+        128
+      ]
+    ]
+  },
+  "test_047": {
+    "ground_truth": "../cov_trace//trace_047.json",
+    "ana_result": "../../../../result/tot_info/trace_047",
+    "recall": [
+      0.9090909090909091
+    ],
+    "precision": [
+      0.972972972972973
+    ],
+    "accuracy": [
+      0.9842676711721693
+    ],
+    "max_recall_files": [
+      "../../../../result/tot_info/trace_047/full_path_coverage_00.json"
+    ],
+    "max_precision_files": [
+      "../../../../result/tot_info/trace_047/MPP_coverage_00.json"
+    ],
+    "max_acc_files": [
+      "../../../../result/tot_info/trace_047/full_path_00.json"
+    ],
+    "uncovered_lines": [
+      41,
+      63,
+      150,
+      184,
+      208,
+      244,
+      252,
+      293,
+      405
+    ],
+    "wrong_lines": [
+      [
+        127,
+        128
+      ]
+    ]
+  },
+  "test_048": {
+    "ground_truth": "../cov_trace//trace_048.json",
+    "ana_result": "../../../../result/tot_info/trace_048",
+    "recall": [
+      0.9347826086956522
+    ],
+    "precision": [
+      0.8461538461538461,
+      0.84
+    ],
+    "accuracy": [
+      0.9842676711721693
+    ],
+    "max_recall_files": [
+      "../../../../result/tot_info/trace_048/full_path_coverage_00.json"
+    ],
+    "max_precision_files": [
+      "../../../../result/tot_info/trace_048/MPP_coverage_00.json"
+    ],
+    "max_acc_files": [
+      "../../../../result/tot_info/trace_048/full_path_00.json"
+    ],
+    "uncovered_lines": [
+      41,
+      293,
+      405
+    ],
+    "wrong_lines": [
+      [
+        71,
+        72
+      ],
+      [
+        127,
+        128
+      ]
+    ]
+  },
+  "test_049": {
+    "ground_truth": "../cov_trace//trace_049.json",
+    "ana_result": "../../../../result/tot_info/trace_049",
+    "recall": [
+      0.9411764705882353
+    ],
+    "precision": [
+      0.84
+    ],
+    "accuracy": [
+      0.9811655218258365
+    ],
+    "max_recall_files": [
+      "../../../../result/tot_info/trace_049/full_path_coverage_00.json"
+    ],
+    "max_precision_files": [
+      "../../../../result/tot_info/trace_049/MPP_coverage_00.json"
+    ],
+    "max_acc_files": [
+      "../../../../result/tot_info/trace_049/full_path_00.json"
+    ],
+    "uncovered_lines": [
+      41
+    ],
+    "wrong_lines": [
+      [
+        71,
+        72
+      ],
+      [
+        127,
+        128
+      ]
+    ]
+  },
+  "test_050": {
+    "ground_truth": "../cov_trace//trace_050.json",
+    "ana_result": "../../../../result/tot_info/trace_050",
+    "recall": [
+      0.9238095238095239,
+      0.9238095238095239
+    ],
+    "precision": [
+      0.9736842105263158,
+      0.9736842105263158,
+      0.9736842105263158,
+      0.9733333333333334,
+      0.9736842105263158,
+      0.9736842105263158,
+      0.9736842105263158,
+      0.9733333333333334
+    ],
+    "accuracy": [
+      0.9827165964990029,
+      0.9827165964990029
+    ],
+    "max_recall_files": [
+      "../../../../result/tot_info/trace_050/full_path_coverage_00.json",
+      "../../../../result/tot_info/trace_050/full_path_coverage_01.json"
+    ],
+    "max_precision_files": [
+      "../../../../result/tot_info/trace_050/MPP_coverage_00.json",
+      "../../../../result/tot_info/trace_050/MPP_coverage_01.json",
+      "../../../../result/tot_info/trace_050/MPP_coverage_02.json",
+      "../../../../result/tot_info/trace_050/MPP_coverage_04.json",
+      "../../../../result/tot_info/trace_050/MPP_coverage_05.json",
+      "../../../../result/tot_info/trace_050/MPP_coverage_06.json"
+    ],
+    "max_acc_files": [
+      "../../../../result/tot_info/trace_050/full_path_00.json",
+      "../../../../result/tot_info/trace_050/full_path_00.json"
+    ],
+    "uncovered_lines": [
+      41,
+      150,
+      184,
+      208,
+      244,
+      252,
+      293,
+      405
+    ],
+    "wrong_lines": [
+      [
+        127,
+        128
+      ]
+    ]
+  },
+  "test_051": {
+    "ground_truth": "../cov_trace//trace_051.json",
+    "ana_result": "../../../../result/tot_info/trace_051",
+    "recall": [
+      0.9207920792079208,
+      0.9207920792079208,
+      0.9207920792079208
+    ],
+    "precision": [
+      0.9733333333333334,
+      0.9733333333333334,
+      0.9733333333333334
+    ],
+    "accuracy": [
+      0.9824950144028363,
+      0.9824950144028363,
+      0.9824950144028363
+    ],
+    "max_recall_files": [
+      "../../../../result/tot_info/trace_051/full_path_coverage_00.json",
+      "../../../../result/tot_info/trace_051/full_path_coverage_01.json",
+      "../../../../result/tot_info/trace_051/full_path_coverage_02.json"
+    ],
+    "max_precision_files": [
+      "../../../../result/tot_info/trace_051/MPP_coverage_00.json",
+      "../../../../result/tot_info/trace_051/MPP_coverage_01.json",
+      "../../../../result/tot_info/trace_051/MPP_coverage_02.json"
+    ],
+    "max_acc_files": [
+      "../../../../result/tot_info/trace_051/full_path_00.json",
+      "../../../../result/tot_info/trace_051/full_path_00.json",
+      "../../../../result/tot_info/trace_051/full_path_00.json"
+    ],
+    "uncovered_lines": [
+      41,
+      150,
+      184,
+      208,
+      244,
+      252,
+      293,
+      405
+    ],
+    "wrong_lines": [
+      [
+        127,
+        128
+      ]
+    ]
+  },
+  "test_052": {
+    "ground_truth": "../cov_trace//trace_052.json",
+    "ana_result": "../../../../result/tot_info/trace_052",
+    "recall": [
+      0.9278350515463918
+    ],
+    "precision": [
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0
+    ],
+    "accuracy": [
+      0.9798360292488367
+    ],
+    "max_recall_files": [
+      "../../../../result/tot_info/trace_052/full_path_coverage_00.json"
+    ],
+    "max_precision_files": [
+      "../../../../result/tot_info/trace_052/MPP_coverage_00.json",
+      "../../../../result/tot_info/trace_052/MPP_coverage_01.json",
+      "../../../../result/tot_info/trace_052/MPP_coverage_02.json",
+      "../../../../result/tot_info/trace_052/MPP_coverage_03.json",
+      "../../../../result/tot_info/trace_052/MPP_coverage_04.json"
+    ],
+    "max_acc_files": [
+      "../../../../result/tot_info/trace_052/full_path_00.json"
+    ],
+    "uncovered_lines": [
+      41,
+      150,
+      208,
+      244,
+      252,
+      293,
+      405
+    ],
+    "wrong_lines": []
+  },
+  "test_053": {
+    "ground_truth": "../cov_trace//trace_053.json",
+    "ana_result": "../../../../result/tot_info/trace_053",
+    "recall": [
+      0.9361702127659575
+    ],
+    "precision": [
+      0.8461538461538461,
+      0.8461538461538461,
+      0.8461538461538461,
+      0.8461538461538461,
+      0.84
+    ],
+    "accuracy": [
+      0.9849324174606692
+    ],
+    "max_recall_files": [
+      "../../../../result/tot_info/trace_053/full_path_coverage_00.json"
+    ],
+    "max_precision_files": [
+      "../../../../result/tot_info/trace_053/MPP_coverage_00.json",
+      "../../../../result/tot_info/trace_053/MPP_coverage_01.json",
+      "../../../../result/tot_info/trace_053/MPP_coverage_02.json",
+      "../../../../result/tot_info/trace_053/MPP_coverage_03.json"
+    ],
+    "max_acc_files": [
+      "../../../../result/tot_info/trace_053/full_path_00.json"
+    ],
+    "uncovered_lines": [
+      41,
+      293,
+      405
+    ],
+    "wrong_lines": [
+      [
+        71,
+        72
+      ],
+      [
+        127,
+        128
+      ]
+    ]
+  },
+  "test_054": {
+    "ground_truth": "../cov_trace//trace_054.json",
+    "ana_result": "../../../../result/tot_info/trace_054",
+    "recall": [
+      0.9090909090909091
+    ],
+    "precision": [
+      0.972972972972973
+    ],
+    "accuracy": [
+      0.9842676711721693
+    ],
+    "max_recall_files": [
+      "../../../../result/tot_info/trace_054/full_path_coverage_00.json"
+    ],
+    "max_precision_files": [
+      "../../../../result/tot_info/trace_054/MPP_coverage_00.json"
+    ],
+    "max_acc_files": [
+      "../../../../result/tot_info/trace_054/full_path_00.json"
+    ],
+    "uncovered_lines": [
+      41,
+      63,
+      150,
+      184,
+      208,
+      244,
+      252,
+      293,
+      405
+    ],
+    "wrong_lines": [
+      [
+        127,
+        128
+      ]
+    ]
+  },
+  "test_055": {
+    "ground_truth": "../cov_trace//trace_055.json",
+    "ana_result": "../../../../result/tot_info/trace_055",
+    "recall": [
+      0.9186046511627907,
+      0.9186046511627907,
+      0.9186046511627907
+    ],
+    "precision": [
+      0.9733333333333334,
+      0.9733333333333334,
+      0.9733333333333334
+    ],
+    "accuracy": [
+      0.98027919344117,
+      0.98027919344117,
+      0.98027919344117
+    ],
+    "max_recall_files": [
+      "../../../../result/tot_info/trace_055/full_path_coverage_00.json",
+      "../../../../result/tot_info/trace_055/full_path_coverage_01.json",
+      "../../../../result/tot_info/trace_055/full_path_coverage_02.json"
+    ],
+    "max_precision_files": [
+      "../../../../result/tot_info/trace_055/MPP_coverage_00.json",
+      "../../../../result/tot_info/trace_055/MPP_coverage_01.json",
+      "../../../../result/tot_info/trace_055/MPP_coverage_02.json"
+    ],
+    "max_acc_files": [
+      "../../../../result/tot_info/trace_055/full_path_00.json",
+      "../../../../result/tot_info/trace_055/full_path_00.json",
+      "../../../../result/tot_info/trace_055/full_path_00.json"
+    ],
+    "uncovered_lines": [
+      41,
+      150,
+      184,
+      244,
+      252,
+      293,
+      405
+    ],
+    "wrong_lines": [
+      [
+        127,
+        128
+      ]
+    ]
+  },
+  "test_056": {
+    "ground_truth": "../cov_trace//trace_056.json",
+    "ana_result": "../../../../result/tot_info/trace_056",
+    "recall": [
+      0.9230769230769231,
+      0.9230769230769231,
+      0.9230769230769231,
+      0.9230769230769231,
+      0.9230769230769231,
+      0.9230769230769231,
+      0.9230769230769231,
+      0.9230769230769231,
+      0.9230769230769231,
+      0.9230769230769231,
+      0.9230769230769231,
+      0.9230769230769231,
+      0.9230769230769231,
+      0.9230769230769231,
+      0.9230769230769231,
+      0.9230769230769231,
+      0.9230769230769231,
+      0.9230769230769231,
+      0.9230769230769231,
+      0.9230769230769231,
+      0.9230769230769231,
+      0.9230769230769231,
+      0.9230769230769231,
+      0.9230769230769231,
+      0.9230769230769231,
+      0.9230769230769231
+    ],
+    "precision": [
+      0.9736842105263158,
+      0.9736842105263158,
+      0.9736842105263158,
+      0.9736842105263158,
+      0.9736842105263158,
+      0.9736842105263158,
+      0.9736842105263158,
+      0.9736842105263158,
+      0.9736842105263158,
+      0.9736842105263158,
+      0.9736842105263158,
+      0.9736842105263158,
+      0.9736842105263158,
+      0.9736842105263158,
+      0.9736842105263158,
+      0.9736842105263158,
+      0.9736842105263158,
+      0.9736842105263158,
+      0.9736842105263158,
+      0.9736842105263158,
+      0.9736842105263158,
+      0.9736842105263158,
+      0.9736842105263158,
+      0.9736842105263158,
+      0.9736842105263158,
+      0.9736842105263158,
+      0.9736842105263158,
+      0.9736842105263158,
+      0.9736842105263158,
+      0.9736842105263158,
+      0.9736842105263158,
+      0.9736842105263158,
+      0.9736842105263158,
+      0.9736842105263158,
+      0.9736842105263158,
+      0.9736842105263158,
+      0.9736842105263158,
+      0.9736842105263158,
+      0.9736842105263158,
+      0.9736842105263158,
+      0.9736842105263158,
+      0.9736842105263158,
+      0.9736842105263158,
+      0.9736842105263158,
+      0.9736842105263158,
+      0.9736842105263158,
+      0.9736842105263158,
+      0.9736842105263158,
+      0.9736842105263158,
+      0.9736842105263158,
+      0.9736842105263158,
+      0.9736842105263158,
+      0.9736842105263158,
+      0.9736842105263158,
+      0.9736842105263158,
+      0.9736842105263158,
+      0.9736842105263158,
+      0.9736842105263158,
+      0.9736842105263158,
+      0.9736842105263158,
+      0.9736842105263158,
+      0.9736842105263158,
+      0.9736842105263158,
+      0.9736842105263158,
+      0.9736842105263158,
+      0.9736842105263158,
+      0.9736842105263158,
+      0.9736842105263158,
+      0.9736842105263158,
+      0.9736842105263158,
+      0.9736842105263158,
+      0.9736842105263158,
+      0.9736842105263158,
+      0.9736842105263158,
+      0.9736842105263158,
+      0.9736842105263158,
+      0.9736842105263158,
+      0.9736842105263158,
+      0.9736842105263158,
+      0.9736842105263158,
+      0.9736842105263158,
+      0.9736842105263158,
+      0.9736842105263158,
+      0.9736842105263158,
+      0.9736842105263158,
+      0.9736842105263158,
+      0.9736842105263158,
+      0.9736842105263158,
+      0.9736842105263158,
+      0.9736842105263158,
+      0.9736842105263158,
+      0.9736842105263158,
+      0.9736842105263158,
+      0.9736842105263158,
+      0.9736842105263158,
+      0.9736842105263158,
+      0.9736842105263158,
+      0.9736842105263158,
+      0.9736842105263158,
+      0.9736842105263158,
+      0.9736842105263158,
+      0.9736842105263158,
+      0.9736842105263158,
+      0.9736842105263158,
+      0.9736842105263158,
+      0.9736842105263158,
+      0.9736842105263158,
+      0.9736842105263158,
+      0.9736842105263158,
+      0.9736842105263158,
+      0.9736842105263158,
+      0.9736842105263158,
+      0.9736842105263158,
+      0.9736842105263158,
+      0.9736842105263158,
+      0.9736842105263158,
+      0.9736842105263158,
+      0.9736842105263158,
+      0.9736842105263158,
+      0.9736842105263158,
+      0.9736842105263158,
+      0.9736842105263158,
+      0.9736842105263158,
+      0.9736842105263158,
+      0.9736842105263158,
+      0.9736842105263158,
+      0.9736842105263158,
+      0.9736842105263158,
+      0.9736842105263158,
+      0.9736842105263158
+    ],
+    "accuracy": [
+      0.9824950144028363,
+      0.9824950144028363,
+      0.9824950144028363,
+      0.9824950144028363,
+      0.9824950144028363,
+      0.9824950144028363,
+      0.9824950144028363,
+      0.9824950144028363,
+      0.9824950144028363,
+      0.9824950144028363,
+      0.9824950144028363,
+      0.9824950144028363,
+      0.9824950144028363,
+      0.9824950144028363,
+      0.9824950144028363,
+      0.9824950144028363,
+      0.9824950144028363,
+      0.9824950144028363,
+      0.9824950144028363,
+      0.9824950144028363,
+      0.9824950144028363,
+      0.9824950144028363,
+      0.9824950144028363,
+      0.9824950144028363,
+      0.9824950144028363,
+      0.9824950144028363
+    ],
+    "max_recall_files": [
+      "../../../../result/tot_info/trace_056/full_path_coverage_00.json",
+      "../../../../result/tot_info/trace_056/full_path_coverage_01.json",
+      "../../../../result/tot_info/trace_056/full_path_coverage_02.json",
+      "../../../../result/tot_info/trace_056/full_path_coverage_03.json",
+      "../../../../result/tot_info/trace_056/full_path_coverage_04.json",
+      "../../../../result/tot_info/trace_056/full_path_coverage_05.json",
+      "../../../../result/tot_info/trace_056/full_path_coverage_06.json",
+      "../../../../result/tot_info/trace_056/full_path_coverage_07.json",
+      "../../../../result/tot_info/trace_056/full_path_coverage_08.json",
+      "../../../../result/tot_info/trace_056/full_path_coverage_09.json",
+      "../../../../result/tot_info/trace_056/full_path_coverage_10.json",
+      "../../../../result/tot_info/trace_056/full_path_coverage_11.json",
+      "../../../../result/tot_info/trace_056/full_path_coverage_12.json",
+      "../../../../result/tot_info/trace_056/full_path_coverage_13.json",
+      "../../../../result/tot_info/trace_056/full_path_coverage_14.json",
+      "../../../../result/tot_info/trace_056/full_path_coverage_15.json",
+      "../../../../result/tot_info/trace_056/full_path_coverage_16.json",
+      "../../../../result/tot_info/trace_056/full_path_coverage_17.json",
+      "../../../../result/tot_info/trace_056/full_path_coverage_18.json",
+      "../../../../result/tot_info/trace_056/full_path_coverage_19.json",
+      "../../../../result/tot_info/trace_056/full_path_coverage_20.json",
+      "../../../../result/tot_info/trace_056/full_path_coverage_21.json",
+      "../../../../result/tot_info/trace_056/full_path_coverage_22.json",
+      "../../../../result/tot_info/trace_056/full_path_coverage_23.json",
+      "../../../../result/tot_info/trace_056/full_path_coverage_24.json",
+      "../../../../result/tot_info/trace_056/full_path_coverage_25.json"
+    ],
+    "max_precision_files": [
+      "../../../../result/tot_info/trace_056/MPP_coverage_00.json",
+      "../../../../result/tot_info/trace_056/MPP_coverage_01.json",
+      "../../../../result/tot_info/trace_056/MPP_coverage_02.json",
+      "../../../../result/tot_info/trace_056/MPP_coverage_03.json",
+      "../../../../result/tot_info/trace_056/MPP_coverage_04.json",
+      "../../../../result/tot_info/trace_056/MPP_coverage_05.json",
+      "../../../../result/tot_info/trace_056/MPP_coverage_06.json",
+      "../../../../result/tot_info/trace_056/MPP_coverage_07.json",
+      "../../../../result/tot_info/trace_056/MPP_coverage_08.json",
+      "../../../../result/tot_info/trace_056/MPP_coverage_09.json",
+      "../../../../result/tot_info/trace_056/MPP_coverage_10.json",
+      "../../../../result/tot_info/trace_056/MPP_coverage_11.json",
+      "../../../../result/tot_info/trace_056/MPP_coverage_12.json",
+      "../../../../result/tot_info/trace_056/MPP_coverage_13.json",
+      "../../../../result/tot_info/trace_056/MPP_coverage_14.json",
+      "../../../../result/tot_info/trace_056/MPP_coverage_15.json",
+      "../../../../result/tot_info/trace_056/MPP_coverage_16.json",
+      "../../../../result/tot_info/trace_056/MPP_coverage_17.json",
+      "../../../../result/tot_info/trace_056/MPP_coverage_18.json",
+      "../../../../result/tot_info/trace_056/MPP_coverage_19.json",
+      "../../../../result/tot_info/trace_056/MPP_coverage_20.json",
+      "../../../../result/tot_info/trace_056/MPP_coverage_21.json",
+      "../../../../result/tot_info/trace_056/MPP_coverage_22.json",
+      "../../../../result/tot_info/trace_056/MPP_coverage_23.json",
+      "../../../../result/tot_info/trace_056/MPP_coverage_24.json",
+      "../../../../result/tot_info/trace_056/MPP_coverage_25.json",
+      "../../../../result/tot_info/trace_056/MPP_coverage_26.json",
+      "../../../../result/tot_info/trace_056/MPP_coverage_27.json",
+      "../../../../result/tot_info/trace_056/MPP_coverage_28.json",
+      "../../../../result/tot_info/trace_056/MPP_coverage_29.json",
+      "../../../../result/tot_info/trace_056/MPP_coverage_30.json",
+      "../../../../result/tot_info/trace_056/MPP_coverage_31.json",
+      "../../../../result/tot_info/trace_056/MPP_coverage_32.json",
+      "../../../../result/tot_info/trace_056/MPP_coverage_33.json",
+      "../../../../result/tot_info/trace_056/MPP_coverage_34.json",
+      "../../../../result/tot_info/trace_056/MPP_coverage_35.json",
+      "../../../../result/tot_info/trace_056/MPP_coverage_36.json",
+      "../../../../result/tot_info/trace_056/MPP_coverage_37.json",
+      "../../../../result/tot_info/trace_056/MPP_coverage_38.json",
+      "../../../../result/tot_info/trace_056/MPP_coverage_39.json",
+      "../../../../result/tot_info/trace_056/MPP_coverage_40.json",
+      "../../../../result/tot_info/trace_056/MPP_coverage_41.json",
+      "../../../../result/tot_info/trace_056/MPP_coverage_42.json",
+      "../../../../result/tot_info/trace_056/MPP_coverage_43.json",
+      "../../../../result/tot_info/trace_056/MPP_coverage_44.json",
+      "../../../../result/tot_info/trace_056/MPP_coverage_45.json",
+      "../../../../result/tot_info/trace_056/MPP_coverage_46.json",
+      "../../../../result/tot_info/trace_056/MPP_coverage_47.json",
+      "../../../../result/tot_info/trace_056/MPP_coverage_48.json",
+      "../../../../result/tot_info/trace_056/MPP_coverage_49.json",
+      "../../../../result/tot_info/trace_056/MPP_coverage_50.json",
+      "../../../../result/tot_info/trace_056/MPP_coverage_51.json",
+      "../../../../result/tot_info/trace_056/MPP_coverage_52.json",
+      "../../../../result/tot_info/trace_056/MPP_coverage_53.json",
+      "../../../../result/tot_info/trace_056/MPP_coverage_54.json",
+      "../../../../result/tot_info/trace_056/MPP_coverage_55.json",
+      "../../../../result/tot_info/trace_056/MPP_coverage_56.json",
+      "../../../../result/tot_info/trace_056/MPP_coverage_57.json",
+      "../../../../result/tot_info/trace_056/MPP_coverage_58.json",
+      "../../../../result/tot_info/trace_056/MPP_coverage_59.json",
+      "../../../../result/tot_info/trace_056/MPP_coverage_60.json",
+      "../../../../result/tot_info/trace_056/MPP_coverage_61.json",
+      "../../../../result/tot_info/trace_056/MPP_coverage_62.json",
+      "../../../../result/tot_info/trace_056/MPP_coverage_63.json",
+      "../../../../result/tot_info/trace_056/MPP_coverage_64.json",
+      "../../../../result/tot_info/trace_056/MPP_coverage_65.json",
+      "../../../../result/tot_info/trace_056/MPP_coverage_66.json",
+      "../../../../result/tot_info/trace_056/MPP_coverage_67.json",
+      "../../../../result/tot_info/trace_056/MPP_coverage_68.json",
+      "../../../../result/tot_info/trace_056/MPP_coverage_69.json",
+      "../../../../result/tot_info/trace_056/MPP_coverage_70.json",
+      "../../../../result/tot_info/trace_056/MPP_coverage_71.json",
+      "../../../../result/tot_info/trace_056/MPP_coverage_72.json",
+      "../../../../result/tot_info/trace_056/MPP_coverage_73.json",
+      "../../../../result/tot_info/trace_056/MPP_coverage_74.json",
+      "../../../../result/tot_info/trace_056/MPP_coverage_75.json",
+      "../../../../result/tot_info/trace_056/MPP_coverage_76.json",
+      "../../../../result/tot_info/trace_056/MPP_coverage_77.json",
+      "../../../../result/tot_info/trace_056/MPP_coverage_78.json",
+      "../../../../result/tot_info/trace_056/MPP_coverage_79.json",
+      "../../../../result/tot_info/trace_056/MPP_coverage_80.json",
+      "../../../../result/tot_info/trace_056/MPP_coverage_81.json",
+      "../../../../result/tot_info/trace_056/MPP_coverage_82.json",
+      "../../../../result/tot_info/trace_056/MPP_coverage_83.json",
+      "../../../../result/tot_info/trace_056/MPP_coverage_84.json",
+      "../../../../result/tot_info/trace_056/MPP_coverage_85.json",
+      "../../../../result/tot_info/trace_056/MPP_coverage_86.json",
+      "../../../../result/tot_info/trace_056/MPP_coverage_87.json",
+      "../../../../result/tot_info/trace_056/MPP_coverage_88.json",
+      "../../../../result/tot_info/trace_056/MPP_coverage_89.json",
+      "../../../../result/tot_info/trace_056/MPP_coverage_90.json",
+      "../../../../result/tot_info/trace_056/MPP_coverage_91.json",
+      "../../../../result/tot_info/trace_056/MPP_coverage_92.json",
+      "../../../../result/tot_info/trace_056/MPP_coverage_93.json",
+      "../../../../result/tot_info/trace_056/MPP_coverage_94.json",
+      "../../../../result/tot_info/trace_056/MPP_coverage_95.json",
+      "../../../../result/tot_info/trace_056/MPP_coverage_96.json",
+      "../../../../result/tot_info/trace_056/MPP_coverage_97.json",
+      "../../../../result/tot_info/trace_056/MPP_coverage_98.json",
+      "../../../../result/tot_info/trace_056/MPP_coverage_99.json",
+      "../../../../result/tot_info/trace_056/MPP_coverage_100.json",
+      "../../../../result/tot_info/trace_056/MPP_coverage_101.json",
+      "../../../../result/tot_info/trace_056/MPP_coverage_102.json",
+      "../../../../result/tot_info/trace_056/MPP_coverage_103.json",
+      "../../../../result/tot_info/trace_056/MPP_coverage_104.json",
+      "../../../../result/tot_info/trace_056/MPP_coverage_105.json",
+      "../../../../result/tot_info/trace_056/MPP_coverage_106.json",
+      "../../../../result/tot_info/trace_056/MPP_coverage_107.json",
+      "../../../../result/tot_info/trace_056/MPP_coverage_108.json",
+      "../../../../result/tot_info/trace_056/MPP_coverage_109.json",
+      "../../../../result/tot_info/trace_056/MPP_coverage_110.json",
+      "../../../../result/tot_info/trace_056/MPP_coverage_111.json",
+      "../../../../result/tot_info/trace_056/MPP_coverage_112.json",
+      "../../../../result/tot_info/trace_056/MPP_coverage_113.json",
+      "../../../../result/tot_info/trace_056/MPP_coverage_114.json",
+      "../../../../result/tot_info/trace_056/MPP_coverage_115.json",
+      "../../../../result/tot_info/trace_056/MPP_coverage_116.json",
+      "../../../../result/tot_info/trace_056/MPP_coverage_117.json",
+      "../../../../result/tot_info/trace_056/MPP_coverage_118.json",
+      "../../../../result/tot_info/trace_056/MPP_coverage_119.json",
+      "../../../../result/tot_info/trace_056/MPP_coverage_120.json",
+      "../../../../result/tot_info/trace_056/MPP_coverage_121.json",
+      "../../../../result/tot_info/trace_056/MPP_coverage_122.json",
+      "../../../../result/tot_info/trace_056/MPP_coverage_123.json",
+      "../../../../result/tot_info/trace_056/MPP_coverage_124.json",
+      "../../../../result/tot_info/trace_056/MPP_coverage_125.json",
+      "../../../../result/tot_info/trace_056/MPP_coverage_126.json",
+      "../../../../result/tot_info/trace_056/MPP_coverage_127.json",
+      "../../../../result/tot_info/trace_056/MPP_coverage_128.json",
+      "../../../../result/tot_info/trace_056/MPP_coverage_129.json"
+    ],
+    "max_acc_files": [
+      "../../../../result/tot_info/trace_056/full_path_00.json",
+      "../../../../result/tot_info/trace_056/full_path_00.json",
+      "../../../../result/tot_info/trace_056/full_path_00.json",
+      "../../../../result/tot_info/trace_056/full_path_00.json",
+      "../../../../result/tot_info/trace_056/full_path_00.json",
+      "../../../../result/tot_info/trace_056/full_path_00.json",
+      "../../../../result/tot_info/trace_056/full_path_00.json",
+      "../../../../result/tot_info/trace_056/full_path_00.json",
+      "../../../../result/tot_info/trace_056/full_path_00.json",
+      "../../../../result/tot_info/trace_056/full_path_00.json",
+      "../../../../result/tot_info/trace_056/full_path_00.json",
+      "../../../../result/tot_info/trace_056/full_path_00.json",
+      "../../../../result/tot_info/trace_056/full_path_00.json",
+      "../../../../result/tot_info/trace_056/full_path_00.json",
+      "../../../../result/tot_info/trace_056/full_path_00.json",
+      "../../../../result/tot_info/trace_056/full_path_00.json",
+      "../../../../result/tot_info/trace_056/full_path_00.json",
+      "../../../../result/tot_info/trace_056/full_path_00.json",
+      "../../../../result/tot_info/trace_056/full_path_00.json",
+      "../../../../result/tot_info/trace_056/full_path_00.json",
+      "../../../../result/tot_info/trace_056/full_path_00.json",
+      "../../../../result/tot_info/trace_056/full_path_00.json",
+      "../../../../result/tot_info/trace_056/full_path_00.json",
+      "../../../../result/tot_info/trace_056/full_path_00.json",
+      "../../../../result/tot_info/trace_056/full_path_00.json",
+      "../../../../result/tot_info/trace_056/full_path_00.json"
+    ],
+    "uncovered_lines": [
+      41,
+      150,
+      184,
+      208,
+      244,
+      252,
+      293,
+      405
+    ],
+    "wrong_lines": [
+      [
+        127,
+        128
+      ]
+    ]
+  },
+  "test_057": {
+    "ground_truth": "../cov_trace//trace_057.json",
+    "ana_result": "../../../../result/tot_info/trace_057",
+    "recall": [
+      0.594059405940594
+    ],
+    "precision": [
+      0.84
+    ],
+    "accuracy": [
+      0.9738533126523377
+    ],
+    "max_recall_files": [
+      "../../../../result/tot_info/trace_057/full_path_coverage_00.json"
+    ],
+    "max_precision_files": [
+      "../../../../result/tot_info/trace_057/MPP_coverage_00.json"
+    ],
+    "max_acc_files": [
+      "../../../../result/tot_info/trace_057/full_path_00.json"
+    ],
+    "uncovered_lines": [
+      41,
+      150,
+      162,
+      164,
+      166,
+      169,
+      170,
+      172,
+      174,
+      175,
+      177,
+      184,
+      191,
+      194,
+      196,
+      198,
+      200,
+      201,
+      208,
+      212,
+      213,
+      215,
+      218,
+      219,
+      221,
+      222,
+      223,
+      224,
+      225,
+      227,
+      229,
+      231,
+      233,
+      234,
+      236,
+      244,
+      248,
+      252,
+      256,
+      293,
+      405
+    ],
+    "wrong_lines": [
+      [
+        71,
+        72
+      ],
+      [
+        127,
+        128
+      ]
+    ]
+  },
+  "test_058": {
+    "ground_truth": "../cov_trace//trace_058.json",
+    "ana_result": "../../../../result/tot_info/trace_058",
+    "recall": [
+      0.673469387755102
+    ],
+    "precision": [
+      0.9230769230769231,
+      0.9230769230769231,
+      0.9230769230769231,
+      0.92
+    ],
+    "accuracy": [
+      0.9776202082871704
+    ],
+    "max_recall_files": [
+      "../../../../result/tot_info/trace_058/full_path_coverage_00.json"
+    ],
+    "max_precision_files": [
+      "../../../../result/tot_info/trace_058/MPP_coverage_00.json",
+      "../../../../result/tot_info/trace_058/MPP_coverage_01.json",
+      "../../../../result/tot_info/trace_058/MPP_coverage_02.json"
+    ],
+    "max_acc_files": [
+      "../../../../result/tot_info/trace_058/full_path_00.json"
+    ],
+    "uncovered_lines": [
+      41,
+      150,
+      162,
+      169,
+      170,
+      172,
+      174,
+      175,
+      177,
+      208,
+      212,
+      213,
+      215,
+      218,
+      219,
+      221,
+      222,
+      223,
+      224,
+      225,
+      227,
+      229,
+      231,
+      233,
+      234,
+      236,
+      244,
+      248,
+      252,
+      256,
+      293,
+      405
+    ],
+    "wrong_lines": [
+      [
+        127,
+        128
+      ]
+    ]
+  },
+  "test_059": {
+    "ground_truth": "../cov_trace//trace_059.json",
+    "ana_result": "../../../../result/tot_info/trace_059",
+    "recall": [
+      0.9552238805970149
+    ],
+    "precision": [
+      0.8461538461538461,
+      0.8461538461538461,
+      0.8461538461538461,
+      0.84
+    ],
+    "accuracy": [
+      0.9847108353645025
+    ],
+    "max_recall_files": [
+      "../../../../result/tot_info/trace_059/full_path_coverage_00.json"
+    ],
+    "max_precision_files": [
+      "../../../../result/tot_info/trace_059/MPP_coverage_00.json",
+      "../../../../result/tot_info/trace_059/MPP_coverage_01.json",
+      "../../../../result/tot_info/trace_059/MPP_coverage_02.json"
+    ],
+    "max_acc_files": [
+      "../../../../result/tot_info/trace_059/full_path_00.json"
+    ],
+    "uncovered_lines": [
+      41,
+      293,
+      405
+    ],
+    "wrong_lines": [
+      [
+        71,
+        72
+      ],
+      [
+        127,
+        128
+      ]
+    ]
+  },
+  "test_060": {
+    "ground_truth": "../cov_trace//trace_060.json",
+    "ana_result": "../../../../result/tot_info/trace_060",
+    "recall": [
+      0.9072164948453608
+    ],
+    "precision": [
+      0.972972972972973
+    ],
+    "accuracy": [
+      0.9840460890760027
+    ],
+    "max_recall_files": [
+      "../../../../result/tot_info/trace_060/full_path_coverage_00.json"
+    ],
+    "max_precision_files": [
+      "../../../../result/tot_info/trace_060/MPP_coverage_00.json"
+    ],
+    "max_acc_files": [
+      "../../../../result/tot_info/trace_060/full_path_00.json"
+    ],
+    "uncovered_lines": [
+      41,
+      63,
+      150,
+      184,
+      208,
+      244,
+      252,
+      293,
+      405
+    ],
+    "wrong_lines": [
+      [
+        127,
+        128
+      ]
+    ]
+  },
+  "test_061": {
+    "ground_truth": "../cov_trace//trace_061.json",
+    "ana_result": "../../../../result/tot_info/trace_061",
+    "recall": [
+      0.9072164948453608
+    ],
+    "precision": [
+      0.972972972972973
+    ],
+    "accuracy": [
+      0.9840460890760027
+    ],
+    "max_recall_files": [
+      "../../../../result/tot_info/trace_061/full_path_coverage_00.json"
+    ],
+    "max_precision_files": [
+      "../../../../result/tot_info/trace_061/MPP_coverage_00.json"
+    ],
+    "max_acc_files": [
+      "../../../../result/tot_info/trace_061/full_path_00.json"
+    ],
+    "uncovered_lines": [
+      41,
+      63,
+      150,
+      184,
+      208,
+      244,
+      252,
+      293,
+      405
+    ],
+    "wrong_lines": [
+      [
+        127,
+        128
+      ]
+    ]
+  },
+  "test_062": {
+    "ground_truth": "../cov_trace//trace_062.json",
+    "ana_result": "../../../../result/tot_info/trace_062",
+    "recall": [
+      0.9552238805970149
+    ],
+    "precision": [
+      0.8461538461538461,
+      0.8461538461538461,
+      0.8461538461538461,
+      0.8461538461538461,
+      0.8461538461538461
+    ],
+    "accuracy": [
+      0.9844892532683359
+    ],
+    "max_recall_files": [
+      "../../../../result/tot_info/trace_062/full_path_coverage_00.json"
+    ],
+    "max_precision_files": [
+      "../../../../result/tot_info/trace_062/MPP_coverage_00.json",
+      "../../../../result/tot_info/trace_062/MPP_coverage_01.json",
+      "../../../../result/tot_info/trace_062/MPP_coverage_02.json",
+      "../../../../result/tot_info/trace_062/MPP_coverage_03.json",
+      "../../../../result/tot_info/trace_062/MPP_coverage_04.json"
+    ],
+    "max_acc_files": [
+      "../../../../result/tot_info/trace_062/full_path_00.json"
+    ],
+    "uncovered_lines": [
+      41,
+      293,
+      405
+    ],
+    "wrong_lines": [
+      [
+        71,
+        72
+      ],
+      [
+        127,
+        128
+      ]
+    ]
+  },
+  "test_063": {
+    "ground_truth": "../cov_trace//trace_063.json",
+    "ana_result": "../../../../result/tot_info/trace_063",
+    "recall": [
+      0.7272727272727273
+    ],
+    "precision": [
+      0.8461538461538461,
+      0.8461538461538461,
+      0.8461538461538461,
+      0.84
+    ],
+    "accuracy": [
+      0.9773986261910038
+    ],
+    "max_recall_files": [
+      "../../../../result/tot_info/trace_063/full_path_coverage_00.json"
+    ],
+    "max_precision_files": [
+      "../../../../result/tot_info/trace_063/MPP_coverage_00.json",
+      "../../../../result/tot_info/trace_063/MPP_coverage_01.json",
+      "../../../../result/tot_info/trace_063/MPP_coverage_02.json"
+    ],
+    "max_acc_files": [
+      "../../../../result/tot_info/trace_063/full_path_00.json"
+    ],
+    "uncovered_lines": [
+      41,
+      150,
+      162,
+      164,
+      166,
+      169,
+      170,
+      172,
+      174,
+      175,
+      177,
+      184,
+      191,
+      194,
+      196,
+      198,
+      200,
+      201,
+      244,
+      248,
+      252,
+      256,
+      293,
+      405
+    ],
+    "wrong_lines": [
+      [
+        71,
+        72
+      ],
+      [
+        127,
+        128
+      ]
+    ]
+  },
+  "test_064": {
+    "ground_truth": "../cov_trace//trace_064.json",
+    "ana_result": "../../../../result/tot_info/trace_064",
+    "recall": [
+      0.92
+    ],
+    "precision": [
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0
+    ],
+    "accuracy": [
+      0.9844892532683359
+    ],
+    "max_recall_files": [
+      "../../../../result/tot_info/trace_064/full_path_coverage_00.json"
+    ],
+    "max_precision_files": [
+      "../../../../result/tot_info/trace_064/MPP_coverage_00.json",
+      "../../../../result/tot_info/trace_064/MPP_coverage_01.json",
+      "../../../../result/tot_info/trace_064/MPP_coverage_02.json",
+      "../../../../result/tot_info/trace_064/MPP_coverage_03.json",
+      "../../../../result/tot_info/trace_064/MPP_coverage_04.json"
+    ],
+    "max_acc_files": [
+      "../../../../result/tot_info/trace_064/full_path_00.json"
+    ],
+    "uncovered_lines": [
+      41,
+      150,
+      184,
+      208,
+      244,
+      252,
+      293,
+      405
+    ],
+    "wrong_lines": []
+  },
+  "test_065": {
+    "ground_truth": "../cov_trace//trace_065.json",
+    "ana_result": "../../../../result/tot_info/trace_065",
+    "recall": [
+      0.94
+    ],
+    "precision": [
+      0.8461538461538461,
+      0.8461538461538461,
+      0.8461538461538461,
+      0.8461538461538461,
+      0.84
+    ],
+    "accuracy": [
+      0.9844892532683359
+    ],
+    "max_recall_files": [
+      "../../../../result/tot_info/trace_065/full_path_coverage_00.json"
+    ],
+    "max_precision_files": [
+      "../../../../result/tot_info/trace_065/MPP_coverage_00.json",
+      "../../../../result/tot_info/trace_065/MPP_coverage_01.json",
+      "../../../../result/tot_info/trace_065/MPP_coverage_02.json",
+      "../../../../result/tot_info/trace_065/MPP_coverage_03.json"
+    ],
+    "max_acc_files": [
+      "../../../../result/tot_info/trace_065/full_path_00.json"
+    ],
+    "uncovered_lines": [
+      41,
+      293,
+      405
+    ],
+    "wrong_lines": [
+      [
+        71,
+        72
+      ],
+      [
+        127,
+        128
+      ]
+    ]
+  },
+  "test_066": {
+    "ground_truth": "../cov_trace//trace_066.json",
+    "ana_result": "../../../../result/tot_info/trace_066",
+    "recall": [
+      0.9222222222222223,
+      0.9222222222222223
+    ],
+    "precision": [
+      0.9736842105263158,
+      0.9736842105263158,
+      0.9733333333333334,
+      0.9736842105263158,
+      0.9736842105263158,
+      0.9733333333333334
+    ],
+    "accuracy": [
+      0.98027919344117,
+      0.98027919344117
+    ],
+    "max_recall_files": [
+      "../../../../result/tot_info/trace_066/full_path_coverage_00.json",
+      "../../../../result/tot_info/trace_066/full_path_coverage_01.json"
+    ],
+    "max_precision_files": [
+      "../../../../result/tot_info/trace_066/MPP_coverage_00.json",
+      "../../../../result/tot_info/trace_066/MPP_coverage_01.json",
+      "../../../../result/tot_info/trace_066/MPP_coverage_03.json",
+      "../../../../result/tot_info/trace_066/MPP_coverage_04.json"
+    ],
+    "max_acc_files": [
+      "../../../../result/tot_info/trace_066/full_path_00.json",
+      "../../../../result/tot_info/trace_066/full_path_00.json"
+    ],
+    "uncovered_lines": [
+      41,
+      150,
+      184,
+      244,
+      252,
+      293,
+      405
+    ],
+    "wrong_lines": [
+      [
+        127,
+        128
+      ]
+    ]
+  },
+  "test_067": {
+    "ground_truth": "../cov_trace//trace_067.json",
+    "ana_result": "../../../../result/tot_info/trace_067",
+    "recall": [
+      0.9375
+    ],
+    "precision": [
+      0.8461538461538461,
+      0.8461538461538461,
+      0.84
+    ],
+    "accuracy": [
+      0.9844892532683359
+    ],
+    "max_recall_files": [
+      "../../../../result/tot_info/trace_067/full_path_coverage_00.json"
+    ],
+    "max_precision_files": [
+      "../../../../result/tot_info/trace_067/MPP_coverage_00.json",
+      "../../../../result/tot_info/trace_067/MPP_coverage_01.json"
+    ],
+    "max_acc_files": [
+      "../../../../result/tot_info/trace_067/full_path_00.json"
+    ],
+    "uncovered_lines": [
+      41,
+      293,
+      405
+    ],
+    "wrong_lines": [
+      [
+        71,
+        72
+      ],
+      [
+        127,
+        128
+      ]
+    ]
+  },
+  "test_068": {
+    "ground_truth": "../cov_trace//trace_068.json",
+    "ana_result": "../../../../result/tot_info/trace_068",
+    "recall": [
+      0.9207920792079208,
+      0.9207920792079208,
+      0.9207920792079208,
+      0.9207920792079208,
+      0.9207920792079208
+    ],
+    "precision": [
+      0.9733333333333334,
+      0.9733333333333334,
+      0.9733333333333334,
+      0.9733333333333334,
+      0.9733333333333334
+    ],
+    "accuracy": [
+      0.9824950144028363,
+      0.9824950144028363,
+      0.9824950144028363,
+      0.9824950144028363,
+      0.9824950144028363
+    ],
+    "max_recall_files": [
+      "../../../../result/tot_info/trace_068/full_path_coverage_00.json",
+      "../../../../result/tot_info/trace_068/full_path_coverage_01.json",
+      "../../../../result/tot_info/trace_068/full_path_coverage_02.json",
+      "../../../../result/tot_info/trace_068/full_path_coverage_03.json",
+      "../../../../result/tot_info/trace_068/full_path_coverage_04.json"
+    ],
+    "max_precision_files": [
+      "../../../../result/tot_info/trace_068/MPP_coverage_00.json",
+      "../../../../result/tot_info/trace_068/MPP_coverage_01.json",
+      "../../../../result/tot_info/trace_068/MPP_coverage_02.json",
+      "../../../../result/tot_info/trace_068/MPP_coverage_03.json",
+      "../../../../result/tot_info/trace_068/MPP_coverage_04.json"
+    ],
+    "max_acc_files": [
+      "../../../../result/tot_info/trace_068/full_path_00.json",
+      "../../../../result/tot_info/trace_068/full_path_00.json",
+      "../../../../result/tot_info/trace_068/full_path_00.json",
+      "../../../../result/tot_info/trace_068/full_path_00.json",
+      "../../../../result/tot_info/trace_068/full_path_00.json"
+    ],
+    "uncovered_lines": [
+      41,
+      150,
+      184,
+      208,
+      244,
+      252,
+      293,
+      405
+    ],
+    "wrong_lines": [
+      [
+        127,
+        128
+      ]
+    ]
+  },
+  "test_069": {
+    "ground_truth": "../cov_trace//trace_069.json",
+    "ana_result": "../../../../result/tot_info/trace_069",
+    "recall": [
+      0.9292929292929293
+    ],
+    "precision": [
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0
+    ],
+    "accuracy": [
+      0.9800576113450034
+    ],
+    "max_recall_files": [
+      "../../../../result/tot_info/trace_069/full_path_coverage_00.json"
+    ],
+    "max_precision_files": [
+      "../../../../result/tot_info/trace_069/MPP_coverage_00.json",
+      "../../../../result/tot_info/trace_069/MPP_coverage_01.json",
+      "../../../../result/tot_info/trace_069/MPP_coverage_02.json",
+      "../../../../result/tot_info/trace_069/MPP_coverage_03.json",
+      "../../../../result/tot_info/trace_069/MPP_coverage_04.json"
+    ],
+    "max_acc_files": [
+      "../../../../result/tot_info/trace_069/full_path_00.json"
+    ],
+    "uncovered_lines": [
+      41,
+      150,
+      208,
+      244,
+      252,
+      293,
+      405
+    ],
+    "wrong_lines": []
+  },
+  "test_070": {
+    "ground_truth": "../cov_trace//trace_070.json",
+    "ana_result": "../../../../result/tot_info/trace_070",
+    "recall": [
+      0.6483516483516484
+    ],
+    "precision": [
+      0.88
+    ],
+    "accuracy": [
+      0.9769554619986706
+    ],
+    "max_recall_files": [
+      "../../../../result/tot_info/trace_070/full_path_coverage_00.json"
+    ],
+    "max_precision_files": [
+      "../../../../result/tot_info/trace_070/MPP_coverage_00.json"
+    ],
+    "max_acc_files": [
+      "../../../../result/tot_info/trace_070/full_path_00.json"
+    ],
+    "uncovered_lines": [
+      41,
+      150,
+      162,
+      169,
+      170,
+      172,
+      174,
+      175,
+      177,
+      208,
+      212,
+      213,
+      215,
+      218,
+      219,
+      221,
+      222,
+      223,
+      224,
+      225,
+      227,
+      229,
+      231,
+      233,
+      234,
+      236,
+      244,
+      248,
+      252,
+      256,
+      293,
+      405
+    ],
+    "wrong_lines": [
+      [
+        61,
+        61
+      ],
+      [
+        127,
+        128
+      ]
+    ]
+  },
+  "test_071": {
+    "ground_truth": "../cov_trace//trace_071.json",
+    "ana_result": "../../../../result/tot_info/trace_071",
+    "recall": [
+      0.9223300970873787,
+      0.9223300970873787
+    ],
+    "precision": [
+      0.9733333333333334,
+      0.9733333333333334
+    ],
+    "accuracy": [
+      0.9831597606913361,
+      0.9831597606913361
+    ],
+    "max_recall_files": [
+      "../../../../result/tot_info/trace_071/full_path_coverage_00.json",
+      "../../../../result/tot_info/trace_071/full_path_coverage_01.json"
+    ],
+    "max_precision_files": [
+      "../../../../result/tot_info/trace_071/MPP_coverage_00.json",
+      "../../../../result/tot_info/trace_071/MPP_coverage_01.json"
+    ],
+    "max_acc_files": [
+      "../../../../result/tot_info/trace_071/full_path_00.json",
+      "../../../../result/tot_info/trace_071/full_path_00.json"
+    ],
+    "uncovered_lines": [
+      41,
+      150,
+      184,
+      208,
+      244,
+      252,
+      293,
+      405
+    ],
+    "wrong_lines": [
+      [
+        127,
+        128
+      ]
+    ]
+  },
+  "test_072": {
+    "ground_truth": "../cov_trace//trace_072.json",
+    "ana_result": "../../../../result/tot_info/trace_072",
+    "recall": [
+      0.9361702127659575
+    ],
+    "precision": [
+      0.8461538461538461,
+      0.8461538461538461,
+      0.8461538461538461,
+      0.8461538461538461,
+      0.84
+    ],
+    "accuracy": [
+      0.9849324174606692
+    ],
+    "max_recall_files": [
+      "../../../../result/tot_info/trace_072/full_path_coverage_00.json"
+    ],
+    "max_precision_files": [
+      "../../../../result/tot_info/trace_072/MPP_coverage_00.json",
+      "../../../../result/tot_info/trace_072/MPP_coverage_01.json",
+      "../../../../result/tot_info/trace_072/MPP_coverage_02.json",
+      "../../../../result/tot_info/trace_072/MPP_coverage_03.json"
+    ],
+    "max_acc_files": [
+      "../../../../result/tot_info/trace_072/full_path_00.json"
+    ],
+    "uncovered_lines": [
+      41,
+      293,
+      405
+    ],
+    "wrong_lines": [
+      [
+        71,
+        72
+      ],
+      [
+        127,
+        128
+      ]
+    ]
+  },
+  "test_073": {
+    "ground_truth": "../cov_trace//trace_073.json",
+    "ana_result": "../../../../result/tot_info/trace_073",
+    "recall": [
+      0.9285714285714286
+    ],
+    "precision": [
+      0.8571428571428571
+    ],
+    "accuracy": [
+      0.9725238200753379
+    ],
+    "max_recall_files": [
+      "../../../../result/tot_info/trace_073/full_path_coverage_00.json"
+    ],
+    "max_precision_files": [
+      "../../../../result/tot_info/trace_073/MPP_coverage_00.json"
+    ],
+    "max_acc_files": [
+      "../../../../result/tot_info/trace_073/full_path_00.json"
+    ],
+    "uncovered_lines": [
+      41
+    ],
+    "wrong_lines": [
+      [
+        127,
+        128
+      ]
+    ]
+  },
+  "test_074": {
+    "ground_truth": "../cov_trace//trace_074.json",
+    "ana_result": "../../../../result/tot_info/trace_074",
+    "recall": [
+      0.9238095238095239,
+      0.9238095238095239
+    ],
+    "precision": [
+      0.9736842105263158,
+      0.9736842105263158,
+      0.9736842105263158,
+      0.9736842105263158,
+      0.9736842105263158,
+      0.9736842105263158,
+      0.9736842105263158,
+      0.9733333333333334,
+      0.9736842105263158,
+      0.9736842105263158,
+      0.9736842105263158,
+      0.9736842105263158,
+      0.9736842105263158,
+      0.9736842105263158,
+      0.9736842105263158,
+      0.9733333333333334
+    ],
+    "accuracy": [
+      0.9827165964990029,
+      0.9827165964990029
+    ],
+    "max_recall_files": [
+      "../../../../result/tot_info/trace_074/full_path_coverage_00.json",
+      "../../../../result/tot_info/trace_074/full_path_coverage_01.json"
+    ],
+    "max_precision_files": [
+      "../../../../result/tot_info/trace_074/MPP_coverage_00.json",
+      "../../../../result/tot_info/trace_074/MPP_coverage_01.json",
+      "../../../../result/tot_info/trace_074/MPP_coverage_02.json",
+      "../../../../result/tot_info/trace_074/MPP_coverage_03.json",
+      "../../../../result/tot_info/trace_074/MPP_coverage_04.json",
+      "../../../../result/tot_info/trace_074/MPP_coverage_05.json",
+      "../../../../result/tot_info/trace_074/MPP_coverage_06.json",
+      "../../../../result/tot_info/trace_074/MPP_coverage_08.json",
+      "../../../../result/tot_info/trace_074/MPP_coverage_09.json",
+      "../../../../result/tot_info/trace_074/MPP_coverage_10.json",
+      "../../../../result/tot_info/trace_074/MPP_coverage_11.json",
+      "../../../../result/tot_info/trace_074/MPP_coverage_12.json",
+      "../../../../result/tot_info/trace_074/MPP_coverage_13.json",
+      "../../../../result/tot_info/trace_074/MPP_coverage_14.json"
+    ],
+    "max_acc_files": [
+      "../../../../result/tot_info/trace_074/full_path_00.json",
+      "../../../../result/tot_info/trace_074/full_path_00.json"
+    ],
+    "uncovered_lines": [
+      41,
+      150,
+      184,
+      208,
+      244,
+      252,
+      293,
+      405
+    ],
+    "wrong_lines": [
+      [
+        127,
+        128
+      ]
+    ]
+  },
+  "test_075": {
+    "ground_truth": "../cov_trace//trace_075.json",
+    "ana_result": "../../../../result/tot_info/trace_075",
+    "recall": [
+      0.9523809523809523
+    ],
+    "precision": [
+      0.8461538461538461,
+      0.84
+    ],
+    "accuracy": [
+      0.9844892532683359
+    ],
+    "max_recall_files": [
+      "../../../../result/tot_info/trace_075/full_path_coverage_00.json"
+    ],
+    "max_precision_files": [
+      "../../../../result/tot_info/trace_075/MPP_coverage_00.json"
+    ],
+    "max_acc_files": [
+      "../../../../result/tot_info/trace_075/full_path_00.json"
+    ],
+    "uncovered_lines": [
+      41,
+      293,
+      405
+    ],
+    "wrong_lines": [
+      [
+        71,
+        72
+      ],
+      [
+        127,
+        128
+      ]
+    ]
+  },
+  "test_076": {
+    "ground_truth": "../cov_trace//trace_076.json",
+    "ana_result": "../../../../result/tot_info/trace_076",
+    "recall": [
+      0.9207920792079208,
+      0.9207920792079208,
+      0.9207920792079208
+    ],
+    "precision": [
+      0.9736842105263158,
+      0.9733333333333334,
+      0.9736842105263158,
+      0.9733333333333334,
+      0.9736842105263158,
+      0.9733333333333334
+    ],
+    "accuracy": [
+      0.9827165964990029,
+      0.9827165964990029,
+      0.9827165964990029
+    ],
+    "max_recall_files": [
+      "../../../../result/tot_info/trace_076/full_path_coverage_00.json",
+      "../../../../result/tot_info/trace_076/full_path_coverage_01.json",
+      "../../../../result/tot_info/trace_076/full_path_coverage_02.json"
+    ],
+    "max_precision_files": [
+      "../../../../result/tot_info/trace_076/MPP_coverage_00.json",
+      "../../../../result/tot_info/trace_076/MPP_coverage_02.json",
+      "../../../../result/tot_info/trace_076/MPP_coverage_04.json"
+    ],
+    "max_acc_files": [
+      "../../../../result/tot_info/trace_076/full_path_00.json",
+      "../../../../result/tot_info/trace_076/full_path_00.json",
+      "../../../../result/tot_info/trace_076/full_path_00.json"
+    ],
+    "uncovered_lines": [
+      41,
+      150,
+      184,
+      208,
+      244,
+      252,
+      293,
+      405
+    ],
+    "wrong_lines": [
+      [
+        127,
+        128
+      ]
+    ]
+  },
+  "test_077": {
+    "ground_truth": "../cov_trace//trace_077.json",
+    "ana_result": "../../../../result/tot_info/trace_077",
+    "recall": [
+      0.9238095238095239,
+      0.9238095238095239
+    ],
+    "precision": [
+      0.9736842105263158,
+      0.9736842105263158,
+      0.9736842105263158,
+      0.9733333333333334,
+      0.9736842105263158,
+      0.9736842105263158,
+      0.9736842105263158,
+      0.9733333333333334
+    ],
+    "accuracy": [
+      0.9827165964990029,
+      0.9827165964990029
+    ],
+    "max_recall_files": [
+      "../../../../result/tot_info/trace_077/full_path_coverage_00.json",
+      "../../../../result/tot_info/trace_077/full_path_coverage_01.json"
+    ],
+    "max_precision_files": [
+      "../../../../result/tot_info/trace_077/MPP_coverage_00.json",
+      "../../../../result/tot_info/trace_077/MPP_coverage_01.json",
+      "../../../../result/tot_info/trace_077/MPP_coverage_02.json",
+      "../../../../result/tot_info/trace_077/MPP_coverage_04.json",
+      "../../../../result/tot_info/trace_077/MPP_coverage_05.json",
+      "../../../../result/tot_info/trace_077/MPP_coverage_06.json"
+    ],
+    "max_acc_files": [
+      "../../../../result/tot_info/trace_077/full_path_00.json",
+      "../../../../result/tot_info/trace_077/full_path_00.json"
+    ],
+    "uncovered_lines": [
+      41,
+      150,
+      184,
+      208,
+      244,
+      252,
+      293,
+      405
+    ],
+    "wrong_lines": [
+      [
+        127,
+        128
+      ]
+    ]
+  },
+  "test_078": {
+    "ground_truth": "../cov_trace//trace_078.json",
+    "ana_result": "../../../../result/tot_info/trace_078",
+    "recall": [
+      0.9292929292929293
+    ],
+    "precision": [
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0
+    ],
+    "accuracy": [
+      0.9800576113450034
+    ],
+    "max_recall_files": [
+      "../../../../result/tot_info/trace_078/full_path_coverage_00.json"
+    ],
+    "max_precision_files": [
+      "../../../../result/tot_info/trace_078/MPP_coverage_00.json",
+      "../../../../result/tot_info/trace_078/MPP_coverage_01.json",
+      "../../../../result/tot_info/trace_078/MPP_coverage_02.json",
+      "../../../../result/tot_info/trace_078/MPP_coverage_03.json",
+      "../../../../result/tot_info/trace_078/MPP_coverage_04.json"
+    ],
+    "max_acc_files": [
+      "../../../../result/tot_info/trace_078/full_path_00.json"
+    ],
+    "uncovered_lines": [
+      41,
+      150,
+      208,
+      244,
+      252,
+      293,
+      405
+    ],
+    "wrong_lines": []
+  },
+  "test_079": {
+    "ground_truth": "../cov_trace//trace_079.json",
+    "ana_result": "../../../../result/tot_info/trace_079",
+    "recall": [
+      0.9552238805970149
+    ],
+    "precision": [
+      0.8461538461538461,
+      0.8461538461538461,
+      0.8461538461538461,
+      0.84
+    ],
+    "accuracy": [
+      0.9847108353645025
+    ],
+    "max_recall_files": [
+      "../../../../result/tot_info/trace_079/full_path_coverage_00.json"
+    ],
+    "max_precision_files": [
+      "../../../../result/tot_info/trace_079/MPP_coverage_00.json",
+      "../../../../result/tot_info/trace_079/MPP_coverage_01.json",
+      "../../../../result/tot_info/trace_079/MPP_coverage_02.json"
+    ],
+    "max_acc_files": [
+      "../../../../result/tot_info/trace_079/full_path_00.json"
+    ],
+    "uncovered_lines": [
+      41,
+      293,
+      405
+    ],
+    "wrong_lines": [
+      [
+        71,
+        72
+      ],
+      [
+        127,
+        128
+      ]
+    ]
+  },
+  "test_080": {
+    "ground_truth": "../cov_trace//trace_080.json",
+    "ana_result": "../../../../result/tot_info/trace_080",
+    "recall": [
+      0.9245283018867925
+    ],
+    "precision": [
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0
+    ],
+    "accuracy": [
+      0.9829381785951695
+    ],
+    "max_recall_files": [
+      "../../../../result/tot_info/trace_080/full_path_coverage_00.json"
+    ],
+    "max_precision_files": [
+      "../../../../result/tot_info/trace_080/MPP_coverage_00.json",
+      "../../../../result/tot_info/trace_080/MPP_coverage_01.json",
+      "../../../../result/tot_info/trace_080/MPP_coverage_02.json",
+      "../../../../result/tot_info/trace_080/MPP_coverage_03.json",
+      "../../../../result/tot_info/trace_080/MPP_coverage_04.json"
+    ],
+    "max_acc_files": [
+      "../../../../result/tot_info/trace_080/full_path_00.json"
+    ],
+    "uncovered_lines": [
+      41,
+      150,
+      184,
+      208,
+      244,
+      252,
+      293,
+      405
+    ],
+    "wrong_lines": []
+  },
+  "test_081": {
+    "ground_truth": "../cov_trace//trace_081.json",
+    "ana_result": "../../../../result/tot_info/trace_081",
+    "recall": [
+      0.9263157894736842
+    ],
+    "precision": [
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0
+    ],
+    "accuracy": [
+      0.9798360292488367
+    ],
+    "max_recall_files": [
+      "../../../../result/tot_info/trace_081/full_path_coverage_00.json"
+    ],
+    "max_precision_files": [
+      "../../../../result/tot_info/trace_081/MPP_coverage_00.json",
+      "../../../../result/tot_info/trace_081/MPP_coverage_01.json",
+      "../../../../result/tot_info/trace_081/MPP_coverage_02.json",
+      "../../../../result/tot_info/trace_081/MPP_coverage_03.json",
+      "../../../../result/tot_info/trace_081/MPP_coverage_04.json"
+    ],
+    "max_acc_files": [
+      "../../../../result/tot_info/trace_081/full_path_00.json"
+    ],
+    "uncovered_lines": [
+      41,
+      150,
+      208,
+      244,
+      252,
+      293,
+      405
+    ],
+    "wrong_lines": []
+  },
+  "test_082": {
+    "ground_truth": "../cov_trace//trace_082.json",
+    "ana_result": "../../../../result/tot_info/trace_082",
+    "recall": [
+      0.925531914893617
+    ],
+    "precision": [
+      0.9733333333333334
+    ],
+    "accuracy": [
+      0.9800576113450034
+    ],
+    "max_recall_files": [
+      "../../../../result/tot_info/trace_082/full_path_coverage_00.json"
+    ],
+    "max_precision_files": [
+      "../../../../result/tot_info/trace_082/MPP_coverage_00.json"
+    ],
+    "max_acc_files": [
+      "../../../../result/tot_info/trace_082/full_path_00.json"
+    ],
+    "uncovered_lines": [
+      41,
+      150,
+      208,
+      244,
+      252,
+      293,
+      405
+    ],
+    "wrong_lines": [
+      [
+        127,
+        128
+      ]
+    ]
+  },
+  "test_083": {
+    "ground_truth": "../cov_trace//trace_083.json",
+    "ana_result": "../../../../result/tot_info/trace_083",
+    "recall": [
+      0.9238095238095239,
+      0.9238095238095239
+    ],
+    "precision": [
+      0.9736842105263158,
+      0.9736842105263158,
+      0.9736842105263158,
+      0.9733333333333334,
+      0.9736842105263158,
+      0.9736842105263158,
+      0.9736842105263158,
+      0.9733333333333334
+    ],
+    "accuracy": [
+      0.9827165964990029,
+      0.9827165964990029
+    ],
+    "max_recall_files": [
+      "../../../../result/tot_info/trace_083/full_path_coverage_00.json",
+      "../../../../result/tot_info/trace_083/full_path_coverage_01.json"
+    ],
+    "max_precision_files": [
+      "../../../../result/tot_info/trace_083/MPP_coverage_00.json",
+      "../../../../result/tot_info/trace_083/MPP_coverage_01.json",
+      "../../../../result/tot_info/trace_083/MPP_coverage_02.json",
+      "../../../../result/tot_info/trace_083/MPP_coverage_04.json",
+      "../../../../result/tot_info/trace_083/MPP_coverage_05.json",
+      "../../../../result/tot_info/trace_083/MPP_coverage_06.json"
+    ],
+    "max_acc_files": [
+      "../../../../result/tot_info/trace_083/full_path_00.json",
+      "../../../../result/tot_info/trace_083/full_path_00.json"
+    ],
+    "uncovered_lines": [
+      41,
+      150,
+      184,
+      208,
+      244,
+      252,
+      293,
+      405
+    ],
+    "wrong_lines": [
+      [
+        127,
+        128
+      ]
+    ]
+  },
+  "test_084": {
+    "ground_truth": "../cov_trace//trace_084.json",
+    "ana_result": "../../../../result/tot_info/trace_084",
+    "recall": [
+      0.7209302325581395
+    ],
+    "precision": [
+      0.84
+    ],
+    "accuracy": [
+      0.9778417903833371
+    ],
+    "max_recall_files": [
+      "../../../../result/tot_info/trace_084/full_path_coverage_00.json"
+    ],
+    "max_precision_files": [
+      "../../../../result/tot_info/trace_084/MPP_coverage_00.json"
+    ],
+    "max_acc_files": [
+      "../../../../result/tot_info/trace_084/full_path_00.json"
+    ],
+    "uncovered_lines": [
+      41,
+      150,
+      162,
+      164,
+      166,
+      169,
+      170,
+      172,
+      174,
+      175,
+      177,
+      184,
+      191,
+      194,
+      196,
+      198,
+      200,
+      201,
+      244,
+      248,
+      252,
+      256,
+      293,
+      405
+    ],
+    "wrong_lines": [
+      [
+        71,
+        72
+      ],
+      [
+        127,
+        128
+      ]
+    ]
+  },
+  "test_085": {
+    "ground_truth": "../cov_trace//trace_085.json",
+    "ana_result": "../../../../result/tot_info/trace_085",
+    "recall": [
+      0.9347826086956522
+    ],
+    "precision": [
+      0.8461538461538461,
+      0.8461538461538461,
+      0.84
+    ],
+    "accuracy": [
+      0.9842676711721693
+    ],
+    "max_recall_files": [
+      "../../../../result/tot_info/trace_085/full_path_coverage_00.json"
+    ],
+    "max_precision_files": [
+      "../../../../result/tot_info/trace_085/MPP_coverage_00.json",
+      "../../../../result/tot_info/trace_085/MPP_coverage_01.json"
+    ],
+    "max_acc_files": [
+      "../../../../result/tot_info/trace_085/full_path_00.json"
+    ],
+    "uncovered_lines": [
+      41,
+      293,
+      405
+    ],
+    "wrong_lines": [
+      [
+        71,
+        72
+      ],
+      [
+        127,
+        128
+      ]
+    ]
+  },
+  "test_086": {
+    "ground_truth": "../cov_trace//trace_086.json",
+    "ana_result": "../../../../result/tot_info/trace_086",
+    "recall": [
+      0.9285714285714286
+    ],
+    "precision": [
+      0.8571428571428571
+    ],
+    "accuracy": [
+      0.9725238200753379
+    ],
+    "max_recall_files": [
+      "../../../../result/tot_info/trace_086/full_path_coverage_00.json"
+    ],
+    "max_precision_files": [
+      "../../../../result/tot_info/trace_086/MPP_coverage_00.json"
+    ],
+    "max_acc_files": [
+      "../../../../result/tot_info/trace_086/full_path_00.json"
+    ],
+    "uncovered_lines": [
+      41
+    ],
+    "wrong_lines": [
+      [
+        127,
+        128
+      ]
+    ]
+  },
+  "test_087": {
+    "ground_truth": "../cov_trace//trace_087.json",
+    "ana_result": "../../../../result/tot_info/trace_087",
+    "recall": [
+      0.9292929292929293
+    ],
+    "precision": [
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0
+    ],
+    "accuracy": [
+      0.9800576113450034
+    ],
+    "max_recall_files": [
+      "../../../../result/tot_info/trace_087/full_path_coverage_00.json"
+    ],
+    "max_precision_files": [
+      "../../../../result/tot_info/trace_087/MPP_coverage_00.json",
+      "../../../../result/tot_info/trace_087/MPP_coverage_01.json",
+      "../../../../result/tot_info/trace_087/MPP_coverage_02.json",
+      "../../../../result/tot_info/trace_087/MPP_coverage_03.json",
+      "../../../../result/tot_info/trace_087/MPP_coverage_04.json"
+    ],
+    "max_acc_files": [
+      "../../../../result/tot_info/trace_087/full_path_00.json"
+    ],
+    "uncovered_lines": [
+      41,
+      150,
+      208,
+      244,
+      252,
+      293,
+      405
+    ],
+    "wrong_lines": []
+  },
+  "test_088": {
+    "ground_truth": "../cov_trace//trace_088.json",
+    "ana_result": "../../../../result/tot_info/trace_088",
+    "recall": [
+      0.7272727272727273
+    ],
+    "precision": [
+      0.8461538461538461,
+      0.84
+    ],
+    "accuracy": [
+      0.9773986261910038
+    ],
+    "max_recall_files": [
+      "../../../../result/tot_info/trace_088/full_path_coverage_00.json"
+    ],
+    "max_precision_files": [
+      "../../../../result/tot_info/trace_088/MPP_coverage_00.json"
+    ],
+    "max_acc_files": [
+      "../../../../result/tot_info/trace_088/full_path_00.json"
+    ],
+    "uncovered_lines": [
+      41,
+      150,
+      162,
+      164,
+      166,
+      169,
+      170,
+      172,
+      174,
+      175,
+      177,
+      184,
+      191,
+      194,
+      196,
+      198,
+      200,
+      201,
+      244,
+      248,
+      252,
+      256,
+      293,
+      405
+    ],
+    "wrong_lines": [
+      [
+        71,
+        72
+      ],
+      [
+        127,
+        128
+      ]
+    ]
+  },
+  "test_089": {
+    "ground_truth": "../cov_trace//trace_089.json",
+    "ana_result": "../../../../result/tot_info/trace_089",
+    "recall": [
+      0.594059405940594
+    ],
+    "precision": [
+      0.84
+    ],
+    "accuracy": [
+      0.9738533126523377
+    ],
+    "max_recall_files": [
+      "../../../../result/tot_info/trace_089/full_path_coverage_00.json"
+    ],
+    "max_precision_files": [
+      "../../../../result/tot_info/trace_089/MPP_coverage_00.json"
+    ],
+    "max_acc_files": [
+      "../../../../result/tot_info/trace_089/full_path_00.json"
+    ],
+    "uncovered_lines": [
+      41,
+      150,
+      162,
+      164,
+      166,
+      169,
+      170,
+      172,
+      174,
+      175,
+      177,
+      184,
+      191,
+      194,
+      196,
+      198,
+      200,
+      201,
+      208,
+      212,
+      213,
+      215,
+      218,
+      219,
+      221,
+      222,
+      223,
+      224,
+      225,
+      227,
+      229,
+      231,
+      233,
+      234,
+      236,
+      244,
+      248,
+      252,
+      256,
+      293,
+      405
+    ],
+    "wrong_lines": [
+      [
+        71,
+        72
+      ],
+      [
+        127,
+        128
+      ]
+    ]
+  },
+  "test_090": {
+    "ground_truth": "../cov_trace//trace_090.json",
+    "ana_result": "../../../../result/tot_info/trace_090",
+    "recall": [
+      0.673469387755102
+    ],
+    "precision": [
+      0.9230769230769231,
+      0.9230769230769231,
+      0.9230769230769231,
+      0.92
+    ],
+    "accuracy": [
+      0.9776202082871704
+    ],
+    "max_recall_files": [
+      "../../../../result/tot_info/trace_090/full_path_coverage_00.json"
+    ],
+    "max_precision_files": [
+      "../../../../result/tot_info/trace_090/MPP_coverage_00.json",
+      "../../../../result/tot_info/trace_090/MPP_coverage_01.json",
+      "../../../../result/tot_info/trace_090/MPP_coverage_02.json"
+    ],
+    "max_acc_files": [
+      "../../../../result/tot_info/trace_090/full_path_00.json"
+    ],
+    "uncovered_lines": [
+      41,
+      150,
+      162,
+      169,
+      170,
+      172,
+      174,
+      175,
+      177,
+      208,
+      212,
+      213,
+      215,
+      218,
+      219,
+      221,
+      222,
+      223,
+      224,
+      225,
+      227,
+      229,
+      231,
+      233,
+      234,
+      236,
+      244,
+      248,
+      252,
+      256,
+      293,
+      405
+    ],
+    "wrong_lines": [
+      [
+        127,
+        128
+      ]
+    ]
+  },
+  "test_091": {
+    "ground_truth": "../cov_trace//trace_091.json",
+    "ana_result": "../../../../result/tot_info/trace_091",
+    "recall": [
+      0.9238095238095239,
+      0.9238095238095239
+    ],
+    "precision": [
+      0.9736842105263158,
+      0.9736842105263158,
+      0.9736842105263158,
+      0.9733333333333334,
+      0.9736842105263158,
+      0.9736842105263158,
+      0.9736842105263158,
+      0.9733333333333334
+    ],
+    "accuracy": [
+      0.9827165964990029,
+      0.9827165964990029
+    ],
+    "max_recall_files": [
+      "../../../../result/tot_info/trace_091/full_path_coverage_00.json",
+      "../../../../result/tot_info/trace_091/full_path_coverage_01.json"
+    ],
+    "max_precision_files": [
+      "../../../../result/tot_info/trace_091/MPP_coverage_00.json",
+      "../../../../result/tot_info/trace_091/MPP_coverage_01.json",
+      "../../../../result/tot_info/trace_091/MPP_coverage_02.json",
+      "../../../../result/tot_info/trace_091/MPP_coverage_04.json",
+      "../../../../result/tot_info/trace_091/MPP_coverage_05.json",
+      "../../../../result/tot_info/trace_091/MPP_coverage_06.json"
+    ],
+    "max_acc_files": [
+      "../../../../result/tot_info/trace_091/full_path_00.json",
+      "../../../../result/tot_info/trace_091/full_path_00.json"
+    ],
+    "uncovered_lines": [
+      41,
+      150,
+      184,
+      208,
+      244,
+      252,
+      293,
+      405
+    ],
+    "wrong_lines": [
+      [
+        127,
+        128
+      ]
+    ]
+  },
+  "test_092": {
+    "ground_truth": "../cov_trace//trace_092.json",
+    "ana_result": "../../../../result/tot_info/trace_092",
+    "recall": [
+      0.9278350515463918
+    ],
+    "precision": [
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0
+    ],
+    "accuracy": [
+      0.9798360292488367
+    ],
+    "max_recall_files": [
+      "../../../../result/tot_info/trace_092/full_path_coverage_00.json"
+    ],
+    "max_precision_files": [
+      "../../../../result/tot_info/trace_092/MPP_coverage_00.json",
+      "../../../../result/tot_info/trace_092/MPP_coverage_01.json",
+      "../../../../result/tot_info/trace_092/MPP_coverage_02.json",
+      "../../../../result/tot_info/trace_092/MPP_coverage_03.json",
+      "../../../../result/tot_info/trace_092/MPP_coverage_04.json"
+    ],
+    "max_acc_files": [
+      "../../../../result/tot_info/trace_092/full_path_00.json"
+    ],
+    "uncovered_lines": [
+      41,
+      150,
+      208,
+      244,
+      252,
+      293,
+      405
+    ],
+    "wrong_lines": []
+  },
+  "test_093": {
+    "ground_truth": "../cov_trace//trace_093.json",
+    "ana_result": "../../../../result/tot_info/trace_093",
+    "recall": [
+      0.6521739130434783
+    ],
+    "precision": [
+      0.84
+    ],
+    "accuracy": [
+      0.9769554619986706
+    ],
+    "max_recall_files": [
+      "../../../../result/tot_info/trace_093/full_path_coverage_00.json"
+    ],
+    "max_precision_files": [
+      "../../../../result/tot_info/trace_093/MPP_coverage_00.json"
+    ],
+    "max_acc_files": [
+      "../../../../result/tot_info/trace_093/full_path_00.json"
+    ],
+    "uncovered_lines": [
+      41,
+      150,
+      162,
+      169,
+      170,
+      172,
+      174,
+      175,
+      177,
+      208,
+      212,
+      213,
+      215,
+      218,
+      219,
+      221,
+      222,
+      223,
+      224,
+      225,
+      227,
+      229,
+      231,
+      233,
+      234,
+      236,
+      244,
+      248,
+      252,
+      256,
+      293,
+      405
+    ],
+    "wrong_lines": [
+      [
+        71,
+        72
+      ],
+      [
+        127,
+        128
+      ]
+    ]
+  },
+  "test_094": {
+    "ground_truth": "../cov_trace//trace_094.json",
+    "ana_result": "../../../../result/tot_info/trace_094",
+    "recall": [
+      0.9278350515463918
+    ],
+    "precision": [
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0
+    ],
+    "accuracy": [
+      0.9798360292488367
+    ],
+    "max_recall_files": [
+      "../../../../result/tot_info/trace_094/full_path_coverage_00.json"
+    ],
+    "max_precision_files": [
+      "../../../../result/tot_info/trace_094/MPP_coverage_00.json",
+      "../../../../result/tot_info/trace_094/MPP_coverage_01.json",
+      "../../../../result/tot_info/trace_094/MPP_coverage_02.json",
+      "../../../../result/tot_info/trace_094/MPP_coverage_03.json",
+      "../../../../result/tot_info/trace_094/MPP_coverage_04.json"
+    ],
+    "max_acc_files": [
+      "../../../../result/tot_info/trace_094/full_path_00.json"
+    ],
+    "uncovered_lines": [
+      41,
+      150,
+      208,
+      244,
+      252,
+      293,
+      405
+    ],
+    "wrong_lines": []
+  },
+  "test_095": {
+    "ground_truth": "../cov_trace//trace_095.json",
+    "ana_result": "../../../../result/tot_info/trace_095",
+    "recall": [
+      0.9090909090909091
+    ],
+    "precision": [
+      0.972972972972973
+    ],
+    "accuracy": [
+      0.9842676711721693
+    ],
+    "max_recall_files": [
+      "../../../../result/tot_info/trace_095/full_path_coverage_00.json"
+    ],
+    "max_precision_files": [
+      "../../../../result/tot_info/trace_095/MPP_coverage_00.json"
+    ],
+    "max_acc_files": [
+      "../../../../result/tot_info/trace_095/full_path_00.json"
+    ],
+    "uncovered_lines": [
+      41,
+      63,
+      150,
+      184,
+      208,
+      244,
+      252,
+      293,
+      405
+    ],
+    "wrong_lines": [
+      [
+        127,
+        128
+      ]
+    ]
+  },
+  "test_096": {
+    "ground_truth": "../cov_trace//trace_096.json",
+    "ana_result": "../../../../result/tot_info/trace_096",
+    "recall": [
+      0.9
+    ],
+    "precision": [
+      0.972972972972973
+    ],
+    "accuracy": [
+      0.9811655218258365
+    ],
+    "max_recall_files": [
+      "../../../../result/tot_info/trace_096/full_path_coverage_00.json"
+    ],
+    "max_precision_files": [
+      "../../../../result/tot_info/trace_096/MPP_coverage_00.json"
+    ],
+    "max_acc_files": [
+      "../../../../result/tot_info/trace_096/full_path_00.json"
+    ],
+    "uncovered_lines": [
+      41,
+      63,
+      150,
+      184,
+      244,
+      252,
+      293,
+      405
+    ],
+    "wrong_lines": [
+      [
+        127,
+        128
+      ]
+    ]
+  },
+  "test_097": {
+    "ground_truth": "../cov_trace//trace_097.json",
+    "ana_result": "../../../../result/tot_info/trace_097",
+    "recall": [
+      0.9292929292929293
+    ],
+    "precision": [
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0
+    ],
+    "accuracy": [
+      0.9800576113450034
+    ],
+    "max_recall_files": [
+      "../../../../result/tot_info/trace_097/full_path_coverage_00.json"
+    ],
+    "max_precision_files": [
+      "../../../../result/tot_info/trace_097/MPP_coverage_00.json",
+      "../../../../result/tot_info/trace_097/MPP_coverage_01.json",
+      "../../../../result/tot_info/trace_097/MPP_coverage_02.json",
+      "../../../../result/tot_info/trace_097/MPP_coverage_03.json",
+      "../../../../result/tot_info/trace_097/MPP_coverage_04.json"
+    ],
+    "max_acc_files": [
+      "../../../../result/tot_info/trace_097/full_path_00.json"
+    ],
+    "uncovered_lines": [
+      41,
+      150,
+      208,
+      244,
+      252,
+      293,
+      405
+    ],
+    "wrong_lines": []
+  },
+  "test_098": {
+    "ground_truth": "../cov_trace//trace_098.json",
+    "ana_result": "../../../../result/tot_info/trace_098",
+    "recall": [
+      0.9207920792079208,
+      0.9207920792079208,
+      0.9207920792079208
+    ],
+    "precision": [
+      0.9733333333333334,
+      0.9733333333333334,
+      0.9733333333333334
+    ],
+    "accuracy": [
+      0.9829381785951695,
+      0.9829381785951695,
+      0.9829381785951695
+    ],
+    "max_recall_files": [
+      "../../../../result/tot_info/trace_098/full_path_coverage_00.json",
+      "../../../../result/tot_info/trace_098/full_path_coverage_01.json",
+      "../../../../result/tot_info/trace_098/full_path_coverage_02.json"
+    ],
+    "max_precision_files": [
+      "../../../../result/tot_info/trace_098/MPP_coverage_00.json",
+      "../../../../result/tot_info/trace_098/MPP_coverage_01.json",
+      "../../../../result/tot_info/trace_098/MPP_coverage_02.json"
+    ],
+    "max_acc_files": [
+      "../../../../result/tot_info/trace_098/full_path_00.json",
+      "../../../../result/tot_info/trace_098/full_path_00.json",
+      "../../../../result/tot_info/trace_098/full_path_00.json"
+    ],
+    "uncovered_lines": [
+      41,
+      150,
+      184,
+      208,
+      244,
+      252,
+      293,
+      405
+    ],
+    "wrong_lines": [
+      [
+        127,
+        128
+      ]
+    ]
+  },
+  "test_099": {
+    "ground_truth": "../cov_trace//trace_099.json",
+    "ana_result": "../../../../result/tot_info/trace_099",
+    "recall": [
+      0.9238095238095239,
+      0.9238095238095239,
+      0.9238095238095239,
+      0.9238095238095239,
+      0.9238095238095239
+    ],
+    "precision": [
+      0.9736842105263158,
+      0.9736842105263158,
+      0.9736842105263158,
+      0.9736842105263158,
+      0.9736842105263158,
+      0.9736842105263158,
+      0.9736842105263158,
+      0.9733333333333334,
+      0.9736842105263158,
+      0.9736842105263158,
+      0.9736842105263158,
+      0.9736842105263158,
+      0.9736842105263158,
+      0.9736842105263158,
+      0.9736842105263158,
+      0.9733333333333334,
+      0.9736842105263158,
+      0.9736842105263158,
+      0.9736842105263158,
+      0.9736842105263158,
+      0.9736842105263158,
+      0.9736842105263158,
+      0.9736842105263158,
+      0.9733333333333334,
+      0.9736842105263158,
+      0.9736842105263158,
+      0.9736842105263158,
+      0.9736842105263158,
+      0.9736842105263158,
+      0.9736842105263158,
+      0.9736842105263158,
+      0.9733333333333334,
+      0.9736842105263158,
+      0.9736842105263158,
+      0.9736842105263158,
+      0.9736842105263158,
+      0.9736842105263158,
+      0.9736842105263158,
+      0.9736842105263158,
+      0.9733333333333334
+    ],
+    "accuracy": [
+      0.9829381785951695,
+      0.9829381785951695,
+      0.9829381785951695,
+      0.9829381785951695,
+      0.9829381785951695
+    ],
+    "max_recall_files": [
+      "../../../../result/tot_info/trace_099/full_path_coverage_00.json",
+      "../../../../result/tot_info/trace_099/full_path_coverage_01.json",
+      "../../../../result/tot_info/trace_099/full_path_coverage_02.json",
+      "../../../../result/tot_info/trace_099/full_path_coverage_03.json",
+      "../../../../result/tot_info/trace_099/full_path_coverage_04.json"
+    ],
+    "max_precision_files": [
+      "../../../../result/tot_info/trace_099/MPP_coverage_00.json",
+      "../../../../result/tot_info/trace_099/MPP_coverage_01.json",
+      "../../../../result/tot_info/trace_099/MPP_coverage_02.json",
+      "../../../../result/tot_info/trace_099/MPP_coverage_03.json",
+      "../../../../result/tot_info/trace_099/MPP_coverage_04.json",
+      "../../../../result/tot_info/trace_099/MPP_coverage_05.json",
+      "../../../../result/tot_info/trace_099/MPP_coverage_06.json",
+      "../../../../result/tot_info/trace_099/MPP_coverage_08.json",
+      "../../../../result/tot_info/trace_099/MPP_coverage_09.json",
+      "../../../../result/tot_info/trace_099/MPP_coverage_10.json",
+      "../../../../result/tot_info/trace_099/MPP_coverage_11.json",
+      "../../../../result/tot_info/trace_099/MPP_coverage_12.json",
+      "../../../../result/tot_info/trace_099/MPP_coverage_13.json",
+      "../../../../result/tot_info/trace_099/MPP_coverage_14.json",
+      "../../../../result/tot_info/trace_099/MPP_coverage_16.json",
+      "../../../../result/tot_info/trace_099/MPP_coverage_17.json",
+      "../../../../result/tot_info/trace_099/MPP_coverage_18.json",
+      "../../../../result/tot_info/trace_099/MPP_coverage_19.json",
+      "../../../../result/tot_info/trace_099/MPP_coverage_20.json",
+      "../../../../result/tot_info/trace_099/MPP_coverage_21.json",
+      "../../../../result/tot_info/trace_099/MPP_coverage_22.json",
+      "../../../../result/tot_info/trace_099/MPP_coverage_24.json",
+      "../../../../result/tot_info/trace_099/MPP_coverage_25.json",
+      "../../../../result/tot_info/trace_099/MPP_coverage_26.json",
+      "../../../../result/tot_info/trace_099/MPP_coverage_27.json",
+      "../../../../result/tot_info/trace_099/MPP_coverage_28.json",
+      "../../../../result/tot_info/trace_099/MPP_coverage_29.json",
+      "../../../../result/tot_info/trace_099/MPP_coverage_30.json",
+      "../../../../result/tot_info/trace_099/MPP_coverage_32.json",
+      "../../../../result/tot_info/trace_099/MPP_coverage_33.json",
+      "../../../../result/tot_info/trace_099/MPP_coverage_34.json",
+      "../../../../result/tot_info/trace_099/MPP_coverage_35.json",
+      "../../../../result/tot_info/trace_099/MPP_coverage_36.json",
+      "../../../../result/tot_info/trace_099/MPP_coverage_37.json",
+      "../../../../result/tot_info/trace_099/MPP_coverage_38.json"
+    ],
+    "max_acc_files": [
+      "../../../../result/tot_info/trace_099/full_path_00.json",
+      "../../../../result/tot_info/trace_099/full_path_00.json",
+      "../../../../result/tot_info/trace_099/full_path_00.json",
+      "../../../../result/tot_info/trace_099/full_path_00.json",
+      "../../../../result/tot_info/trace_099/full_path_00.json"
+    ],
+    "uncovered_lines": [
+      41,
+      150,
+      184,
+      208,
+      244,
+      252,
+      293,
+      405
+    ],
+    "wrong_lines": [
+      [
+        127,
+        128
+      ]
+    ]
+  },
+  "test_100": {
+    "ground_truth": "../cov_trace//trace_100.json",
+    "ana_result": "../../../../result/tot_info/trace_100",
+    "recall": [
+      0.9207920792079208,
+      0.9207920792079208
+    ],
+    "precision": [
+      0.9736842105263158,
+      0.9733333333333334,
+      0.9736842105263158,
+      0.9733333333333334
+    ],
+    "accuracy": [
+      0.9827165964990029,
+      0.9827165964990029
+    ],
+    "max_recall_files": [
+      "../../../../result/tot_info/trace_100/full_path_coverage_00.json",
+      "../../../../result/tot_info/trace_100/full_path_coverage_01.json"
+    ],
+    "max_precision_files": [
+      "../../../../result/tot_info/trace_100/MPP_coverage_00.json",
+      "../../../../result/tot_info/trace_100/MPP_coverage_02.json"
+    ],
+    "max_acc_files": [
+      "../../../../result/tot_info/trace_100/full_path_00.json",
+      "../../../../result/tot_info/trace_100/full_path_00.json"
+    ],
+    "uncovered_lines": [
+      41,
+      150,
+      184,
+      208,
+      244,
+      252,
+      293,
+      405
+    ],
+    "wrong_lines": [
+      [
+        127,
+        128
+      ]
+    ]
+  }
+}

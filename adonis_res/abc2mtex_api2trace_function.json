@@ -1,0 +1,76 @@
+{
+  "atof": [
+    "atof$"
+  ],
+  "atoi": [
+    "atoi$"
+  ],
+  "exit": [
+    "exit$"
+  ],
+  "fclose": [
+    "fclose$"
+  ],
+  "fflush": [
+    "fflush$"
+  ],
+  "fgets": [
+    "fgets$"
+  ],
+  "fopen": [
+    "fopen$"
+  ],
+  "fprintf": [
+    "fprintf$",
+    "fputc$",
+    "fputs$",
+    "fwrite$"
+  ],
+  "fputc": [
+    "fputc$"
+  ],
+  "fputs": [
+    "fputs$"
+  ],
+  "fwrite": [
+    "fwrite$"
+  ],
+  "printf": [
+    "printf$",
+    "putc$",
+    "puts$"
+  ],
+  "putchar": [
+    "putchar$"
+  ],
+  "puts": [
+    "puts$"
+  ],
+  "strcat": [
+    "strcat$"
+  ],
+  "strchr": [
+    "strchr$"
+  ],
+  "strcmp": [
+    "strcmp$"
+  ],
+  "strlen": [
+    "strlen$"
+  ],
+  "strncat": [
+    "strncat$"
+  ],
+  "strncmp": [
+    "strncmp$"
+  ],
+  "strncpy": [
+    "strncpy$"
+  ],
+  "strpbrk": [
+    "strpbrk$"
+  ],
+  "strrchr": [
+    "strrchr$"
+  ]
+}

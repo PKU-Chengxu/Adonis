@@ -1,0 +1,10 @@
+-- vim: set filetype=sql:
+CREATE TABLE t1(a PRIMARY KEY, b);
+  CREATE INDEX i1 ON t1(b);
+  INSERT INTO t1 VALUES(1, 2);
+  INSERT INTO t1 VALUES(3, 4);
+  INSERT INTO t1 VALUES(5, 6);
+  INSERT INTO t1 VALUES(7, 8);
+
+BEGIN;
+      UPDATE t1 SET b=b+1;

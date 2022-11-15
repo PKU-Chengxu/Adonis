@@ -1,0 +1,5 @@
+{
+  "coap": [
+    "LD_PRELOAD=../source/coap-decompile-hooking.so ../source/coap & ../source/client"
+  ]
+}

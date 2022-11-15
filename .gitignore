@@ -1,0 +1,15 @@
+.DS_Store
+__pycache__
+*/__pycache__
+octopus/*/__pycache__
+.idea
+.vscode
+out.txt
+log/
+go_samples.nosync/div_zero/main.c
+go_samples.nosync/div_zero/main.h
+go_samples.nosync/div_zero/tinygo_main.c
+go_samples.nosync/div_zero/tinygo_main.h
+paper_experiments/app/*/outputs/
+paper_experiments/app/*/*_trace/
+result/

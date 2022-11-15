@@ -1,0 +1,133 @@
+{
+  "atoi": [
+    "atoi$"
+  ],
+  "bind": [
+    "bind$"
+  ],
+  "close": [
+    "close$"
+  ],
+  "connect": [
+    "connect$"
+  ],
+  "exit": [
+    "exit$"
+  ],
+  "fclose": [
+    "fclose$"
+  ],
+  "feof": [
+    "feof$"
+  ],
+  "ferror": [
+    "ferror$"
+  ],
+  "fgets": [
+    "fgets$"
+  ],
+  "fopen": [
+    "fopen$"
+  ],
+  "fprintf": [
+    "fprintf$",
+    "fputc$",
+    "fputs$",
+    "fwrite$"
+  ],
+  "fputc": [
+    "fputc$"
+  ],
+  "fputs": [
+    "fputs$"
+  ],
+  "fread": [
+    "fread$"
+  ],
+  "freeaddrinfo": [
+    "freeaddrinfo$"
+  ],
+  "fwrite": [
+    "fwrite$"
+  ],
+  "gai_strerror": [
+    "gai_strerror$"
+  ],
+  "getaddrinfo": [
+    "getaddrinfo$"
+  ],
+  "getnameinfo": [
+    "getnameinfo$"
+  ],
+  "getopt_long": [
+    "getopt_long$"
+  ],
+  "getpid": [
+    "getpid$"
+  ],
+  "htonl": [
+    "htonl$"
+  ],
+  "htons": [
+    "htons$"
+  ],
+  "inet_ntop": [
+    "inet_ntop$"
+  ],
+  "localtime": [
+    "localtime$"
+  ],
+  "memset": [
+    "memset$"
+  ],
+  "ntohs": [
+    "ntohs$"
+  ],
+  "perror": [
+    "perror$"
+  ],
+  "printf": [
+    "printf$",
+    "putc$",
+    "puts$"
+  ],
+  "putchar": [
+    "putchar$"
+  ],
+  "puts": [
+    "puts$"
+  ],
+  "recvfrom": [
+    "recvfrom$"
+  ],
+  "select": [
+    "select$"
+  ],
+  "send": [
+    "send$"
+  ],
+  "setsockopt": [
+    "setsockopt$"
+  ],
+  "socket": [
+    "socket$"
+  ],
+  "strcmp": [
+    "strcmp$"
+  ],
+  "strerror": [
+    "strerror$"
+  ],
+  "strftime": [
+    "strftime$"
+  ],
+  "strlen": [
+    "strlen$"
+  ],
+  "strncpy": [
+    "strncpy$"
+  ],
+  "strpbrk": [
+    "strpbrk$"
+  ]
+}

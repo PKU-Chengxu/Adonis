@@ -1,0 +1,8 @@
+{
+  "abc2mtex": [
+    "LD_PRELOAD=../source/abc2mtex-decompile-hooking.so ../source/abc2mtex ../inputs/English.abc",
+    "LD_PRELOAD=../source/abc2mtex-decompile-hooking.so ../source/abc2mtex ../inputs/Jigs.abc",
+    "LD_PRELOAD=../source/abc2mtex-decompile-hooking.so ../source/abc2mtex ../inputs/Reels.abc",
+    "LD_PRELOAD=../source/abc2mtex-decompile-hooking.so ../source/abc2mtex ../inputs/Strspys.abc"
+  ]
+}

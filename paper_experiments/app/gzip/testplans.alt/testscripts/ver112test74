@@ -1,0 +1,7 @@
+echo ""
+echo "<<<<<<<<<<<<<Copying misplaced 34filea to outputs directory"
+echo ""
+
+cp ${ARISTOTLE_DB_DIR}/inputs/gzfile/34filea ${ARISTOTLE_DB_DIR}/outputs/gzfile/test74
+
+rm -f ${ARISTOTLE_DB_DIR}/inputs/gzfile/34filea
