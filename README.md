@@ -49,7 +49,7 @@ For paper experiments, please see more details in paper_experiments folder.
 
 ### 2022.09.08
 
-- Add `sqlite3` application to `paper_experiments` dir, our evaluation results can be found at `paper_experiments/app/sqlite/sqlite_eva_result.json`.
+- Add `sqlite3` application to `paper_experiments` dir.
 - Improve the initialization speed, including coverage information calculation speed and format string extraction speed.
 - Solve several bugs that would result in infinite loop.
 
